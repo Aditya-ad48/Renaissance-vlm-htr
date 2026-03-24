@@ -1,0 +1,39 @@
+# RenAIssance OCR — Python dependencies
+# Install with: pip install -r requirements.txt
+#
+# SYSTEM DEPENDENCY (not pip):
+#   pandoc >= 2.x  — used by dataset.py to parse GT .docx files
+#   Install: brew install pandoc (Mac) | apt install pandoc (Linux/Kaggle)
+
+# ── Core ML ──────────────────────────────────────────────────
+torch>=2.1.0
+torchvision>=0.16.0
+transformers>=4.45.0
+accelerate>=1.2.0        
+peft>=0.18.1             
+bitsandbytes>=0.43.0
+datasets>=2.14.0
+
+# ── Qwen2-VL ─────────────────────────────────────────────────
+qwen-vl-utils>=0.0.8
+
+# ── Document OCR (Stage 2 line segmentation) ─────────────────
+python-doctr[torch]>=0.8.1    # DocTR: db_resnet50 word detector
+
+# ── Computer vision / image processing ───────────────────────
+opencv-python-headless>=4.8.0
+pymupdf>=1.23.0               # PDF → image (fitz)
+Pillow>=10.0.0
+scikit-image>=0.21.0          # skimage (used in pipeline.py)
+
+# ── Evaluation metrics ────────────────────────────────────────
+jiwer>=3.0.3                  # CER, WER
+bert-score>=0.3.13            # BERTScore (Spanish BERT)
+nltk>=3.8.1                   # BLEU tokenisation
+
+
+# ── Utilities ─────────────────────────────────────────────────
+numpy>=1.24.0
+matplotlib>=3.7.0
+pandas>=2.0.0           
+tqdm>=4.65.0
