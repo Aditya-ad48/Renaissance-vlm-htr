@@ -1,0 +1,354 @@
+{
+  "page": "source4_p003",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      2495,
+      1860
+    ],
+    "has_marginalia": false,
+    "raw_response": "330 168 169 y por la sabecasta se mandaua cumplida la primera carta y seucia los 16. g° de ms por la escreuageny del juro por la jll a 17 de septiembre de 153"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        618,
+        106,
+        2360,
+        211
+      ],
+      "draft": "Semanda cumplta la primera carta",
+      "final": "Semanda cumplta la primera carta",
+      "confidence": 0.8125,
+      "method": "kept"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        596,
+        171,
+        1961,
+        265
+      ],
+      "draft": "y de mis por la decapar del Juro 23 nnero de 1552. años Por la tracia: y qe de mis por la decapar del Juro 23",
+      "final": "y de mis por la decapar del Juro 23 nnero de 1552. años. Por la tracia: y qe de mis por la decapar del Juro 23",
+      "confidence": 0.1630859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        441,
+        198,
+        2324,
+        357
+      ],
+      "draft": "16 de agosto de l. d. 1373. años. el monje dō Por manera que despues de muerto El Conde Don Ani",
+      "final": "16 de agosto de l. d. 1373. años. el monje dō Por manera que despues de muerto El Conde Don Aniño, puso VIuio el op Marçeo don Pedro. E año. 139. Diosis en equino tiempos y po de aller y le portenieran // y",
+      "confidence": 0.0125732421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        475,
+        308,
+        2331,
+        442
+      ],
+      "draft": "de tres dias requa de Alonso de Baer, y qe ocmbi y que passado A termino el alonso y para los deposite, ca en en",
+      "final": "de tres dias requa de Alonso de Baer, y qe ocmbi y que passado A termino el alonso para los depotes que eran en el lago y qe le quier qe le quier qe le quier qe le quier qe le quier qe le quier qe le quieren qe le quieren",
+      "confidence": 0.005767822265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        528,
+        398,
+        2336,
+        498
+      ],
+      "draft": "17 y 35 V625 m² Demanda los dha Señorio, a los Conde Don Juan",
+      "final": "17 y 35 V625 m² Demanda los dha Señorio. a los Conde Don Juan",
+      "confidence": 0.1416015625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        492,
+        452,
+        2343,
+        589
+      ],
+      "draft": "Valladolid la que el corregidor o juterienses Ca qual persona no auia con los suos mes",
+      "final": "Valladolid la que el corregidor o juterienses Ca qual persona no auda con los suos mes",
+      "confidence": 0.0810546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        479,
+        542,
+        2358,
+        630
+      ],
+      "draft": "E uerō 147 ¶ Con seretibo septentrio en el confijo De Contaduria mayor",
+      "final": "E uerō 147 ¶ Con seretibo septentrio en el confuso de Contaduria mayor",
+      "confidence": 0.392578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        511,
+        583,
+        2331,
+        674
+      ],
+      "draft": "e sopena que lo querieres de otra manera",
+      "final": "e sopena que lo querieres de otra manera",
+      "confidence": 0.439453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        489,
+        632,
+        2351,
+        723
+      ],
+      "draft": "131 ¶ chrīstiana necicia esta de quāuāntio porqe",
+      "final": "113 ¶ christiana necicia esta de quāuātura porqe",
+      "confidence": 0.002471923828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        545,
+        676,
+        2341,
+        774
+      ],
+      "draft": "que el y Conde Don Alconso en su casa",
+      "final": "que el y Conde Don Alconso en su casa",
+      "confidence": 0.0220947265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        455,
+        725,
+        2324,
+        818
+      ],
+      "draft": "despues qe suso privilegio expurgatorio de ejp.",
+      "final": "despues despues privaigo experiencia de cierto",
+      "confidence": 0.0023345947265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        450,
+        766,
+        1997,
+        854
+      ],
+      "draft": "paso algunos el astrales segun los pares ses caua nel las es, en que Saziendo menion del lo que dezera el. El Cuer. De A",
+      "final": "paso algunos el astrales segun los pares ses Cauallos es, en que Saziendo menion del lo que dezera el. El Conde de Tarragona.",
+      "confidence": 0.0101318359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        443,
+        798,
+        2304,
+        915
+      ],
+      "draft": "cavna dellas es, en que saziendo mengon de lo d thatexa al dosi Conde Don Antonio su hijo",
+      "final": "cavna dellas es, en que saziendo mengon de lo qe dexa al dosi Conde Don Antonio su hijo",
+      "confidence": 0.07470703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        572,
+        868,
+        2097,
+        947
+      ],
+      "draft": "de le juro dobiendo que le dexa a los // 110 204 coria Muça su semana tres ararri",
+      "final": "de le juro dobiendo que le dexa a los // 110 204 era Muça su semana tres arriera",
+      "confidence": 0.03466796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        518,
+        907,
+        1671,
+        1000
+      ],
+      "draft": "Antonio - y en otro tam bien Sagemen que dexa dosi A la sori qe era Egi",
+      "final": "Antonio - y en otro tam bien Sagemen que dexa al rei -",
+      "confidence": 0.006744384765625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        421,
+        954,
+        2329,
+        1042
+      ],
+      "draft": "delo que dexa a los Marques don Pedro. y dize",
+      "final": "delo que dexa a los Marques don Pedro. y dize",
+      "confidence": 0.3046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        404,
+        1002,
+        2324,
+        1098
+      ],
+      "draft": "no pueda pedir mas por su legitimita, pero despues",
+      "final": "no pueda pedir mas por su legitimita, pero despues",
+      "confidence": 0.3125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        506,
+        1061,
+        2295,
+        1139
+      ],
+      "draft": "mas en particular Deste Juno rone esta clau Marquis don Pedro a depagar alos de Sevedes",
+      "final": "mas en particular Deste Juno rone esta clau Marquis don Pedro a depagar al ojo los señeros qe",
+      "confidence": 0.1455078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        450,
+        1127,
+        1695,
+        1227
+      ],
+      "draft": "que el ojo Don Antonio aya a los dō do qe",
+      "final": "que el ojo Don Antonio aya Alos gūdo qe",
+      "confidence": 0.189453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        414,
+        1197,
+        2317,
+        1317
+      ],
+      "draft": "moderprāvida que le compre según lo me le con",
+      "final": "moderprāvida que le compre según lo me le con",
+      "confidence": 0.0023345947265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        487,
+        1287,
+        2304,
+        1368
+      ],
+      "draft": "se supone que estos Conde Don Antonio’s )",
+      "final": "se supone que estos Conde Don Antonio’s )",
+      "confidence": 0.1845703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        460,
+        1336,
+        2331,
+        1412
+      ],
+      "draft": "a 20. dias de hebreno de .1575. años. y assi. y esta Obligado el .Monge a yquituir a los obispos he",
+      "final": "a 20. dias de hebreno de .E. 1575. años. y ass. yesta Obligado El. Coni x arbrituir a los obispos he",
+      "confidence": 0.0439453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        540,
+        1390,
+        2151,
+        1456
+      ],
+      "draft": "construco que se hallaron a lo trayanto. E nrōers Cashi cantidad con Contra reditio,",
+      "final": "construtos que se hallaron al otryamento. E nrōers qe la shi cantidad con conproverditos",
+      "confidence": 0.06103515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        404,
+        1475,
+        2268,
+        1551
+      ],
+      "draft": "tambien por certificacion Del contado de la media El Tercero que lo dispuesto en el preuilibrio del Jun",
+      "final": "tambien por certificacion Del contado de la media El Tercero que lo dispuesto en el privilegio del Jun",
+      "confidence": 0.2890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        428,
+        1524,
+        2273,
+        1593
+      ],
+      "draft": "de la orden de Santrags, y por lo qe presentado",
+      "final": "de la orden de San brag, y por lo qe presentado",
+      "confidence": 0.50390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        414,
+        1580,
+        1997,
+        1636
+      ],
+      "draft": "en pregunta. g. del os. Marques, y doña muça, ni lo pudiera leterar a vn que",
+      "final": "a pregunta. 9. Del os. Marques, y Doña Muça, ni lo pudiera leterar a vn que",
+      "confidence": 0.2890625,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "Semanda cumplta la primera carta\ny de mis por la decapar del Juro 23 nnero de 1552. años. Por la tracia: y qe de mis por la decapar del Juro 23\n16 de agosto de l. d. 1373. años. el monje dō Por manera que despues de muerto El Conde Don Aniño, puso VIuio el op Marçeo don Pedro. E año. 139. Diosis en equino tiempos y po de aller y le portenieran // y\nde tres dias requa de Alonso de Baer, y qe ocmbi y que passado A termino el alonso para los depotes que eran en el lago y qe le quier qe le quier qe le quier qe le quier qe le quier qe le quier qe le quieren qe le quieren\n17 y 35 V625 m² Demanda los dha Señorio. a los Conde Don Juan\nValladolid la que el corregidor o juterienses Ca qual persona no auda con los suos mes\nE uerō 147 ¶ Con seretibo septentrio en el confuso de Contaduria mayor\ne sopena que lo querieres de otra manera\n113 ¶ christiana necicia esta de quāuātura porqe\nque el y Conde Don Alconso en su casa\ndespues despues privaigo experiencia de cierto\npaso algunos el astrales segun los pares ses Cauallos es, en que Saziendo menion del lo que dezera el. El Conde de Tarragona.\ncavna dellas es, en que saziendo mengon de lo qe dexa al dosi Conde Don Antonio su hijo\nde le juro dobiendo que le dexa a los // 110 204 era Muça su semana tres arriera\nAntonio - y en otro tam bien Sagemen que dexa al rei -\ndelo que dexa a los Marques don Pedro. y dize\nno pueda pedir mas por su legitimita, pero despues\nmas en particular Deste Juno rone esta clau Marquis don Pedro a depagar al ojo los señeros qe\nque el ojo Don Antonio aya Alos gūdo qe\nmoderprāvida que le compre según lo me le con\nse supone que estos Conde Don Antonio’s )\na 20. dias de hebreno de .E. 1575. años. y ass. yesta Obligado El. Coni x arbrituir a los obispos he\nconstrutos que se hallaron al otryamento. E nrōers qe la shi cantidad con conproverditos\ntambien por certificacion Del contado de la media El Tercero que lo dispuesto en el privilegio del Jun\nde la orden de San brag, y por lo qe presentado\na pregunta. 9. Del os. Marques, y Doña Muça, ni lo pudiera leterar a vn que"
+}

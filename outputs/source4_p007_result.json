@@ -1,0 +1,224 @@
+{
+  "page": "source4_p007",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      2484,
+      1849
+    ],
+    "has_marginalia": false,
+    "raw_response": "6 134 634 ¶ Crede, ez en Temporar sin deleçar, vel y era alispos. Si era ex probablemente depechennatus, ut assi el se lege, ez. 635 ¶ Don Pedro por la malera seco"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        395,
+        94,
+        2328,
+        204
+      ],
+      "draft": "lo guaer sin ouda Año Conde esta Obligado A",
+      "final": "lo guaer sin oua Año l Conde esta Obligado A",
+      "confidence": 0.1455078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        465,
+        169,
+        2336,
+        250
+      ],
+      "draft": "lo que se le pide (et que dem con los de alli)",
+      "final": "lo que se le pide (et que dem con los de alli)",
+      "confidence": 0.041259765625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        482,
+        205,
+        2331,
+        293
+      ],
+      "draft": "lo que se le pide (E quidem con los deditos",
+      "final": "lo que se le pide (E quidem con los deditos",
+      "confidence": 0.1455078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        375,
+        261,
+        2299,
+        349
+      ],
+      "draft": "133 don Pedro por la mala fe en no repetuir I o o",
+      "final": "133 don Pedro por la mala fe en no repetuir I o o",
+      "confidence": 0.1005859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        385,
+        310,
+        2328,
+        393
+      ],
+      "draft": "sos dinierno per tex. ni l. sey et silege de eiram",
+      "final": "sos dinierno per tex. ni l. se et si legede de tierras",
+      "confidence": 0.01470947265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        400,
+        356,
+        2326,
+        451
+      ],
+      "draft": "154 de alijs conieture de pishe en la tuersent en fe",
+      "final": "154 de petizione securitari bi, quien preso a -",
+      "confidence": 0.01470947265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        400,
+        404,
+        2323,
+        548
+      ],
+      "draft": "121 anto litem contra strām de la malinouine leiren",
+      "final": "Secundus A12.",
+      "confidence": 0.05810546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        388,
+        504,
+        2326,
+        631
+      ],
+      "draft": "e bundat nobis e lloromte, hezedum que aunque",
+      "final": "e bundat nobdam el Aureum Seque rum que aunque",
+      "confidence": 0.0498046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        492,
+        599,
+        2338,
+        725
+      ],
+      "draft": "y el, y en mus: a & e & despues la república fue criado por",
+      "final": "y el, y en mus: a & e despues la república excedero lo cō",
+      "confidence": 0.0274658203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        375,
+        686,
+        2331,
+        769
+      ],
+      "draft": "don Antonio sin subir nin creer el deseo qe quier",
+      "final": "don Antonio sin subir ni creer el deseo juro qe re",
+      "confidence": 0.2265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        458,
+        739,
+        2360,
+        827
+      ],
+      "draft": "Masques un Pedro de subceder en este",
+      "final": "Masques un Pedro de subceder en este",
+      "confidence": 0.88671875,
+      "method": "kept"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        531,
+        783,
+        2345,
+        876
+      ],
+      "draft": "queso. Uni Tezoro de Jubeler es en yle. Un Xomo auia de subleer en esfuro",
+      "final": "queso. Un Tezoro de suceder es en yle",
+      "confidence": 0.072265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        417,
+        824,
+        2372,
+        963
+      ],
+      "draft": "zosegund como avia de subedio en Muço que en lugar de Muuo Redimido seia setem– subrogado el pieç, per te x In Leg.mo,",
+      "final": "zosegund como avia de subedor en Nizço que en lugar de Juno Recimdo se auia setem – subrogado el pieçar, per te x In Leg.mo,",
+      "confidence": 0.005950927734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        434,
+        921,
+        2336,
+        1111
+      ],
+      "draft": "tions, partem esso s. durdam respondi, e dico la glotta inverso con tiati, nam quarantine, & huic legatorium sabere pretilum, cada e",
+      "final": "tions, partem esso s. durdam respondi, e dcio la glotta inverso con tiati, nam quarantine, & huic legatorium sabere predium, cada c",
+      "confidence": 0.005767822265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        383,
+        1057,
+        2360,
+        1613
+      ],
+      "draft": "122 ¶ la ley es por todo else, no modernize spelling (e.g. keep 'Vezino', 'Leg.mo', 'dha', 'Vm'). Output ONLY the transcribed text, nothing else.",
+      "final": "122 ¶ la ley es por todo else, no modernize spelling (e.g. keep 'Vezino', 'Leg.mo', 'dha', 'Vm'). Output ONLY the transcribed text, nothing else.",
+      "confidence": 0.984375,
+      "method": "kept"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        591,
+        1567,
+        2319,
+        1669
+      ],
+      "draft": "m. l. se e si lege ss. i. ff de parte e",
+      "final": "m. l. se e si lege ss. i. ff de parte e",
+      "confidence": 0.138671875,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "lo guaer sin oua Año l Conde esta Obligado A\nlo que se le pide (et que dem con los de alli)\nlo que se le pide (E quidem con los deditos\n133 don Pedro por la mala fe en no repetuir I o o\nsos dinierno per tex. ni l. se et si legede de tierras\n154 de petizione securitari bi, quien preso a -\nSecundus A12.\ne bundat nobdam el Aureum Seque rum que aunque\ny el, y en mus: a & e despues la república excedero lo cō\ndon Antonio sin subir ni creer el deseo juro qe re\nMasques un Pedro de subceder en este\nqueso. Un Tezoro de suceder es en yle\nzosegund como avia de subedor en Nizço que en lugar de Juno Recimdo se auia setem – subrogado el pieçar, per te x In Leg.mo,\ntions, partem esso s. durdam respondi, e dcio la glotta inverso con tiati, nam quarantine, & huic legatorium sabere predium, cada c\n122 ¶ la ley es por todo else, no modernize spelling (e.g. keep 'Vezino', 'Leg.mo', 'dha', 'Vm'). Output ONLY the transcribed text, nothing else.\nm. l. se e si lege ss. i. ff de parte e"
+}

@@ -1,0 +1,497 @@
+{
+  "page": "source3_p005",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      1316,
+      1895
+    ],
+    "has_marginalia": false,
+    "raw_response": "noches no coyiendo carne, ni lauando se un dia antes para los dichos ayutnos, cortandole las uñas y las puntas de los cabellos, o que mandaslas, rezando oraciones judiciales, alçando la cabeça alçando la miua"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        302,
+        200,
+        1005,
+        272
+      ],
+      "draft": "es comiendo carne, i lauandole un dia antes para los dichos ayu",
+      "final": "es comiendo carne, i la uandole un dia antes para los dichos ayu",
+      "confidence": 0.69921875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        510,
+        243,
+        1003,
+        307
+      ],
+      "draft": "mudandole en dia antes para los dienes y a puntas de los cabellos, guardandolas, o que muriega, aleando, liberando la cabeça",
+      "final": "mudandole en dia antes para los dienes ay en puntas de los cabellos, guardandolas, o que muriera gemo, alçando liberando la cabeça",
+      "confidence": 0.12109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        417,
+        276,
+        1003,
+        339
+      ],
+      "draft": "dias y las puntas de los cabellos, guardandoulas, o que oraciones yudaicas, alçando, i baxando la cabeça",
+      "final": "dias y las puntas de los cabellos, guardandoulas, o que oraciones yudaicas, alçando, i baxando la cabeça",
+      "confidence": 0.64453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        300,
+        312,
+        1003,
+        378
+      ],
+      "draft": ", rezando otacionles judurcas, alçandolo, roaxando la cabeça de cara a la pared, i antes que las rezen, lavandose con agua, o cō riendo su vestiduras de force, rūumaña, o lienço, con ciertas cu",
+      "final": "rezauino otacionles juduras, alçandolo, poaxando la cabeça de cara a la pared, i antes que las rezen, lavandose con agua, o cōtando, siendo fujiuiduras de force, ni muñeña, o lienço, con ciertas cu",
+      "confidence": 0.1005859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        258,
+        343,
+        1003,
+        415
+      ],
+      "draft": "dos de cata a la pared, luintes que las rezen, lavandole con agua, o co vitiendole vestiduras de larga, esta menina, o lienço, con ciertas cu- 119 correguolas coloñas de los cabos son sierros nudos. O celebras",
+      "final": "dos de cata a la pared, luintes que las rezen, lavandole con agua, o co vitiendole vestiduras de larga, estameña, o lienço, con ciertas cu- rotaguelas coloñas de los cabos son sierros nudos. & celebraf",
+      "confidence": 0.035400390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        269,
+        382,
+        1003,
+        444
+      ],
+      "draft": "vitiendole ventiduras de larga, en aliança, o llenço, con ciertas cu- correguelas colgadas de los cabos con ciertos nudos. O celebraf",
+      "final": "vitiendole ventiduras de larga, en aliança, o llenço, con ciertas cu- correguelas colgadas de los cabos con ciertos nudos. O celebraf",
+      "confidence": 0.453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        252,
+        419,
+        1013,
+        485
+      ],
+      "draft": "o correuiglas coladas de los labos con cercetestuados. E celebrare",
+      "final": "o correuiglas coladas de los labos con cercetestuados. E celebrare",
+      "confidence": 0.001068115234375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        387,
+        443,
+        1011,
+        515
+      ],
+      "draft": "pan cenceno, començando a comer lechugas, apio, o los tales dias O guardassen la Pusquia de las Cabañue",
+      "final": "pan cenceno, començando a comer lechugas, apio, o los tales dias O guardassen la Pusquia de las Cabañue- 122 tas, o como eran muy pocos, i nin viendo soli",
+      "confidence": 0.5859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        528,
+        485,
+        1007,
+        550
+      ],
+      "draft": "P O guardauen la pulquía de las Cabaue- paramentos, comiendo, i reciviendo colā tea. Obispo flis, el ponç el llosa, i sē sant",
+      "final": "P O guardauen la pulquita de las Caballeria para momentos, comiendo, i reciviendo colā tea. Obispo flisçabal, e al illerçā tā liante",
+      "confidence": 0.0167236328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        382,
+        522,
+        1005,
+        581
+      ],
+      "draft": "dios verdes, o para miientos, conriendo, y reciviendo cola",
+      "final": "dios verdes, o para miientos, conriendo, y reciviendo cola",
+      "confidence": 0.70703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        741,
+        559,
+        1009,
+        620
+      ],
+      "draft": "candellias, en cercen",
+      "final": "candellias, en cercen",
+      "confidence": 0.94921875,
+      "method": "kept"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        548,
+        589,
+        1013,
+        663
+      ],
+      "draft": "puestestornando las a matar, rezando Bra-",
+      "final": "estion estonando las a matar, rezando Bra-",
+      "confidence": 0.380859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        223,
+        624,
+        1007,
+        692
+      ],
+      "draft": "tres judaycas en los tales dias. O li Benduixenenla me la legun con un",
+      "final": "tres judaycas en los tales dias. O li Benduixenen la meja legun conunl de judios. O beuiendo vino calero. O hiziessen la Baraha, tomando",
+      "confidence": 0.0888671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        350,
+        661,
+        1009,
+        731
+      ],
+      "draft": "se guiendo vino calero. O hizienla Batalla, fernando en la mano, diziendo ciertas palabras sobre el, dando a guoya traço. O si comiessen carne de gollada, de manos de",
+      "final": "O seuiendo vino calero. O hizienla Batalla, fernando en la mano, diziendo ciertas palabras sobre el, dando a guva traço. O si comiessen carne de gallada de manos de",
+      "confidence": 0.02978515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        654,
+        696,
+        1007,
+        765
+      ],
+      "draft": "estas palabras lo bre el, dando a la carne de gollada de manos de los suyos. Otros razon en los",
+      "final": "estas palabras lo bre el, dando a la carne de gollada de manos de los moradores. Otros razonan los",
+      "confidence": 0.10693359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        504,
+        732,
+        1009,
+        798
+      ],
+      "draft": "d一口confunden carne de gonada de manos de a con ellos, y de sus manjares. Ori rezasen los",
+      "final": "d一口 con ti, ni con tierra ni con agua, ni con tierra ni con agua, ni con tierra ni con agua, ni con tierra ni con agua, ni con tierra ni con agua,",
+      "confidence": 0.46875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        247,
+        767,
+        1009,
+        835
+      ],
+      "draft": "go comentera su linla con ellos, y de tus thanjares. Oni rezalemos los",
+      "final": "go comentera su linla con ellos, y de tus thanjares. Oni rezalemos los",
+      "confidence": 0.00384521484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        336,
+        802,
+        1015,
+        874
+      ],
+      "draft": "a la auii Gloriapath. O no operasen el Menas, o dixen llo",
+      "final": "a la auii Gloriapath. O no operalen el Menas, o dixen llo",
+      "confidence": 0.22265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        332,
+        835,
+        1009,
+        905
+      ],
+      "draft": "prometio en la Ley no era venido, y qe avia de venir, y para que los facasse del cautiverio en que decian que estavā a tierra de promission. O Galvano murier quando qe querio",
+      "final": "prometio en la Ley no era venido, y qe avia de venir, y para que los facasse del cautiverio en que decian que estavā a tierra de promission. O Galvano murier quando qe querio",
+      "confidence": 0.0189208984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        239,
+        870,
+        1015,
+        944
+      ],
+      "draft": "peravan para que los lacaue de lcautiverio en que declian que estaua lleuasse a tierra de promission. O fi alguna muger guardasse quarē- as definues de partida fin entrar en el templo por ceremonia de la ley",
+      "final": "peravan para que los lacaue de l'au期限lo en que declan que estaua lleuasse a tierra de promission. O fi alguna muger guardasse quarē- as definues de partida fin entrar en el templo por ceremonia de la ley",
+      "confidence": 0.0498046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        452,
+        902,
+        1011,
+        979
+      ],
+      "draft": "promision. O tal guana guardalle quare- lla fin entrar en el templo, por ceremonia de la ley no pacen las criaturas las circuncidas en opuiesse ten",
+      "final": "promision. O tal guana guardalle quare- lla fin entrar en el templo, por ceremonia de la ley no pacen las criaturas las circuncidas en opusiesse",
+      "confidence": 0.024658203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        469,
+        944,
+        1011,
+        1009
+      ],
+      "draft": "nacen las criaturas las circuncidafen o pusiesse ni con lo que sei; O qe le dierosse, ni la Criatura se i",
+      "final": "nacen las criaturas las circuncidafen o pusiesse ni con lo que sei; O qe le dierosse, como la Grisoteo",
+      "confidence": 0.00384521484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        278,
+        1013,
+        1011,
+        1079
+      ],
+      "draft": "de Judios llamadiolos a ssi. O if los hiziesen Taci la Crifma, o despues de bautizados, dōde les ponen el Oleo, i Crifma, o a la noche del nasquignicio de la criptura, ganandole un besin, con que",
+      "final": "de Judios llamadiolos a ssi. O if los hiziesen Taci la Crifma, o despues de bautizados, dōde les ponen el Oleo, i Crifma, o a la noche del nasquignicio de la criptura, ganandole un besin, con que",
+      "confidence": 0.00193023681640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        254,
+        1044,
+        1015,
+        1120
+      ],
+      "draft": "los despues de bautizados, dode les ponen el Oleo, & Termina, o a la noche del nacimiento de la criatura, poniendo vn bacin con agua",
+      "final": "los despues de bautizados, dode les ponen el Oleo, & Termina, o a la noche del nacimiento de la criatura, poniendo vn bacin con agua 140 dado en el oro, plata, aliofar, trigo ceuada, y otras cosas, lavando la",
+      "confidence": 0.5,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        707,
+        1079,
+        1015,
+        1151
+      ],
+      "draft": "intendiendo vn毦cil con agua, y otras cosas, lavando la inglebras. O quino hasta",
+      "final": "intendio vn cachin con agua, y otras cosas, lavando la inglebras. O quino hasta",
+      "confidence": 0.0322265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        251,
+        1118,
+        1009,
+        1183
+      ],
+      "draft": "en el ojo, plata, al, bluf, tiago, celada, y otras colas, lavando la criatura en la dicha agua diciendo ciertas palabras. O uciefe hecho",
+      "final": "en el ojo, plata, al, bluf, tinto, celiada, y otras colas, lavando la criatura en la dicha agua diciendo ciertas palabras. O uciefe hecho",
+      "confidence": 0.447265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        367,
+        1155,
+        1011,
+        1222
+      ],
+      "draft": "la dienta a guia dieredo ciertas palabras. O viere niente",
+      "final": "la dienta a guia dicho o ciertas palabras. O viere niente",
+      "confidence": 0.08203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        513,
+        1191,
+        1011,
+        1259
+      ],
+      "draft": "erian estados al, modo de jadayelo. O li iniziери guna perlona parte camino. O li traxessen enmmino que auia TON la hala de la mā",
+      "final": "erian estados al, modo de jadayelo. O li iniziери guna perlona parte camino. O li traxessen enmmino que auia TON la hala de la mā",
+      "confidence": 0.0172119140625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 28,
+      "bbox": [
+        395,
+        1222,
+        1015,
+        1292
+      ],
+      "draft": "quando alguna persona parte camino. O traxessen O fi al tiempo que amassan la caffen la hala de la mala",
+      "final": "quando alguna persona parte camino. O traxessen O fi al tiempo que amassan la caffen la hala de la mala",
+      "confidence": 0.28125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 29,
+      "bbox": [
+        228,
+        1255,
+        1018,
+        1331
+      ],
+      "draft": "minas judaycas. O en tiempo que attiallan la caleen la hala de la mala e echa sen a quien ir por sacrificio. O li quando ella alguna persona",
+      "final": "minas judaycas. O en tiempo que attiallan la caleen la hala de la mala e echa sen a quemiar por sacrificio. O li quando ella alguna persona",
+      "confidence": 0.09033203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 30,
+      "bbox": [
+        393,
+        1331,
+        1020,
+        1401
+      ],
+      "draft": "muerte le bofickenla la pared a morir, y muerte le caliente, rapando la barba, y debaxo de los braços, y cerno y amortrajandolos con lienço nuevo calçones, y muerte le caliente, rapando la barba, y debaxo de los braços, y cerno y amortrajandolos con lienço nuevo calçones, y muerte le caliente, rapando la barba, y debaxo de los braços, y cerno y amortrajandolos con lienço nuevo calçones, y muerte le caliente, rapando la barba, y debaxo de los braços, y cerno y amortrajandolos con lienço nuevo calçones, y muerte le caliente, rapando la barba, y debaxo de los braços, y cerno y amortrajandolos con lienço nuevo calçones, y muerte le caliente, rapando la barba, y debaxo de los braços, y cerno y amortrajandolos con lienço nuevo calçones, y muerte le caliente, rapando",
+      "final": "muerte le bofickenla la pared a morir, y muerto le caliente, rapando la barba, y debaxo de los braços, y cerno y amortrajandolos con lienço nuevo calçones, y muerte le caliente, rapando la barba, y debaxo de los braços, y cerno y amortraj",
+      "confidence": 0.32421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 31,
+      "bbox": [
+        473,
+        1364,
+        1018,
+        1433
+      ],
+      "draft": "e, tapamlo la barba, y debaxo de los braços, y amortajandolos con lienço nuevo, calçones, y porcima, porviendolos en la cabeça, wie el mocho //",
+      "final": "e, tapamlo la barba, y debaxo de los braços, y amortajandolos con lienço nuevo, calçones, y porcima, porviendolos en la cabeça, wie el mocho //",
+      "confidence": 0.06103515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 32,
+      "bbox": [
+        448,
+        1398,
+        1020,
+        1466
+      ],
+      "draft": "sy attorajandolos comienço nueuevo, calçones, y porcima, poniendoles en la cabeça vna almohada",
+      "final": "sy attorajandolos comienço nueuevo, calçones, y porcima, poniendoles en la cabeça vna almohada",
+      "confidence": 0.828125,
+      "method": "kept"
+    },
+    {
+      "index": 33,
+      "bbox": [
+        306,
+        1435,
+        1022,
+        1501
+      ],
+      "draft": "cupa pregada por encima, puentelables en la cabeça vila a monja- virgen, o en la boca moneda o aljofar, o otra cosa. O los en",
+      "final": "cupa pregada por encima, puentelables en la cabeça vila a monja- virgen, o en la boca moneda o aljofar, o otra cosa. O los en",
+      "confidence": 0.82421875,
+      "method": "kept"
+    },
+    {
+      "index": 34,
+      "bbox": [
+        289,
+        1505,
+        1022,
+        1571
+      ],
+      "draft": "y en las otras del barrio por ceremonia judayca, comiendo en",
+      "final": "y en las otras del barrio por ceremonia judayca, comiendo en",
+      "confidence": 0.5546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 35,
+      "bbox": [
+        269,
+        1538,
+        1016,
+        1610
+      ],
+      "draft": "y otras otras del barr. o por ceremonia judayca, comienço en tras las puertas peçado y azytunas, y no carne por duelo del di",
+      "final": "y otras otras del barr. o por ceremonia judayca, comienço en tras las puertas peçado y azytunas, y no carne por duelo del di",
+      "confidence": 0.23046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 36,
+      "bbox": [
+        685,
+        1579,
+        1016,
+        1642
+      ],
+      "draft": "sino caue por duero del e",
+      "final": "sino caue por duero del e",
+      "confidence": 0.0203857421875,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "es comiendo carne, i la uandole un dia antes para los dichos ayu\nmudandole en dia antes para los dienes ay en puntas de los cabellos, guardandolas, o que muriera gemo, alçando liberando la cabeça\ndias y las puntas de los cabellos, guardandoulas, o que oraciones yudaicas, alçando, i baxando la cabeça\nrezauino otacionles juduras, alçandolo, poaxando la cabeça de cara a la pared, i antes que las rezen, lavandose con agua, o cōtando, siendo fujiuiduras de force, ni muñeña, o lienço, con ciertas cu\ndos de cata a la pared, luintes que las rezen, lavandole con agua, o co vitiendole vestiduras de larga, estameña, o lienço, con ciertas cu- rotaguelas coloñas de los cabos son sierros nudos. & celebraf\nvitiendole ventiduras de larga, en aliança, o llenço, con ciertas cu- correguelas colgadas de los cabos con ciertos nudos. O celebraf\no correuiglas coladas de los labos con cercetestuados. E celebrare\npan cenceno, començando a comer lechugas, apio, o los tales dias O guardassen la Pusquia de las Cabañue- 122 tas, o como eran muy pocos, i nin viendo soli\nP O guardauen la pulquita de las Caballeria para momentos, comiendo, i reciviendo colā tea. Obispo flisçabal, e al illerçā tā liante\ndios verdes, o para miientos, conriendo, y reciviendo cola\ncandellias, en cercen\nestion estonando las a matar, rezando Bra-\ntres judaycas en los tales dias. O li Benduixenen la meja legun conunl de judios. O beuiendo vino calero. O hiziessen la Baraha, tomando\nO seuiendo vino calero. O hizienla Batalla, fernando en la mano, diziendo ciertas palabras sobre el, dando a guva traço. O si comiessen carne de gallada de manos de\nestas palabras lo bre el, dando a la carne de gollada de manos de los moradores. Otros razonan los\nd一口 con ti, ni con tierra ni con agua, ni con tierra ni con agua, ni con tierra ni con agua, ni con tierra ni con agua, ni con tierra ni con agua,\ngo comentera su linla con ellos, y de tus thanjares. Oni rezalemos los\na la auii Gloriapath. O no operalen el Menas, o dixen llo\nprometio en la Ley no era venido, y qe avia de venir, y para que los facasse del cautiverio en que decian que estavā a tierra de promission. O Galvano murier quando qe querio\nperavan para que los lacaue de l'au期限lo en que declan que estaua lleuasse a tierra de promission. O fi alguna muger guardasse quarē- as definues de partida fin entrar en el templo por ceremonia de la ley\npromision. O tal guana guardalle quare- lla fin entrar en el templo, por ceremonia de la ley no pacen las criaturas las circuncidas en opusiesse\nnacen las criaturas las circuncidafen o pusiesse ni con lo que sei; O qe le dierosse, como la Grisoteo\nde Judios llamadiolos a ssi. O if los hiziesen Taci la Crifma, o despues de bautizados, dōde les ponen el Oleo, i Crifma, o a la noche del nasquignicio de la criptura, ganandole un besin, con que\nlos despues de bautizados, dode les ponen el Oleo, & Termina, o a la noche del nacimiento de la criatura, poniendo vn bacin con agua 140 dado en el oro, plata, aliofar, trigo ceuada, y otras cosas, lavando la\nintendio vn cachin con agua, y otras cosas, lavando la inglebras. O quino hasta\nen el ojo, plata, al, bluf, tinto, celiada, y otras colas, lavando la criatura en la dicha agua diciendo ciertas palabras. O uciefe hecho\nla dienta a guia dicho o ciertas palabras. O viere niente\nerian estados al, modo de jadayelo. O li iniziери guna perlona parte camino. O li traxessen enmmino que auia TON la hala de la mā\nquando alguna persona parte camino. O traxessen O fi al tiempo que amassan la caffen la hala de la mala\nminas judaycas. O en tiempo que attiallan la caleen la hala de la mala e echa sen a quemiar por sacrificio. O li quando ella alguna persona\nmuerte le bofickenla la pared a morir, y muerto le caliente, rapando la barba, y debaxo de los braços, y cerno y amortrajandolos con lienço nuevo calçones, y muerte le caliente, rapando la barba, y debaxo de los braços, y cerno y amortraj\ne, tapamlo la barba, y debaxo de los braços, y amortajandolos con lienço nuevo, calçones, y porcima, porviendolos en la cabeça, wie el mocho //\nsy attorajandolos comienço nueuevo, calçones, y porcima, poniendoles en la cabeça vna almohada\ncupa pregada por encima, puentelables en la cabeça vila a monja- virgen, o en la boca moneda o aljofar, o otra cosa. O los en\ny en las otras del barrio por ceremonia judayca, comiendo en\ny otras otras del barr. o por ceremonia judayca, comienço en tras las puertas peçado y azytunas, y no carne por duelo del di\nsino caue por duero del e"
+}

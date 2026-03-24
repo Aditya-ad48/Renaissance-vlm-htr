@@ -1,0 +1,55 @@
+{
+  "page": "source3_p002",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      1301,
+      1810
+    ],
+    "has_marginalia": false,
+    "raw_response": "INQUICTOR1567 Lxe 12 ¶ Muerte de 1567 Lxe 12"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        346,
+        50,
+        1265,
+        153
+      ],
+      "draft": "destra & ouiri con los gramo a sesodias del mes de",
+      "final": "destra Inguzir. en los gours a sesodias del mes de",
+      "confidence": 0.10546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        364,
+        122,
+        1171,
+        206
+      ],
+      "draft": "le nciebze ve mil y seiscientos y quaren-",
+      "final": "le nciebze ve mil y sescientos y quaren-",
+      "confidence": 0.212890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        316,
+        260,
+        629,
+        405
+      ],
+      "draft": "Ullicen Calderon y",
+      "final": "Ullicen Calderon y",
+      "confidence": 0.0172119140625,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "destra Inguzir. en los gours a sesodias del mes de\nle nciebze ve mil y sescientos y quaren-\nUllicen Calderon y"
+}

@@ -1,0 +1,406 @@
+{
+  "page": "source4_p001",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      1307,
+      1854
+    ],
+    "has_marginalia": false,
+    "raw_response": "Bibliotheca Historica de España / 1"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        754,
+        53,
+        1205,
+        153
+      ],
+      "draft": "P. 51. 302",
+      "final": "P.51. 322",
+      "confidence": 0.59765625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        318,
+        138,
+        1216,
+        214
+      ],
+      "draft": "327 - 49",
+      "final": "327 - 49",
+      "confidence": 0.98828125,
+      "method": "kept"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        353,
+        221,
+        794,
+        288
+      ],
+      "draft": "Florence Pkisç Arçushos",
+      "final": "Florence Pkise Arçushos tra",
+      "confidence": 0.03466796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        382,
+        283,
+        827,
+        332
+      ],
+      "draft": "muntig oyes E por ol 82610 menos",
+      "final": "muntig oyes E por ol 82610 menos",
+      "confidence": 0.14453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        235,
+        330,
+        937,
+        381
+      ],
+      "draft": "sier y ayer suso 65 lis 61 i daueroy 101 cologica 102",
+      "final": "sier y ay a ti en mi cajon y qe qe qe",
+      "confidence": 0.043212890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        669,
+        448,
+        1149,
+        551
+      ],
+      "draft": "d Espetto Cueru.mte",
+      "final": "d Espetto Cueru.mte",
+      "confidence": 0.287109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        564,
+        516,
+        1154,
+        583
+      ],
+      "draft": "123 reuisto entre el Marques de viana",
+      "final": "123 reuisto entre el Marques de viana",
+      "confidence": 0.96484375,
+      "method": "kept"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        519,
+        556,
+        1174,
+        634
+      ],
+      "draft": "y Doria Eluixa pimentel su hermana a",
+      "final": "y Doria Eluixa pimentel su hermana =",
+      "confidence": 0.28515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        208,
+        594,
+        1145,
+        676
+      ],
+      "draft": "como Sifos, y herederos del Marques Don Pedro Pimentel",
+      "final": "como Sifos, y herederos del Marques Don Pedro Pimentel",
+      "confidence": 0.87890625,
+      "method": "kept"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        242,
+        649,
+        1151,
+        728
+      ],
+      "draft": "626 su Padu diffº con don Juan alfonso pimentel Conde de Bes",
+      "final": "626 su Padu diffº con don Juan alfonso pimentel Conde de Pse",
+      "confidence": 0.125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        202,
+        699,
+        1172,
+        772
+      ],
+      "draft": "nauente como Siso y seuero de Don Antonio opimentel",
+      "final": "nauente como Siso y seuero de Don Antonio opimentel",
+      "confidence": 0.40625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        220,
+        743,
+        979,
+        822
+      ],
+      "draft": "su padre diffo Conde que fue de Nauenhe",
+      "final": "127 su padre diffo Conde que fue de Nauenhe",
+      "confidence": 0.3671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        240,
+        772,
+        1147,
+        873
+      ],
+      "draft": "y estadie diffi Conde que fue de venauente",
+      "final": "y su padre diffite Conde que fue de Venauente. y se Piesupone en el seso que Don Alfonso pemerent el Conde de Venauente çauilo. De los Cipreses çomoderio qe",
+      "confidence": 0.11376953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        336,
+        822,
+        1160,
+        929
+      ],
+      "draft": "Les supone en el seso que Don Alfonso, por el Conde de Venaueite a guelo De los citigantes compro de su Mej",
+      "final": "Les supone en el seso que Don Alfonso, por el Conde de Venauente aguelo De los citigantes comro de su Mej Vn suero de dos guertos de renta en cada vno año para que",
+      "confidence": 0.0019989013671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        324,
+        875,
+        1156,
+        964
+      ],
+      "draft": "vn juro de dos quinze deenta en cadaua año para que",
+      "final": "vn juro de dos quentos de venta en cada vn año para que",
+      "confidence": 0.039306640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        320,
+        926,
+        1136,
+        1011
+      ],
+      "draft": "los godasse el Ayss Don Antonio por los dias de su vida y despues de el Don Pedro de Goya",
+      "final": "los godasse el Ayss Don Antonio por los dias de su vida y despues de el Don Pedro de Góris",
+      "confidence": 0.10693359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        345,
+        978,
+        1147,
+        1049
+      ],
+      "draft": "despues del Cō Marques Don Pedro su hermano par",
+      "final": "despues del Cō Marques Don Pedro su hermano par",
+      "confidence": 0.28125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        219,
+        1020,
+        1133,
+        1107
+      ],
+      "draft": "prejo de .16. gō. E llamauedis que el dos Don Alfonso",
+      "final": "prejo de .16. gō. E era cauedis que el dos Don Alfonso",
+      "confidence": 0.13671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        342,
+        1072,
+        1087,
+        1154
+      ],
+      "draft": "pago por la comprad del sso jur. y se despatho preuilegio por (se dabe actividad sobre su identidad en el Año",
+      "final": "pago por la comprade el sso juru. y se despatho preuilegio por (se dabe actividad sobre su identidad en el Año",
+      "confidence": 0.0111083984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        324,
+        1110,
+        1163,
+        1190
+      ],
+      "draft": "play por la comprehensive y duro y se espartio preludigolo y por las dias dos vidas sobre ciertas ventas en El continenal",
+      "final": "play por la comprehensive y duro y se espartio preludigolo y por las dias dos vidas sobre ciertas ventas en El Contendal",
+      "confidence": 0.10693359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        333,
+        1165,
+        1183,
+        1244
+      ],
+      "draft": "y son los palabras de lsxo preulegis importantes para la dek",
+      "final": "y son los palabras de lsxo preulegis importantes para la dek",
+      "confidence": 0.01220703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        217,
+        1203,
+        899,
+        1286
+      ],
+      "draft": "262 minagion deste pleito los siguientes. a",
+      "final": "266 minagion deste pleito los siguientes. a",
+      "confidence": 0.024658203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        293,
+        1253,
+        953,
+        1326
+      ],
+      "draft": "Mclauijula",
+      "final": "Mclauijula",
+      "confidence": 1.0,
+      "method": "kept"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        204,
+        1293,
+        1172,
+        1395
+      ],
+      "draft": "y le adescado privilegio dellos al dpo Don Antonio pimenes tal su hijo para que asse dellos en cada viñage por gen",
+      "final": "y le adescado privilegio dellos al dpo Don Antonio pimenes tal su hijo para que asse dellos en cada viñage por gen",
+      "confidence": 0.038818359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        501,
+        1355,
+        1028,
+        1420
+      ],
+      "draft": "para que hize dellos en cada vn año",
+      "final": "para que hize dellos en cada vn año",
+      "confidence": 0.76171875,
+      "method": "kept"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        344,
+        1346,
+        1187,
+        1492
+      ],
+      "draft": "don Antonio pimentel, tal y esp, para que ose dellos en cada vn año para cer",
+      "final": "gustadizo para que obse dellos en cada vn año para er_ toda su vida y que por fin y muerte. De ldo Don Antonio pimentel su bada. y sobre dellos Don Pepe pimentel",
+      "confidence": 0.0111083984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        405,
+        1445,
+        1163,
+        1525
+      ],
+      "draft": "pimentel su buda y gizede Mos don Pedro pimentel",
+      "final": "pimentel su buda y gizemos don Pedro pimentel",
+      "confidence": 0.09033203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        199,
+        1485,
+        1165,
+        1568
+      ],
+      "draft": "por los ob. su samano Sise sigundо del Arçobispo de Venamonte y permutado del Sise Sigundо del Arçobispo de Toledo",
+      "final": "por los ob. su samano Sise sigundо del Arçobispo de Venaunte",
+      "confidence": 0.06396484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 28,
+      "bbox": [
+        204,
+        1534,
+        1147,
+        1612
+      ],
+      "draft": "y per muerte del dos don Pedro pimentel se consuman",
+      "final": "y per muerte del sfo don Pedro pimentel se consuman",
+      "confidence": 0.490234375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 29,
+      "bbox": [
+        342,
+        1577,
+        1140,
+        1661
+      ],
+      "draft": "tudors los ojos dos quentos de mes en los nueuezos",
+      "final": "tudors los ojos dos quentos de mes en los nueuezos",
+      "confidence": 0.2197265625,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "P.51. 322\n327 - 49\nFlorence Pkise Arçushos tra\nmuntig oyes E por ol 82610 menos\nsier y ay a ti en mi cajon y qe qe qe\nd Espetto Cueru.mte\n123 reuisto entre el Marques de viana\ny Doria Eluixa pimentel su hermana =\ncomo Sifos, y herederos del Marques Don Pedro Pimentel\n626 su Padu diffº con don Juan alfonso pimentel Conde de Pse\nnauente como Siso y seuero de Don Antonio opimentel\n127 su padre diffo Conde que fue de Nauenhe\ny su padre diffite Conde que fue de Venauente. y se Piesupone en el seso que Don Alfonso pemerent el Conde de Venauente çauilo. De los Cipreses çomoderio qe\nLes supone en el seso que Don Alfonso, por el Conde de Venauente aguelo De los citigantes comro de su Mej Vn suero de dos guertos de renta en cada vno año para que\nvn juro de dos quentos de venta en cada vn año para que\nlos godasse el Ayss Don Antonio por los dias de su vida y despues de el Don Pedro de Góris\ndespues del Cō Marques Don Pedro su hermano par\nprejo de .16. gō. E era cauedis que el dos Don Alfonso\npago por la comprade el sso juru. y se despatho preuilegio por (se dabe actividad sobre su identidad en el Año\nplay por la comprehensive y duro y se espartio preludigolo y por las dias dos vidas sobre ciertas ventas en El Contendal\ny son los palabras de lsxo preulegis importantes para la dek\n266 minagion deste pleito los siguientes. a\nMclauijula\ny le adescado privilegio dellos al dpo Don Antonio pimenes tal su hijo para que asse dellos en cada viñage por gen\npara que hize dellos en cada vn año\ngustadizo para que obse dellos en cada vn año para er_ toda su vida y que por fin y muerte. De ldo Don Antonio pimentel su bada. y sobre dellos Don Pepe pimentel\npimentel su buda y gizemos don Pedro pimentel\npor los ob. su samano Sise sigundо del Arçobispo de Venaunte\ny per muerte del sfo don Pedro pimentel se consuman\ntudors los ojos dos quentos de mes en los nueuezos"
+}

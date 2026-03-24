@@ -1,0 +1,393 @@
+{
+  "page": "source3_p003",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      1353,
+      1895
+    ],
+    "has_marginalia": false,
+    "raw_response": "78 ¶ Edito - 124 OSLOS IN Quisidores a pos"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        324,
+        258,
+        1046,
+        304
+      ],
+      "draft": "NCOIN",
+      "final": "NCOIN",
+      "confidence": 1.0,
+      "method": "kept"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        719,
+        299,
+        1052,
+        478
+      ],
+      "draft": "marge",
+      "final": "marge",
+      "confidence": 1.0,
+      "method": "kept"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        343,
+        397,
+        1050,
+        444
+      ],
+      "draft": "ejo eyo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo",
+      "final": "ejo eyo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo",
+      "confidence": 0.828125,
+      "method": "kept"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        228,
+        537,
+        846,
+        622
+      ],
+      "draft": "126 ¶ avdios de 6. ¶ observavimus 6. ¶ construimos 6. ¶ observabamos 6. ¶ construimos 6. ¶ observabamos 6. ¶ construimos 6. Output ONLY the transcribed text, nothing else.",
+      "final": "126 ¶ avdios de 6. ¶ observavimus 6. ¶ construimos 6. ¶ observabamos 6. ¶ construimos 6. ¶ observabamos 6. ¶ construimos 6. Output ONLY the transcribed text, nothing else.",
+      "confidence": 0.875,
+      "method": "kept"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        249,
+        565,
+        855,
+        750
+      ],
+      "draft": "121 Ca los olvidos sean como nada, y siglo todo thes.",
+      "final": "121 Ca los olvidos sean como la pista, Ca los vencimientos sean como el vino, Ca los sabios sean como the (eagle), (125) Ca los dhauios sean like the (leg.mo), (126) Ca los caudillos sean like the (Vezino). Output ONLY the transcribed text, nothing",
+      "confidence": 0.2265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        343,
+        674,
+        1050,
+        726
+      ],
+      "draft": "dolomites en el siglo",
+      "final": "dolomites en el siglo",
+      "confidence": 0.328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        571,
+        709,
+        1004,
+        783
+      ],
+      "draft": "NUDICA",
+      "final": "NUDICA",
+      "confidence": 1.0,
+      "method": "kept"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        454,
+        787,
+        1048,
+        916
+      ],
+      "draft": "OSLOSIN",
+      "final": "OSLOSIN",
+      "confidence": 1.0,
+      "method": "kept"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        461,
+        889,
+        1063,
+        981
+      ],
+      "draft": "qvsi dores a pos-",
+      "final": "qvsidores a pos-",
+      "confidence": 0.00384521484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        454,
+        950,
+        1053,
+        1024
+      ],
+      "draft": "tolicos, contra la eretica pravedad, y Apostalia, en todo el Reyno de Navarra, Obispado de Calas",
+      "final": "tolicos, contra la eretica pravedad, y Apostalia, en todo el Reyno de Navarra, Obispado de Calas",
+      "confidence": 0.466796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        450,
+        985,
+        1053,
+        1057
+      ],
+      "draft": "tolicos, contra la estricta pravedad, y Aportaña, en todo el Reyno de Navarra, Obispo de Calahorro y la Calçada Codado y Señorio de Vizcaya,",
+      "final": "tolicos, contra la estricta pravedad, y Aportaña, en todo el Reyno de Navarra, Obispo de Calahorro y la Calçada Gōdo y Señorio de Vizcaya,",
+      "confidence": 0.1591796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        458,
+        1017,
+        1057,
+        1096
+      ],
+      "draft": "en todo el Reyno de Navarra, Obispado de Calahorra, y la Calçada, Cōdado y Señorio de Vizcaya, Guinuezcoa, con toda la iestra, y juridiction que cae",
+      "final": "en todo el Reyno de Navarra, Obispado de Calahorra, y la Calçada, Cōdado y señorio de Vizcaya, Guinuezcoa, con toda la iestra, y juridiction que cae",
+      "confidence": 0.2333984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        223,
+        1055,
+        1061,
+        1135
+      ],
+      "draft": "horra, y la Calçada, Coudado y señorio de Vizcaya, con la prouincia de Guipuzcoa, con toda la tierra, y juridiction que cael en el Arçobispado de Burgos, de los montes de Oca a esta parte, y",
+      "final": "horra, y la Calçada, Coudado y señorio de Vizcaya, con la prouincia de Guipuzcoa, con toda la tierra, y juridiction que cael en el Arçobispado de Burgos, de los montes de Oca a esta parte, y",
+      "confidence": 0.875,
+      "method": "kept"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        223,
+        1092,
+        1063,
+        1168
+      ],
+      "draft": "con la prouincia de Guipuzcoa, con toda la tierra, y jurisdicion que tac",
+      "final": "con la prouincia de Guipuzcoa, con toda la tierra, y jurisdicion que tac",
+      "confidence": 0.34375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        232,
+        1126,
+        1061,
+        1198
+      ],
+      "draft": "en el Atçoupipado de Burgos, de los montes de Oca a ella parte, y su distrito, por autoridad Apostolica & c. A todos los vezinos, y mora- dores estantes, y castidantes en todas las ciudades, villas, y lugares deste",
+      "final": "en el Atçoupipado de Burgos, de los montes de Oca a ella parte, y su distrito, por autoridad Apostolica & c. A todos los vezinos, y mora- dores estantes, y castidantes en todas las ciudades, villas, y lugares deste",
+      "confidence": 0.05126953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        226,
+        1163,
+        1061,
+        1236
+      ],
+      "draft": "nudistrito, por autoridad A politona & c. A todos los vezinos, y mora- dores, estantes, y residentes, en todas las ciudades, villas, y lugares deste nuestro distrito, de qualquier estado, y condicion, preeminencia, o",
+      "final": "nudistrito, por autoridad Apollonica e.c. A todos los vezinos, y mora- dores, estantes, y residentes, en todas las ciudades, villas, y lugares deste nuestro distrito, de qualquier estado, y condicion, preeminencia, o importancia, se les ha tenido sentido, oración, (e",
+      "confidence": 0.28125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        221,
+        1192,
+        1070,
+        1273
+      ],
+      "draft": "dores, elantes, y relidentes, en todas las ciudades, villas, y lugares deste nuestro distrito, de qualquier estado, y condicion, preeminencia, o dignidad, que sean, efentos, o no efentos, y cada vno, y qualquier",
+      "final": "dores, elantes, y relidentes, en todas las ciudades, villas, y lugares deste nuestro distrito, de qualquier estado, y condicion, preeminencia, o dignidad, que sean, sesentos, o no efentos, y cada vno, y qualquier",
+      "confidence": 0.25390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        226,
+        1233,
+        1063,
+        1305
+      ],
+      "draft": "muerto sin tinto, ce qualquier estado, y condicion, preeminença, o dignidad que le an, efentos, o no efentos, y cada vno, y qualquier de vos, a guva no picio llamarlo lo contenido en esta nuestra carta, en",
+      "final": "muerto sin tinto, ce qualquier estado, y condicion, preeminença, o dignidad que le an, efentos, o no efentos, y cada vno, y qualquier de vos, a guva no picio llemero lo contenido en esta nuestra carta, en",
+      "confidence": 0.035400390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        225,
+        1270,
+        1061,
+        1347
+      ],
+      "draft": "dignidad que le am, elientos, o no elientos, y cada vino, y qualquier de vos, a cuya noticia llegar lo contenido en esta nuestra carta en qualquier manera Salud en nuestro Señor IESVCHRISTO, que es",
+      "final": "dignidad que le am, elientos, o no elientos, y cada vino, y qualquier de vos, a cuya noticia llegar lo contenido en esta nuestra carta en qualquier manera Salud en nuestro Señor IESV CHRISTO, que es",
+      "confidence": 0.73828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        225,
+        1305,
+        1063,
+        1377
+      ],
+      "draft": "de vos, la cuya notícia llegare lo contenido en esta nuestra carta en qualquier manera, Salud en nuestro Señor IESVCHRISTO, que es verdadera salud y los nuestros mandamientos, que mas verdaderamente",
+      "final": "de vos, la cuya notícia llegare lo contenido en esta nuestra carta en qualquier manera, Salud en nuestro Señor IESVCHRISTO, que es verdadera salud y los nuestros mandamientos, que mas verdaderamente",
+      "confidence": 0.123046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        226,
+        1342,
+        1066,
+        1409
+      ],
+      "draft": "qualquier manera, salud en nuestro señor IESV CHRISTO, que es verdadera laud, y a los nuestros mandamientos, que mas verdaderamen te sanctifiquos APOSTolicos sumptantose obedecer, guardat, y cumplir",
+      "final": "qualquier manera, salud en nuestro señor IESV CHRISTO, que es verdadera laud, y a los nuestros mandamientos, que mas verdaderamen te sanctifiquos APOSTolicos sumptantese obedecer, guardat, y cumplir",
+      "confidence": 0.00787353515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        225,
+        1377,
+        1066,
+        1447
+      ],
+      "draft": "verdadera salud, y a los nueuos mandamientos, que mas verdaderamente te son dichos Apostolicos, firmemente obedecer, guardar, y cumplir. Hazemos laver que ante nos parecio el promotor Fiscal del Santo Officio",
+      "final": "verdadera salud, y a los nueuos mandamientos, que mas verdaderamente te son dichos Apostolicos, firmemente obedecer, guardar, y cumplir. Hazemos laver que ante nos parecio el promotor Fiscal del Santo Officio",
+      "confidence": 0.091796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        226,
+        1411,
+        1070,
+        1479
+      ],
+      "draft": "terون dicho Apolitonicos, inniamente obedecer, guardar, y cumplir. Hazemos la ver, que ante nos parecio el promotor Fiscal del Santo Offi cil, nor hizo relación dirigiendo. Que bien leuiamos, y uos a ser notorio",
+      "final": "terون dicho Apolitonicos, inniamente obedecer, guardar, y cumplir. Hazemos la ver, que ante nos parecio el promotor Fiscal del Santo Offi cil, nor hizo relación dirigiendo. Que bien leuimos, y uos a srs notorio",
+      "confidence": 0.0250244140625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        228,
+        1446,
+        1072,
+        1514
+      ],
+      "draft": "e fazellos saver, que ante nos parecio el promotor Phear del santo Orbi cio, i nos hizo relacion diziendo; Que bien faviamos, y nos era notorio que de algunos dias, con su ympera, parta por nos en muchas cibdadras",
+      "final": "e fazellos saver, que ante nos parecio el promotor Philar del santo Onici cio, i nos hizo relacion diziendo; Que bien faviamos, y nos era notorio que de algunos dias, con su ympera, parta por nos en muchas cibdadras",
+      "confidence": 0.0107421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        228,
+        1485,
+        1076,
+        1551
+      ],
+      "draft": "ero, si nos uos relación diziendo, Que bien la valiamos, y nos era historico que de algunos dias, y tiempo a esta parte, pot nos en muchas ciudades, villas i lugares deste difrigo, uo fa auia hecho Inguisicion, ni ninota Gene",
+      "final": "ero, si nos uos relación diziendo, Que bien la valiamos, y nos era historico que de algunos dias, y tiempo a esta parte, pot nos en muchas ciudades, villas i lugares deste difrigo, uo fa auia hecho Inguisicion, ni ninota Gene",
+      "confidence": 0.00836181640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        230,
+        1513,
+        1078,
+        1586
+      ],
+      "draft": "que de algunos dias, y tiempo a elita patte, por nos en muchas ciudades, villas, i lugares deste distrito, no fe avia hecho Inquisicion, ni vilita General, por lo qual no ouier vgnido a quatro noticies muchos dellos que fe",
+      "final": "que de algunos dias, y tiempo a elita patte, por nos en muchas ciudades, villas, i lugares deste distrito, no fe avia hecho Inquisicion, ni vilita General, por lo qual no ouier vgnido a quatro noticies muchos dellos que fe",
+      "confidence": 0.0016021728515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        226,
+        1550,
+        1081,
+        1623
+      ],
+      "draft": "Villas, lugares deste antrito, no le avia hecho inquisition, ni vinta General, por lo qual no avian venido a nuestra notícia muchos delitos que fe avian comerido, i perseguido, contra nuestra Santa Frō Catolica, i fe esta",
+      "final": "Villas, lugares deste antrito, no le avia hecho inquisition, ni vinta General, por lo qual no avian venido a nuestra notícia muchos delitos que fe avian comido, i perseguido, contra nuestra Santa Frō Catolica, i fe esta",
+      "confidence": 0.05810546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        228,
+        1579,
+        1087,
+        1657
+      ],
+      "draft": "por lo qual no avian venido a nueuestra notícia muchos de los que fe avian comerido, i perpetrado, contra nueuestra Santa Fe Catolica, i le estaua",
+      "final": "por lo qual no avian venido a nueuestra notícia muchos de los que fe avian comerido, i perpetrado, contra nueuestra Santa Fe Catolica, i le estaua",
+      "confidence": 0.330078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 28,
+      "bbox": [
+        250,
+        1627,
+        1079,
+        1682
+      ],
+      "draft": "vian comedio, i perpetuado, contra muerta Santa. P.e. Ca donca, lla en a",
+      "final": "vian comedio, i perpetuado, contra muerta Santa. e. Cateolica, ni en a",
+      "confidence": 0.09619140625,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "NCOIN\nmarge\nejo eyo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo ejo\n126 ¶ avdios de 6. ¶ observavimus 6. ¶ construimos 6. ¶ observabamos 6. ¶ construimos 6. ¶ observabamos 6. ¶ construimos 6. Output ONLY the transcribed text, nothing else.\n121 Ca los olvidos sean como la pista, Ca los vencimientos sean como el vino, Ca los sabios sean como the (eagle), (125) Ca los dhauios sean like the (leg.mo), (126) Ca los caudillos sean like the (Vezino). Output ONLY the transcribed text, nothing\ndolomites en el siglo\nNUDICA\nOSLOSIN\nqvsidores a pos-\ntolicos, contra la eretica pravedad, y Apostalia, en todo el Reyno de Navarra, Obispado de Calas\ntolicos, contra la estricta pravedad, y Aportaña, en todo el Reyno de Navarra, Obispo de Calahorro y la Calçada Gōdo y Señorio de Vizcaya,\nen todo el Reyno de Navarra, Obispado de Calahorra, y la Calçada, Cōdado y señorio de Vizcaya, Guinuezcoa, con toda la iestra, y juridiction que cae\nhorra, y la Calçada, Coudado y señorio de Vizcaya, con la prouincia de Guipuzcoa, con toda la tierra, y juridiction que cael en el Arçobispado de Burgos, de los montes de Oca a esta parte, y\ncon la prouincia de Guipuzcoa, con toda la tierra, y jurisdicion que tac\nen el Atçoupipado de Burgos, de los montes de Oca a ella parte, y su distrito, por autoridad Apostolica & c. A todos los vezinos, y mora- dores estantes, y castidantes en todas las ciudades, villas, y lugares deste\nnudistrito, por autoridad Apollonica e.c. A todos los vezinos, y mora- dores, estantes, y residentes, en todas las ciudades, villas, y lugares deste nuestro distrito, de qualquier estado, y condicion, preeminencia, o importancia, se les ha tenido sentido, oración, (e\ndores, elantes, y relidentes, en todas las ciudades, villas, y lugares deste nuestro distrito, de qualquier estado, y condicion, preeminencia, o dignidad, que sean, sesentos, o no efentos, y cada vno, y qualquier\nmuerto sin tinto, ce qualquier estado, y condicion, preeminença, o dignidad que le an, efentos, o no efentos, y cada vno, y qualquier de vos, a guva no picio llemero lo contenido en esta nuestra carta, en\ndignidad que le am, elientos, o no elientos, y cada vino, y qualquier de vos, a cuya noticia llegar lo contenido en esta nuestra carta en qualquier manera Salud en nuestro Señor IESV CHRISTO, que es\nde vos, la cuya notícia llegare lo contenido en esta nuestra carta en qualquier manera, Salud en nuestro Señor IESVCHRISTO, que es verdadera salud y los nuestros mandamientos, que mas verdaderamente\nqualquier manera, salud en nuestro señor IESV CHRISTO, que es verdadera laud, y a los nuestros mandamientos, que mas verdaderamen te sanctifiquos APOSTolicos sumptantese obedecer, guardat, y cumplir\nverdadera salud, y a los nueuos mandamientos, que mas verdaderamente te son dichos Apostolicos, firmemente obedecer, guardar, y cumplir. Hazemos laver que ante nos parecio el promotor Fiscal del Santo Officio\nterون dicho Apolitonicos, inniamente obedecer, guardar, y cumplir. Hazemos la ver, que ante nos parecio el promotor Fiscal del Santo Offi cil, nor hizo relación dirigiendo. Que bien leuimos, y uos a srs notorio\ne fazellos saver, que ante nos parecio el promotor Philar del santo Onici cio, i nos hizo relacion diziendo; Que bien faviamos, y nos era notorio que de algunos dias, con su ympera, parta por nos en muchas cibdadras\nero, si nos uos relación diziendo, Que bien la valiamos, y nos era historico que de algunos dias, y tiempo a esta parte, pot nos en muchas ciudades, villas i lugares deste difrigo, uo fa auia hecho Inguisicion, ni ninota Gene\nque de algunos dias, y tiempo a elita patte, por nos en muchas ciudades, villas, i lugares deste distrito, no fe avia hecho Inquisicion, ni vilita General, por lo qual no ouier vgnido a quatro noticies muchos dellos que fe\nVillas, lugares deste antrito, no le avia hecho inquisition, ni vinta General, por lo qual no avian venido a nuestra notícia muchos delitos que fe avian comido, i perseguido, contra nuestra Santa Frō Catolica, i fe esta\npor lo qual no avian venido a nueuestra notícia muchos de los que fe avian comerido, i perpetrado, contra nueuestra Santa Fe Catolica, i le estaua\nvian comedio, i perpetuado, contra muerta Santa. e. Cateolica, ni en a"
+}

@@ -1,0 +1,302 @@
+{
+  "page": "source3_p001",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      1329,
+      1864
+    ],
+    "has_marginalia": false,
+    "raw_response": "Mesterario E Fp se San Vito los pagole, y de la qual ouo touo a Ana de Le Caro. Vezino de Herma ni, y Sa paraidle que con ella brucedad viaja a la spa villa y el primer Domingo en la glisad"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        821,
+        354,
+        1266,
+        432
+      ],
+      "draft": "visto los papeles y de la",
+      "final": "visto los papeles y de la",
+      "confidence": 0.99609375,
+      "method": "kept"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        318,
+        421,
+        1250,
+        501
+      ],
+      "draft": "rauouu tocantes a Fladis Leçano hermada herna",
+      "final": "raçouua tocantes a Fladis Leçano hermada herna",
+      "confidence": 0.10205078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        491,
+        486,
+        1248,
+        559
+      ],
+      "draft": "ba pececido que con toda breauidad Vaya a la",
+      "final": "ha parecido que con toda breauedad vaya a la",
+      "confidence": 0.33984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        720,
+        537,
+        1241,
+        632
+      ],
+      "draft": "Domingo en lay gleniadella Say",
+      "final": "Domingo en lay gleniavella Say",
+      "confidence": 0.1357421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        751,
+        607,
+        1246,
+        687
+      ],
+      "draft": "reunimos con esta al tiempo //",
+      "final": "reunimos con esta al tiempo //",
+      "confidence": 0.392578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        351,
+        658,
+        1261,
+        756
+      ],
+      "draft": "y el Sertorio de la mid mayor, y el Domingo siguiente",
+      "final": "y el Sertorio de la mid mayor, y el Domingo siguiente",
+      "confidence": 0.1982421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        347,
+        730,
+        1252,
+        818
+      ],
+      "draft": "la anathema, y nrach dellos resultaren alguna",
+      "final": "la anathema, y nrach dellos resultaren alguna",
+      "confidence": 0.1767578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        336,
+        796,
+        1266,
+        883
+      ],
+      "draft": "de la coner, Ca si reuniā el comisario y entrara a este",
+      "final": "de la coner, Ca si Recurio el comisario y entrara a este",
+      "confidence": 0.201171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        318,
+        863,
+        1261,
+        960
+      ],
+      "draft": "santo diff. y procurara que algunos sacendistes de bure",
+      "final": "santo diff. y procurara que algunos sacendistes de rue",
+      "confidence": 0.11572265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        309,
+        927,
+        1235,
+        1007
+      ],
+      "draft": "na vida (dno obpersona aun que se as religios) exo",
+      "final": "na vida (dno obapersona aun que se as religios) exo",
+      "confidence": 0.443359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        313,
+        985,
+        1239,
+        1069
+      ],
+      "draft": "çcer a la doña Pina de Leçano, y el que se cultivate de lo",
+      "final": "çcer a la doña Pina de Leçano, y el que se cultivate de lo",
+      "confidence": 0.146484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        311,
+        1045,
+        1237,
+        1138
+      ],
+      "draft": "yorismos se ha mu Vn relacion formada de los exhor",
+      "final": "yorismos se ha mu Vna relación formada de los exhor",
+      "confidence": 0.2265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        316,
+        1104,
+        1270,
+        1202
+      ],
+      "draft": "cistas, estando pres atodo el comisario con ad bertencia",
+      "final": "cijtas, estando pres atodo el comisario con ad bertencia",
+      "confidence": 0.130859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        296,
+        1164,
+        1250,
+        1264
+      ],
+      "draft": "de que estos lex Sorismos no se san de Sacer en publico.",
+      "final": "de que estos lex Sorismos no se san de Sacer en publico.",
+      "confidence": 0.2060546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        300,
+        1249,
+        1210,
+        1324
+      ],
+      "draft": "uo secretam. de manera que no entrindan Por de astra",
+      "final": "uo secretam. de manera que no entrindan Por de astra",
+      "confidence": 0.2158203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        287,
+        1302,
+        1265,
+        1382
+      ],
+      "draft": "ca lo que millare . Ellor, ya la paciente se le obligara",
+      "final": "ca lo que millare Tillor, ya la paciente se le obligara",
+      "confidence": 0.306640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        318,
+        1375,
+        1228,
+        1451
+      ],
+      "draft": "secrets, guisaralos Con su osso yhou rexoso y de",
+      "final": "sesero, que guardado por su osso y su arnexo y de",
+      "confidence": 0.1396484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        289,
+        1437,
+        1217,
+        1509
+      ],
+      "draft": "gendicnte el dedamor Codex y corriacion en fe",
+      "final": "gendicnte el dedamor Codex y corriacion en fe",
+      "confidence": 0.271484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        284,
+        1500,
+        1239,
+        1573
+      ],
+      "draft": "ma por la presente Jagual con la por caucaca",
+      "final": "ma por la presente Jagual con la por caucera",
+      "confidence": 0.1005859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        345,
+        1553,
+        1230,
+        1635
+      ],
+      "draft": "los auios que sobre esto Diciere para venir",
+      "final": "los auios que sobre esto Diciere para venir",
+      "confidence": 0.10546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        282,
+        1639,
+        1246,
+        1711
+      ],
+      "draft": "gar los originales con persona de confiança nrō",
+      "final": "gar los originales con persona de confiança nrō",
+      "confidence": 0.451171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        229,
+        1804,
+        775,
+        1864
+      ],
+      "draft": "1667, Exp.-1",
+      "final": "1667, Exp.-",
+      "confidence": 0.006317138671875,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "visto los papeles y de la\nraçouua tocantes a Fladis Leçano hermada herna\nha parecido que con toda breauedad vaya a la\nDomingo en lay gleniavella Say\nreunimos con esta al tiempo //\ny el Sertorio de la mid mayor, y el Domingo siguiente\nla anathema, y nrach dellos resultaren alguna\nde la coner, Ca si Recurio el comisario y entrara a este\nsanto diff. y procurara que algunos sacendistes de rue\nna vida (dno obapersona aun que se as religios) exo\nçcer a la doña Pina de Leçano, y el que se cultivate de lo\nyorismos se ha mu Vna relación formada de los exhor\ncijtas, estando pres atodo el comisario con ad bertencia\nde que estos lex Sorismos no se san de Sacer en publico.\nuo secretam. de manera que no entrindan Por de astra\nca lo que millare Tillor, ya la paciente se le obligara\nsesero, que guardado por su osso y su arnexo y de\ngendicnte el dedamor Codex y corriacion en fe\nma por la presente Jagual con la por caucera\nlos auios que sobre esto Diciere para venir\ngar los originales con persona de confiança nrō\n1667, Exp.-"
+}

@@ -1,0 +1,146 @@
+{
+  "page": "source4_p015",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      1301,
+      1839
+    ],
+    "has_marginalia": false,
+    "raw_response": "131 32 133 33 135 34 136 35 137 36 138 138 139 139 140 141 142 1"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        336,
+        130,
+        918,
+        200
+      ],
+      "draft": "quisque Nō oposio (no puede ser) / 138",
+      "final": "quisque Nō oposio (no puedo lo do).",
+      "confidence": 0.16796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        226,
+        333,
+        546,
+        378
+      ],
+      "draft": "100 ¶ dha. ¶ 101 ¶ 102 ¶ ¶ 103 ¶ ¶ 104 ¶ ¶ 105 ¶ ¶ 106 ¶ ¶ 107 ¶ ¶ 108 ¶ ¶ 109 ¶ ¶ 110 ¶ ¶ 111 ¶ ¶ 112 ¶ ¶ 113 ¶ ¶ 114 ¶ ¶ 115 ¶ ¶ 116 ¶ ¶ 117 ¶ ¶ 118 ¶ ¶ 119 ¶ ¶ 120 ¶ ¶ 121 ¶ ¶ 122 ¶ ¶ 123 ¶ ¶ 124 ¶ ¶ 125 ¶ ¶ 126 ¶ ¶ 127 ¶ ¶ 128 ¶ ¶ 129 ¶ ¶ 130 ¶ ¶ 131 ¶ ¶ 132 ¶ ¶ 133 ¶ ¶ 134 ¶ ¶ 135 ¶ ¶ 136 ¶ ¶ 137 ¶ ¶ 138 ¶ ¶ 139 ¶ ¶ 140 ¶ ¶ 141 ¶ ¶ 14",
+      "final": "100 ¶ dha ¶ 120 ¶ 140 ¶ 160 ¶ 180 ¶ 200",
+      "confidence": 0.306640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        294,
+        377,
+        828,
+        428
+      ],
+      "draft": "82 ouo el euptonis con ides e eupenio",
+      "final": "82 ouo el euptonis con ides e eupilino",
+      "confidence": 0.0101318359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        382,
+        523,
+        878,
+        572
+      ],
+      "draft": "E a qe puso a qe le supo soi en qe le supo",
+      "final": "E a qe puso aqella espada con qe en otra parte",
+      "confidence": 0.291015625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        205,
+        607,
+        646,
+        667
+      ],
+      "draft": "lixotuinsed 1.- no obl. arçis _",
+      "final": "Litauins sed. I. nos olga qe es.",
+      "confidence": 0.01300048828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        600,
+        652,
+        876,
+        717
+      ],
+      "draft": "Abdulaiis Nargessi",
+      "final": "Abdulaiis Nargessi",
+      "confidence": 0.984375,
+      "method": "kept"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        440,
+        693,
+        1034,
+        758
+      ],
+      "draft": "88 Palma de Mallorca / 111 Calis",
+      "final": "88 89 90 91 92 93 94 95 96 97 100 101 102 103 104 105 106 107 108 109 110 111 11",
+      "confidence": 0.08203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        327,
+        749,
+        966,
+        809
+      ],
+      "draft": "Rico, Ricos, Compares M. e se les tomarianos",
+      "final": "Rico, Rius, Compaarram, e se les hizieran",
+      "confidence": 0.0712890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        521,
+        798,
+        946,
+        854
+      ],
+      "draft": "133 E a Fz. dize por lo saindo arā",
+      "final": "133 E a 75. R. i. e. e. e. e. e. e. e. e.",
+      "confidence": 0.0341796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        391,
+        843,
+        876,
+        895
+      ],
+      "draft": "107 ¶ a se el rey muerte de / monarca",
+      "final": "107 ¶ a se el rey cipriano (?).",
+      "confidence": 0.06005859375,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "quisque Nō oposio (no puedo lo do).\n100 ¶ dha ¶ 120 ¶ 140 ¶ 160 ¶ 180 ¶ 200\n82 ouo el euptonis con ides e eupilino\nE a qe puso aqella espada con qe en otra parte\nLitauins sed. I. nos olga qe es.\nAbdulaiis Nargessi\n88 89 90 91 92 93 94 95 96 97 100 101 102 103 104 105 106 107 108 109 110 111 11\nRico, Rius, Compaarram, e se les hizieran\n133 E a 75. R. i. e. e. e. e. e. e. e. e.\n107 ¶ a se el rey cipriano (?)."
+}

@@ -1,0 +1,380 @@
+{
+  "page": "source4_p006",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      2481,
+      1855
+    ],
+    "has_marginalia": false,
+    "raw_response": "Biblioteca Nacional de España"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        671,
+        129,
+        2367,
+        212
+      ],
+      "draft": "aSt. quedanse provision y carta y so / Aystrur / 14 A Nadimod a los qe semper presumirituras los contra",
+      "final": "aSt. quedarse se prouision y carta y so / Anadimod a lo sōs que siempre presumimitur dolos contra",
+      "confidence": 0.0306396484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        557,
+        183,
+        2340,
+        258
+      ],
+      "draft": "para que recuiuesse El sos dinero de la reden",
+      "final": "para que recuiuesse El sos dinero de la reden",
+      "confidence": 0.2412109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        423,
+        219,
+        2345,
+        307
+      ],
+      "draft": "es modo insolito porque con saberle la notification con 130. ff",
+      "final": "es modo insolito porque con saberle la notification con 130. ff",
+      "confidence": 0.08740234375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        462,
+        263,
+        2350,
+        363
+      ],
+      "draft": "y deportarionsssse de administration e bulirium. E. o. J. visisssse a legem Galadiam, do cez Anibal. conf. 306 ist. e",
+      "final": "y deportarum FF de administratione tubrum. E. o. o. repobritium FF de administratione tubrum. E. o. o.",
+      "confidence": 0.046142578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        569,
+        304,
+        2342,
+        409
+      ],
+      "draft": "De Xaua de gisar de Yuro. y en talos,",
+      "final": "De Xaua de gisar de Yuro. y entalfes.",
+      "confidence": 0.10205078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        402,
+        374,
+        2311,
+        447
+      ],
+      "draft": "mesmo conde tubiera luizado de Reciuir Murillo. et mesmo conde tubiera luizado de Reciuir Murillo. et mesmo conde tubiera luizado de Reciuir Murillo. et mesmo conde tubiera luizado de Reciuir Murillo. et mesmo conde tubiera luizado de Reciuir Murillo.",
+      "final": "mesmo conde tubiera luizado de Reciuir Murillo. et mesmo conde tubiera luizado de Reciuir Murillo. et mesmo conde tubiera luizado de Reciuir Murillo. et mesmo conde tubiera luizado de Reciuir Murillo. et mesmo conde tubiera luizado de Reciuir Murillo.",
+      "confidence": 0.96484375,
+      "method": "kept"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        639,
+        420,
+        2345,
+        493
+      ],
+      "draft": "del Decius. y entregar Apreuideros. E coni. 172. nu. s. E coni. 192 nu. c. E coni. 193 nu. 2",
+      "final": "de llexus. y entregar Apreueres",
+      "confidence": 0.58203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        457,
+        454,
+        2299,
+        540
+      ],
+      "draft": "a c c actuifolito por summitur dolus, ut inquiri glō.",
+      "final": "quisi locas late fundat. & am conclusionem la quaa",
+      "confidence": 0.189453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        440,
+        510,
+        2342,
+        600
+      ],
+      "draft": "Bald. in. l. Siguir sub conditione ss. de conditionemš",
+      "final": "Bald. in L. Siguir Subconditione ss= de conditionemš",
+      "confidence": 0.044677734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        518,
+        558,
+        2328,
+        690
+      ],
+      "draft": "que no aua prohibition en quanto a por do / 122 Jaque et enebatar, que era manifesar a su Mag Ca",
+      "final": "que no aua prohibition en quanto a partir 126 Mal de su Mag & qe era manifesar a su MG Ca",
+      "confidence": 0.01611328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        470,
+        648,
+        2323,
+        753
+      ],
+      "draft": "que no caualle prouincion en quanto a posse",
+      "final": "que no caualle prouincion en queruo apos dir",
+      "confidence": 0.0086669921875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        457,
+        701,
+        2325,
+        782
+      ],
+      "draft": "so color que solo fue la prohibicion en quanto -",
+      "final": "so color que solo fue la prohibicion en quanto -",
+      "confidence": 0.357421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        535,
+        745,
+        2321,
+        826
+      ],
+      "draft": "y que es",
+      "final": "y que es",
+      "confidence": 0.83203125,
+      "method": "kept"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        637,
+        793,
+        2362,
+        876
+      ],
+      "draft": "que le redimio, y fue otro nueuo a llos Don Pedro pimenter su sermans. Aymon",
+      "final": "que le redimio, y fue otro nueuo",
+      "confidence": 0.0380859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        443,
+        832,
+        2057,
+        915
+      ],
+      "draft": "quel que se venio a lps Conde Don Antonio. conf. 83. nr. 3. E cons. 142. nr. 26",
+      "final": "141 ¶ dels. a. c. 130 ¶ por su merito suspe",
+      "confidence": 0.5078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        397,
+        888,
+        2350,
+        1015
+      ],
+      "draft": "serespondie que Muço que se vendio a los Conde El mismo (patet porque quedo con los suyos fijese. E si qui 16 Summito ut status idem Ayron coni 142. uō. a.",
+      "final": "se respondie que Mucho que se vendio a los Conde El mismo (palet porque quedo con los suyos fijese. E si quien 16 Summito ut status idem Ayron coni conf.142. uio a.",
+      "confidence": 0.06494140625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        465,
+        978,
+        2306,
+        1116
+      ],
+      "draft": "125 Conde siempre le quedo con el y nunca",
+      "final": "125 Conde siempre le quedo con el y nunca",
+      "confidence": 0.337890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        462,
+        1070,
+        1819,
+        1158
+      ],
+      "draft": "era De poro Vidas Saçal le peretio al",
+      "final": "era De poro Vidas Saçal le peretio al",
+      "confidence": 0.5390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        482,
+        1101,
+        2333,
+        1206
+      ],
+      "draft": "de por do Oidal saqueleperpetuo al",
+      "final": "de por do Oidal saqueleperpetuo a",
+      "confidence": 0.00154876708984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        377,
+        1164,
+        2301,
+        1250
+      ],
+      "draft": "sicuti. $ superuacuum o bi glo. Et DD. if que 62: - Sibiram Aymen con su 193. nr. z. com aquilo Siz",
+      "final": "sicuti. $ superuacuum o biglo. E DD. if que 62: 17 Sibiram Aymen con su .eguz. nr. z. com aquolo Siz.",
+      "confidence": 0.06591796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        399,
+        1203,
+        2335,
+        1301
+      ],
+      "draft": "C L & & Conço, se que resulta la Justificacion de la",
+      "final": "C L & & Conço, se que resulta la Justificacion de la",
+      "confidence": 0.2890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        433,
+        1239,
+        2338,
+        1347
+      ],
+      "draft": "pig. y el sip soluitor.",
+      "final": "pig. y el sip soluitor.",
+      "confidence": 0.01470947265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        438,
+        1298,
+        2328,
+        1441
+      ],
+      "draft": "su jardín que la provisión de sus hermos",
+      "final": "su jardín que la provisión de sus hermos",
+      "confidence": 0.00787353515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        404,
+        1392,
+        2321,
+        1485
+      ],
+      "draft": "Don Pedro tenenlos trrā y no se puexe vender",
+      "final": "Don Pedro tenenlos trrā y no se puexe vender",
+      "confidence": 0.0380859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        467,
+        1438,
+        2318,
+        1526
+      ],
+      "draft": "astra persona como parece por las clauis lab",
+      "final": "astra persona como parece por las clauis lab",
+      "confidence": 0.33203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        477,
+        1496,
+        2318,
+        1577
+      ],
+      "draft": "preu legio [d] per conseguen malericunt ad ossis c. locupletari. De regular juris",
+      "final": "preu legio [d] per consequens malericum ad",
+      "confidence": 0.047607421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        518,
+        1535,
+        2325,
+        1618
+      ],
+      "draft": "que la ha prohibicion se entende de el pie",
+      "final": "que la ha prohibicion se entende de el pie",
+      "confidence": 0.1943359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        390,
+        1584,
+        2359,
+        1667
+      ],
+      "draft": "e legio de las dos vidas -",
+      "final": "e legio de las dos vidas -",
+      "confidence": 0.1708984375,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "aSt. quedarse se prouision y carta y so / Anadimod a lo sōs que siempre presumimitur dolos contra\npara que recuiuesse El sos dinero de la reden\nes modo insolito porque con saberle la notification con 130. ff\ny deportarum FF de administratione tubrum. E. o. o. repobritium FF de administratione tubrum. E. o. o.\nDe Xaua de gisar de Yuro. y entalfes.\nmesmo conde tubiera luizado de Reciuir Murillo. et mesmo conde tubiera luizado de Reciuir Murillo. et mesmo conde tubiera luizado de Reciuir Murillo. et mesmo conde tubiera luizado de Reciuir Murillo. et mesmo conde tubiera luizado de Reciuir Murillo.\nde llexus. y entregar Apreueres\nquisi locas late fundat. & am conclusionem la quaa\nBald. in L. Siguir Subconditione ss= de conditionemš\nque no aua prohibition en quanto a partir 126 Mal de su Mag & qe era manifesar a su MG Ca\nque no caualle prouincion en queruo apos dir\nso color que solo fue la prohibicion en quanto -\ny que es\nque le redimio, y fue otro nueuo\n141 ¶ dels. a. c. 130 ¶ por su merito suspe\nse respondie que Mucho que se vendio a los Conde El mismo (palet porque quedo con los suyos fijese. E si quien 16 Summito ut status idem Ayron coni conf.142. uio a.\n125 Conde siempre le quedo con el y nunca\nera De poro Vidas Saçal le peretio al\nde por do Oidal saqueleperpetuo a\nsicuti. $ superuacuum o biglo. E DD. if que 62: 17 Sibiram Aymen con su .eguz. nr. z. com aquolo Siz.\nC L & & Conço, se que resulta la Justificacion de la\npig. y el sip soluitor.\nsu jardín que la provisión de sus hermos\nDon Pedro tenenlos trrā y no se puexe vender\nastra persona como parece por las clauis lab\npreu legio [d] per consequens malericum ad\nque la ha prohibicion se entende de el pie\ne legio de las dos vidas -"
+}

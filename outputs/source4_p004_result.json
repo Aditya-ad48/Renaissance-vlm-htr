@@ -1,0 +1,432 @@
+{
+  "page": "source4_p004",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      2489,
+      1849
+    ],
+    "has_marginalia": false,
+    "raw_response": "3 Primus Art."
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        551,
+        90,
+        2318,
+        210
+      ],
+      "draft": "Primus Art2",
+      "final": "Primus Art2",
+      "confidence": 0.291015625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        437,
+        156,
+        2309,
+        239
+      ],
+      "draft": "y por zamismaracion scripta estan los cons..L..E..v. Do.",
+      "final": "y por zamismarason scripta el am Noble conde Don Antonio enim el. c. que se presume ya non se descubre ser el con",
+      "confidence": 0.0203857421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        534,
+        219,
+        2309,
+        287
+      ],
+      "draft": "dijo Juno con fraude y del enposuimiento del",
+      "final": "dijo Juno con fraude y del enposuimiento del",
+      "confidence": 0.10205078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        420,
+        255,
+        2243,
+        338
+      ],
+      "draft": "Marg. su Seruans y eruera porque aviendo prę",
+      "final": "Marg. su Seruans yeperueuaporque aviendo pze",
+      "confidence": 0.1103515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        486,
+        306,
+        2301,
+        387
+      ],
+      "draft": "tilloje presumpt. nr. 11. Alban). conf. 45. col. &. verp. por Vezino. E era de gūllimimus. E era de gūllimimus. E era de gūllimimus. Output ONLY the transcribed text, nothing else. Output\n122 en el ojo Preuilegio de paz y vida de que",
+      "final": "114 eje presumpt. nr. 11. Alban). conf. 45. col. &. verp por decreto sucedida por vernouillegio de pocos uidos de que",
+      "confidence": 0.1513671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        398,
+        345,
+        1577,
+        426
+      ],
+      "draft": "le pudiesse Redemir Seuio para que eran en la Real",
+      "final": "le pudiesse Redemir Seño para que eran en la Real",
+      "confidence": 0.31640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        449,
+        401,
+        2328,
+        477
+      ],
+      "draft": "vemos que en esceso se desmrio, y que d fue",
+      "final": "vemos que en escoeto se desmrio, y que d fue",
+      "confidence": 0.330078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        500,
+        450,
+        2306,
+        526
+      ],
+      "draft": "en poder y para proues De La muerte con ces",
+      "final": "en poder y para proues De La muerte con ces",
+      "confidence": 0.2353515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        563,
+        491,
+        2318,
+        572
+      ],
+      "draft": "lY que en el mismo dia que se hazelare",
+      "final": "lY que en el mismo dia que se hazelare",
+      "confidence": 0.69921875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        505,
+        547,
+        2326,
+        618
+      ],
+      "draft": "que da el yuios subi.do a rabon de c.a.14. Vn iij gunquam presummitur, ut inc. si mi tu propio de",
+      "final": "que da el yuios subi.do a rabon de a.14. Vn iij gunquam presummitur, ut inc. si mi tu propio de",
+      "confidence": 0.05224609375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        403,
+        588,
+        2309,
+        671
+      ],
+      "draft": "151 ¶ Conc Von Antonio Zechihere",
+      "final": "151 152 ¶ Caueca del os. Conr. Don Antonio y deshierere",
+      "confidence": 0.10205078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        495,
+        634,
+        2289,
+        713
+      ],
+      "draft": "subsequor, E quio collegicus a uniforo",
+      "final": "suberguson. E ouo collegiones a uos rōs",
+      "confidence": 0.126953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        624,
+        683,
+        2301,
+        757
+      ],
+      "draft": "Don Antonio con el Mescengariano y",
+      "final": "Don Antonio con el Mescengariano y",
+      "confidence": 0.0201416015625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        478,
+        734,
+        2326,
+        800
+      ],
+      "draft": "a su mag en no le hazer relación de la Jaz-",
+      "final": "a su maj en no le hazer relación de la JA",
+      "confidence": 0.15234375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        503,
+        783,
+        2304,
+        851
+      ],
+      "draft": "o shaltiabilis Ca le presime en vrō, que vnu·6 partes poblacionem porque dirō. Parcio con ō. 79 a",
+      "final": "o shaltiabilis Ca le presime en vrō, que vni6 partes poblacionem porque dirō. Parcio con s. 79 n°",
+      "confidence": 0.10546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        658,
+        822,
+        2326,
+        890
+      ],
+      "draft": "de duenus fuit facto gratis alteni",
+      "final": "de duenus fuit facto gratis alteni",
+      "confidence": 0.181640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        476,
+        870,
+        2289,
+        944
+      ],
+      "draft": "a sa subir y crecer A os Juno aragonçe a.14. E se guントur a li xelati per Marcar. ubi su praui. U",
+      "final": "a sa subir y crecer A os Juno aragonçe a.14. E se guントur a li xelati per Marcar. ubi su praui. U",
+      "confidence": 0.078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        405,
+        919,
+        2301,
+        1000
+      ],
+      "draft": "docet glossa in. lutiuiuiurandi e imprin verb. libertate",
+      "final": "docet glossa in. lutiuiurandi e imprin verb. libertate",
+      "confidence": 0.1357421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        376,
+        953,
+        2328,
+        1039
+      ],
+      "draft": "y qe de openio libatly quam esse receptissimam Jesuit",
+      "final": "y qe de openio libatly quam esse receptissimam jam - matos propri. y todo se hizo por medio de lobo Con ve",
+      "confidence": 0.201171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        384,
+        1004,
+        2326,
+        1080
+      ],
+      "draft": "133 D. Antonio. y a su yntancia le qual fue de cccc.xxxi. Denob. Ccl. 6. de pressumpt. pressumpt.e ex ni.4",
+      "final": "133 D. Antonio. y a su yntancia le qual fue de ciprión terminatum quinze.",
+      "confidence": 0.1796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        432,
+        1053,
+        2326,
+        1126
+      ],
+      "draft": "sse gisca apremiaçon estan fuerte utr procesos",
+      "final": "sse gisca apremiaçon estan fuerte utr procesos",
+      "confidence": 0.11572265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        452,
+        1101,
+        2331,
+        1175
+      ],
+      "draft": "149 que ad persumendumum delicium, ut censet hijo",
+      "final": "149 ¶ resurgens por pregundum rōdium, ut censet qe",
+      "confidence": 0.373046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        466,
+        1147,
+        2331,
+        1228
+      ],
+      "draft": "80 ¶ imprimo schislo de electe que colligat prinsum",
+      "final": "e imprimio schilio de electo que colligat prinsum",
+      "confidence": 0.0927734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        473,
+        1184,
+        2323,
+        1269
+      ],
+      "draft": "somoni e xvicisitak promissiouste tiempo",
+      "final": "somoni e xvicisitak promissiouste tiempo",
+      "confidence": 0.11572265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        483,
+        1240,
+        2316,
+        1316
+      ],
+      "draft": "concessione bene firi. quam glos. se quintur",
+      "final": "concessione bene firi. quam glos. se quintur",
+      "confidence": 0.46875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        461,
+        1283,
+        2348,
+        1364
+      ],
+      "draft": "Bien. Butir. E Abl. cui z. notabile. et An / haro",
+      "final": "Bien. Butir. E Abl. cui z. notabile et Anhallo",
+      "confidence": 0.01385498046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        430,
+        1335,
+        2209,
+        1406
+      ],
+      "draft": "nostab. E Mero / nius prōxime citato .nu.34. De Lictum ut estiam proximie .dxicimus, parte",
+      "final": "estab. E Meso / nius prōxime citato .nu.34. De Lictum ut estiam proximie .dxicimus, parte",
+      "confidence": 0.125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        466,
+        1381,
+        2296,
+        1452
+      ],
+      "draft": "los radericos. Bart. en L. por lo contractum nuio. E magis porque el E feo de la Ley de Napo. Vino a pa ra quē",
+      "final": "los raderes. Bart. en L. por lo contractum nuio. E magis porque el E feo de la Ley de Napo. Vino a parau",
+      "confidence": 0.12890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 28,
+      "bbox": [
+        420,
+        1427,
+        2272,
+        1505
+      ],
+      "draft": "e donacioniby obactium vicinitatem presumiunt",
+      "final": "e donazione n极 obactium vicinitatem presumi,",
+      "confidence": 0.5078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 29,
+      "bbox": [
+        437,
+        1471,
+        2250,
+        1544
+      ],
+      "draft": "111ophonidely y Juro de a14. E de lectum siempre presummitur",
+      "final": "111 uthomisely y Juro de a14. E de lectum siempre presummitur",
+      "confidence": 0.1943359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 30,
+      "bbox": [
+        554,
+        1524,
+        2316,
+        1593
+      ],
+      "draft": "dum Bipamin.l. Seventio. & esrum - So ntererit. & ab es qui ex vlo coni. dūm senble, ule excipius man",
+      "final": "dum Bipamin.l. Seventi. & esrum – So ntererit. & ab es qui ex vlo coni. dūm senble, ule excipius man",
+      "confidence": 0.0274658203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 31,
+      "bbox": [
+        683,
+        1565,
+        2331,
+        1639
+      ],
+      "draft": "por ototritio. E porqe si quisiainse a su señor, que dixit Alberic",
+      "final": "ceditite, dixite, Alberic",
+      "confidence": 0.1748046875,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "Primus Art2\ny por zamismarason scripta el am Noble conde Don Antonio enim el. c. que se presume ya non se descubre ser el con\ndijo Juno con fraude y del enposuimiento del\nMarg. su Seruans yeperueuaporque aviendo pze\n114 eje presumpt. nr. 11. Alban). conf. 45. col. &. verp por decreto sucedida por vernouillegio de pocos uidos de que\nle pudiesse Redemir Seño para que eran en la Real\nvemos que en escoeto se desmrio, y que d fue\nen poder y para proues De La muerte con ces\nlY que en el mismo dia que se hazelare\nque da el yuios subi.do a rabon de a.14. Vn iij gunquam presummitur, ut inc. si mi tu propio de\n151 152 ¶ Caueca del os. Conr. Don Antonio y deshierere\nsuberguson. E ouo collegiones a uos rōs\nDon Antonio con el Mescengariano y\na su maj en no le hazer relación de la JA\no shaltiabilis Ca le presime en vrō, que vni6 partes poblacionem porque dirō. Parcio con s. 79 n°\nde duenus fuit facto gratis alteni\na sa subir y crecer A os Juno aragonçe a.14. E se guントur a li xelati per Marcar. ubi su praui. U\ndocet glossa in. lutiuiurandi e imprin verb. libertate\ny qe de openio libatly quam esse receptissimam jam - matos propri. y todo se hizo por medio de lobo Con ve\n133 D. Antonio. y a su yntancia le qual fue de ciprión terminatum quinze.\nsse gisca apremiaçon estan fuerte utr procesos\n149 ¶ resurgens por pregundum rōdium, ut censet qe\ne imprimio schilio de electo que colligat prinsum\nsomoni e xvicisitak promissiouste tiempo\nconcessione bene firi. quam glos. se quintur\nBien. Butir. E Abl. cui z. notabile et Anhallo\nestab. E Meso / nius prōxime citato .nu.34. De Lictum ut estiam proximie .dxicimus, parte\nlos raderes. Bart. en L. por lo contractum nuio. E magis porque el E feo de la Ley de Napo. Vino a parau\ne donazione n极 obactium vicinitatem presumi,\n111 uthomisely y Juro de a14. E de lectum siempre presummitur\ndum Bipamin.l. Seventi. & esrum – So ntererit. & ab es qui ex vlo coni. dūm senble, ule excipius man\nceditite, dixite, Alberic"
+}

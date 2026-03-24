@@ -1,0 +1,510 @@
+{
+  "page": "source3_p006",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      1329,
+      1875
+    ],
+    "has_marginalia": false,
+    "raw_response": "d Inguer 121 Archivos Estatales, https://pares.cultura.go.es"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        301,
+        184,
+        1125,
+        259
+      ],
+      "draft": "functo no saliendo de ca la por vn año por obseruancia de la dicha ley. O si los enterrassen en tierra virgen, o en offarios de judios. O si algunos fe",
+      "final": "functo no saliendo de ca la por vn año por obseruancia de la dicha ley. O si los enterrassen en tierra virgen, o en offarios de judios. O si algunos fe",
+      "confidence": 0.5,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        301,
+        224,
+        1125,
+        290
+      ],
+      "draft": "funciole no lançando de caua por viruno por obolituancia de la dicha ley. O fi los enterrallen en tierra virgen, o en ossarios de judios. O fi algunos fe",
+      "final": "funciole no lançando de caua por viruno por obolituancia de la dicha ley. O fi los enterrallen en tierra virgen, o en ossarios de judios. O fi algunos fe",
+      "confidence": 0.8671875,
+      "method": "kept"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        301,
+        255,
+        1129,
+        330
+      ],
+      "draft": "tios enterfalen en tierra virgen, o en ocharlos de judios. O si algunos le han y do a tornar judios, O si alguno ha dicho que tan buena es la ley de Movenlen, como la de nuestro señor JESUCHRISTO",
+      "final": "tios enterfalen en tierra virgen, o en ocharlos de judios. O si algunos le han y do a tornar judios, O si alguno ha dicho que tan buena es la ley de Movenlen, como la de nuestro señor JESUS CHRISTO",
+      "confidence": 0.578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        301,
+        292,
+        992,
+        357
+      ],
+      "draft": "llan y do a tornar judios, Oh alguno ha dicho que tan buena",
+      "final": "llan y do a tornar judios, Oh alguno ha dicho que tan buena",
+      "confidence": 0.703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        380,
+        365,
+        1125,
+        436
+      ],
+      "draft": "SI SAVEYS, o haueys oydo dezir, que algunas personas ayar dicho, o affirmado que la fera de Mahoma es buena, y que no",
+      "final": "SI SAVEYS, o haueys oydo dezir, que algunas personas ayar dicho, o affirmado que la fera de Mahoma es buena, y que no",
+      "confidence": 0.5625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        378,
+        394,
+        1125,
+        473
+      ],
+      "draft": "sita s A V E y s, o haueys oydo dezir, que algunas personas ayant dicho, o affirmado que la feta de Mahoma es buena, y que no ay otra para entrar en el Paravlo. Y que IESVC CHRISTO",
+      "final": "sita s A V E y s, o haueys oyo dezir, que algunas personas ayant dicho, o affirmado que la feta de Mahoma es buena, y que no ay otra para entrar en el Paravlo. Y que IESVC CHRISTO",
+      "confidence": 0.1875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        380,
+        434,
+        1129,
+        508
+      ],
+      "draft": "dicho, o aminalado que la lenta de Mallonia es Buelta, y que no ay otra para entrar en el Paraylo. Y que IESV CHRISTO Dios, fino Prophetا, y que no nacio de nuestra señora, fiendo",
+      "final": "dicho, o amilado que la lenta de Mallonia es Buelta, y que no ay otra para entrar en el Paraylo. Y que IESV CHRISTO Dios, fino Prophetا, y que no nacio de nuestra señora, fiendo",
+      "confidence": 0.41015625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        300,
+        467,
+        1125,
+        537
+      ],
+      "draft": "ay otra para entrar en el Palayio. Y que E ES Y CHRISTO",
+      "final": "ay otra para entrar en el Palaylo. Y que E ES Y CHRISTO",
+      "confidence": 0.232421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        303,
+        504,
+        1131,
+        577
+      ],
+      "draft": "dios, lino Prophetia. Y que no hizo de nueustra señora, luego virgen antes del parto, en el parto, y despues del parto. O que ayan he cho algunos ritos y cerimonia's de la feria de Mahoma por guarda y ob",
+      "final": "dios, lino y Propicia. Y que no hizo de nueustra señora, luego virgen antes del parto, en el parto, y despues del parto. O que ayan he cho algunos ritos y cerimonia's de la feria de Mahoma por guarda y ob",
+      "confidence": 0.255859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        298,
+        533,
+        1131,
+        614
+      ],
+      "draft": "virgen antes del parto, en el parto, y despues del parto. O que ayan he cho algunos ritos y ceremonias de la fecha de Mahoma, por guarda y ob- feruancia de ella, assi como si vuiessen guardado los Viernes por fiesta",
+      "final": "virgen antes del parto, en el parto, y despues del parto. O que ayan he cho algunos ritos y ceremonias de la fecha de Mahoma, por guarda y ob- feruancia de ella, assi como si vuiessen guardado los Viernes por fiesta",
+      "confidence": 0.60546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        300,
+        574,
+        1131,
+        643
+      ],
+      "draft": "eno algunos ritos y ceruñas de la festa de Malloma, por guarda y obseruancia de ella, a ssi como li vuiessen guardado los Viernes por fiesta, comiendo carne en ellos, o en otros dias prohibidos por la ley qe. Medrums",
+      "final": "eno algunos ritos y ceruñas de la festa de Malloma, por guarda y obseruancia de ella, a ssi como li vuiessen guardado los Viernes por fiesta, comiendo carne en ellos, o en otros dias prohibidos por la ley qe. Medrums",
+      "confidence": 0.0537109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        301,
+        605,
+        1131,
+        680
+      ],
+      "draft": "peruancia de ella, a ssi como si vuiessen guardado los Viernes por helta, comiendo carne en ellos, o en otros dias prohibidos por la lança Madre yglesia, diziendo que no es peccado; yostiendola en los dichos Viernes",
+      "final": "peruancia de ella, a ssi como si vuiessen guardado los Viernes por helta, comiendo carne en ellos, o en otros dias prohibidos por la lança Madre yglesia, diziendo que no es peccado; yostiendola en los dichos Viernes",
+      "confidence": 0.212890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        303,
+        645,
+        1131,
+        713
+      ],
+      "draft": "y glefia, diziendo que no es peccado: vistendose en los dichos Viernes camisas limpias y otras no paso de fiasse. O gran dagollada que qe refuer",
+      "final": "y glefia, diziendo que no es peccado: vistendose en los dichos Viernes camisas limpias y otras no paso de fiasse. O gran dagollada que qe refuer",
+      "confidence": 0.0213623046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        301,
+        680,
+        1129,
+        753
+      ],
+      "draft": "y griena, diziendo que no es peccado. Vitiendole en los dichos y vieles camilas limpias, y otras ropas de fielta, O ayan de gollado aues o refeso o otra cosa a trauefflo el cuchillo dexando la puer en la cabeça boluia",
+      "final": "y griena, diziendo que no es peccado. Vitiendole en los dichos y llines camilas limpias, y otras ropas de fiesta, O ayan de gollado aues o refeso o otra cosa a trauefflo el cuchillo dexando la puer en la cabeça boluia",
+      "confidence": 0.162109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        301,
+        718,
+        1127,
+        779
+      ],
+      "draft": "Catuss Mil plus, y otras cosas de ella. O ayal de ggonialo aues o leles o otra cosa, a trauessando el cuchillo, dexando la nueue en la cabeça boluiēdo la armaril Alaricko, ca marial. Girioli Nad. 65 y al",
+      "final": "Catuss Mil plus, y otras cosas de ella. O ayal de ggonialo aues o leles o otra cosa, a trauessando el cuchillo, dexando la nueue en la cabeça boluiēdo la armaril Alaricklo, ca marial. Giri dali Nadie. Ca V",
+      "confidence": 0.004638671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        301,
+        749,
+        1131,
+        821
+      ],
+      "draft": "Otra cosa, attauiendo el cuchillo, dexandolo la huez en la cabeça boluesdo la cara azia el Alquibla, que esazia el Oriente diziendo, Vizmelea, y atando los pies a las refes. O que no coman ninguna a uos que estan",
+      "final": "Otra cosa, attauchando el cuchillo, dexandolo la huez en la cabeça boluesdo la cara azia el Alquibla, que es dia el Oriente diziendo, Vizmelea, y atando los pies a las refes. O que no coman ninguna a uos que estan",
+      "confidence": 0.146484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        301,
+        784,
+        1129,
+        859
+      ],
+      "draft": "dela cara azia el Alquibia, que es azi el Oriente diziendo, Vizinme la, y atando los pies a las reses. O que no coman ninguna aues que esten por degollar, ni que esten degolladas de mano de muger, ni guerian",
+      "final": "dela cara azia el Alquibia, que es azi el Oriente diziendo, Vizinme la, y atando los pies a las refes. O que no coman ninguna aues que esten por degollar, ni que esten degolladas de mano de muger, ni guerian",
+      "confidence": 0.482421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        300,
+        817,
+        1135,
+        896
+      ],
+      "draft": "y atando los ples a las reles. O que no comian ninguna aues que esten por degollar, ni que esten degolladas de mano de muger, ni querien dolas de degollar las dichas mugeres por les estar prohibido en la fecha de",
+      "final": "y atando los ples a las reles. O que no comian ninguna aues que esten por degollar, ni que esten degolladas de mano de muger, ni querien dolas de degollar las dichas mugeres por les estar prohibido en la fecha de",
+      "confidence": 0.4765625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        298,
+        852,
+        1131,
+        931
+      ],
+      "draft": "por de gollar, ni que esten de golladas de mano de muger, ni quieren dolas de degollar las dichas mugeres por les estar prohibido en la feta de Mahoma. O que avan retajado a fushi hijos, non iendoles nombres de",
+      "final": "por de gollar, ni que esten de golladas de mano de muger, ni quieren dolas de gollar las dichas mugeres por les estar prohibido en la feta de Mahoma. O que avan retajado a fushijos, non iendoles nombres de",
+      "confidence": 0.162109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        300,
+        890,
+        1131,
+        962
+      ],
+      "draft": "Mahoma, O que ayan retajado a sus hijos, poniendoles nombres de los Moros, y llamandoles a ssi: O que se llamassen los dios, nombres",
+      "final": "dolas de gonçal las dichas mugeres por les estar prohibido en la lenta de Mahoma, O que ayan retajado a sus hijos, poniendoles nombres de los Moros, y llamandoles a ssi: O que se llamassen los discos nombres",
+      "confidence": 0.1328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        300,
+        923,
+        1129,
+        995
+      ],
+      "draft": "Mauonia, O que ayall retajado a tus hijos, poniendoles nombres de los Moros, y llamandoles assi: O que le llamassen los dichos nombres de Moros o que le huelgen que le los llaman. O que eran dicho, que",
+      "final": "Mauonia, O que ayall retajado a tus hijos, poniendoles nombres de los Moros, y llamandoles assi: O que le llamassen los dichos nombres de Moros o que le huelgen que le los llaman. O que eran dicho, que",
+      "confidence": 0.10400390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        300,
+        956,
+        1131,
+        1037
+      ],
+      "draft": "los Moros, y llamandoles a ssi: O que le llamauiesen los dichos nombres de Moros o que le huelgen que fe los llamen O que ayan dicho, que no ay mas que Dios y Mahoma su mensa gero. O que ayan jurado por",
+      "final": "los Moros, y llamandoles a ssi: O que le llamauiesen los dichos nombres de Moros o que le huelgen que fe los llamen O que ayan dicho, que no ay mas que Dios y Mahoma su mensa gero. O que ayan jurado por",
+      "confidence": 0.33203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        301,
+        984,
+        1135,
+        1114
+      ],
+      "draft": "de Moros, o que le huelgen que fe los llamen. O que ayudan dicho, que no ay mas que Dios y Mahoma lumenfagero. O que ayauan por el Alquibla, o dicho A laymingula, que quiere dezir, Por todos los juramentos. O que ayauan el ayuno del Ramadan, guardan",
+      "final": "de Moros, o que le huelgen que fe los llamen. O que ayano dicho, que no ay mas que Dios y Mahoma lumenfagero. O que ayan jurado por el Alquibla, o dicho A laymingula, que quiere dezir, Por todos los juramentos. O que ayan auxado el ayuno del Ramadan,",
+      "confidence": 0.384765625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        301,
+        1064,
+        1133,
+        1172
+      ],
+      "draft": "El Aquilia, o dicho A laymittigua, que quiere dezir, Por todos los juramentos. O que ayauo el ayuno del Ramadan, guardan- do su Pasqua, dando en ella a los pobres limosña, no comiendo ni beuiendo en todo el dia hasta, la noche (falia la estrella, comiendo",
+      "final": "Anaggia, o dicho A laymittigua, que quiere dezir, Por todos los juramentos. O que ayuan ayudado el ayuno del Ramadan, guardan- do su Pasqua, dando en ella a los pobres limosña, no comiendo ni beuiendo en todo el dia hasta, la noche (falia la estrella, comiendo",
+      "confidence": 0.125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        301,
+        1134,
+        1129,
+        1202
+      ],
+      "draft": "go la Palqua, dando en ella a los pobres limoña, no comiendo ni beuiendo en todo el dia hasta la noche falida la estrella, comiendo carne o lo que auiera. O que nunca bede, o despues de su deseo, de su deseo,",
+      "final": "go la Palqua, dando en ella a los pobres limoña, no comiendo ni beuiendo en todo el dia hasta la noche falida la estrella, comiendo carne o lo que auiera. O que nunca bede, o despues de su deseo, de su deseo,",
+      "confidence": 0.044677734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        300,
+        1172,
+        1129,
+        1240
+      ],
+      "draft": "seuiendo en todo el dia hasta la noche linda la estrella, comiendo carne, o lo que quieren. O que ayan hecho el zahor, leuantandose a las mañanas antes que amançe a comer, y despues de auer comido, le guiso",
+      "final": "seuiendo en todo el dia hasta la noche linda la estrella, comiendo carne, o lo que quieren. O que ayan hecho el zahor, leuantandose a las mañanas antes que amançe a comer, y despues de auer comido, le guiso",
+      "confidence": 0.1796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        303,
+        1213,
+        1131,
+        1273
+      ],
+      "draft": "a qe quiereres. E que ayuniesse el Cauallor, leuantandole unas mañanas antes que amanezca a comer, y despues de auer comido, lauarlase la boca y tornarfo a la serme. O que ayu a lardad y Guardarle la leche, y despues de comido, lauarlase la boca y tornarfo a la serme. O que ayu a lardad y Guardarle la leche, y despues de comido, lauarlase la boca y tornarfo a la serme. O que ayu a lardad y Guardarle la leche, y despues de comido, lauarlase la boca y tornarfo a la serme. Output ONLY the transcribed text, nothing else.",
+      "final": "a qe quiereres. E que ayuniesse el Cauallor, leuantandole unas mañanas antes que amanezca a comer, y despues de auer comido, lauarlase la boca y tornarfo a la serme. O que ayu a lardad y Guardarle la leche, y despues de comido, lauarlase la boca y tornarfo a la serme. O que ayu a lardad y Guardarle la leche, y despues de comido, lauarlase la boca y tornarfo a la serme. O que ayu a lardad y Guardarle la leche, y despues de comido, lauarlase la boca y tornarfo a la serme. Output ONLY the transcribed text, nothing else.",
+      "confidence": 0.984375,
+      "method": "kept"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        298,
+        1238,
+        1133,
+        1313
+      ],
+      "draft": "uatallas antes que amanezca a comer, y despues de auer comido, la tiar fe la boca y tornarle a la cama. O que ayan hecho el Guadoc, lauandose los braços de las manos y los codos, cara, boca narizes, oudos, uniernes",
+      "final": "uatallas antes que amanezca a comer, y despues de auer comido, la tiar fe la boca y tornarle a la cama. O que ayan hecho el Guadoc, lauandose los braços de las manos y los codos, cara, boca narizes, oudos, uniernes",
+      "confidence": 0.06396484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 28,
+      "bbox": [
+        300,
+        1275,
+        1138,
+        1353
+      ],
+      "draft": "de la boca y tornarle a la caua. O que ayan hecho el Guadoc, lauandole los braços, de las manos a los codos, boca, narizes, oydos, y piernas, partes y vergonçolas. O que ayan hecho despues el zala, boluiedo la cara",
+      "final": "de la boca y tornarle a la caua. O que ayan hecho el Guadoc, lauandole los braços, de las manos a los codos, boca, narizes, oydos, y piernas, partes vergonçolas. O que ayan hecho despues el zala, boluiedo la cara",
+      "confidence": 0.361328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 29,
+      "bbox": [
+        298,
+        1315,
+        1133,
+        1381
+      ],
+      "draft": "los braqos, de las manos a los codos, cara, boca, narizes, oyes, y piernas, partes vergonçolas. O que ayan hecho despues el zala, boluiedo la cara al Alguibla, pisandose, yobre una corte a novel alarde, y sobre rica",
+      "final": "los braqos, de las manos a los codos, cara, boca, narizes, oyes, y piernas, partes vergonçolas. O que ayan hecho despues el zala, boluiedo la cara al Alguibla, pisandose, yobre una corte a novel alarde, y sobre rica y noble vida, de la",
+      "confidence": 0.00186920166015625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 30,
+      "bbox": [
+        294,
+        1343,
+        1138,
+        1421
+      ],
+      "draft": "partes y ergonçolias. O que ayan hecho despues el zala, boluiedo la cara al Alquibla, poniendole sobre vna estera o poyal, alçando, y baxando la cabeça, diziendo ciertas palabras en Arabigo, rezando la oracion de I",
+      "final": "partes y ergonçolias. O que ayan hecho despues el zala, boluiedo la cara al Alquibla, poniendole sobre vna estera o poyal, alçando, y baxando la cabeça, diziendo ciertas palabras en Arabigo, rezando la oracion de I",
+      "confidence": 0.21484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 31,
+      "bbox": [
+        298,
+        1385,
+        1138,
+        1452
+      ],
+      "draft": "ual Alçabia, poniendole sobre vila celta o poyar, alçando, y axaxando la cabeça, diziendo ciertas palabras en Arabigo, rezandolo la oracion del I Andululey y Colbua, y la Cuchas, y otras oraciones de Mooros. Y qe cuanto a Orino, y qe cuanto a Matar, no alli, y qe cuanto a Poblar, do nothing, y qe cuanto a Moor, do nothing, (e en somey con Spanish语)",
+      "final": "ual Alçabia, poniendole sobre vila celta o poyar, alçando, y axaxando la cabeça, diziendo ciertas palabras en Arabigo, rezandolo la oracion del I Andululey y Colbua, y la Cuchas, y otras oraciones de Moços. Y qe cuanto a Oracion",
+      "confidence": 0.3046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 32,
+      "bbox": [
+        296,
+        1414,
+        1138,
+        1491
+      ],
+      "draft": "cabeça, diziendo cierças palabras en Arabigo, rezando la oracion del Andululey, y Colhua, y las oraciones de Moros. Y que no coman tocino, ni beuan vino, por guarda y observancia de la feta, de",
+      "final": "cabeça, diziendo ciertas palabras en Arabigo, rezando la oracion del Andululey, y Colhua, y las oraciones de Moros. Y que no coman tocino, ni beuan vino, por guarda y observancia de la fecha, de",
+      "confidence": 0.1455078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 33,
+      "bbox": [
+        294,
+        1456,
+        1138,
+        1520
+      ],
+      "draft": "lindalley, y Comua, y la Guadal, y otras Óraçiones de Moros. y que no coman tocino, ni beuan vino; por guarda y obseruancia de la feta de los Moros. O que eran gregarios de la iglesia, y levaran la consolida y el tiempo, dozino, vigilia, etc. y que no modernize the spelling (e.g. keep 'Vezino', 'Leg.mo', 'Vm'). Output ONLY the transcribed text, nothing else.",
+      "final": "lindalley, y Comua, y la Guadal, y otras Óraçiones de Moros. y que no coman tocino, ni beuan vino; por guarda y obseruancia de la feta de los Moros. O que eran gregarios de la iglesia, y levaran la consolida y el tiempo, dozino, vigilia, etc. y que no modernize the spelling (e.g. keep 'Vezino', 'Leg.mo', 'Vm'). Output ONLY the transcribed text, nothing else.",
+      "confidence": 0.91015625,
+      "method": "kept"
+    },
+    {
+      "index": 34,
+      "bbox": [
+        294,
+        1487,
+        1136,
+        1560
+      ],
+      "draft": "no coman toermo, ni be Dani vino; por guarda y obiertuancia de la lenta de los Moros, O que ayan guardado la Pascua del carnero, auiendole rnu- terto haziendo primero al Guardo. O algunos le auian safado, fegun",
+      "final": "no coman toermo, ni be Dani vino; por guarda y obiertuancia de la lenta de los Moros, O que ayan guardado la Pascua del carnero, auiendole rnu- terto haziendo primero al Guardo. O algunos le auian sañado, fegun",
+      "confidence": 0.07958984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 35,
+      "bbox": [
+        294,
+        1524,
+        1140,
+        1599
+      ],
+      "draft": "los moros. O que ayan guardado la Parcua del camero, atendole y uerto, haziendo primero el Guadoc, Osifalgun",
+      "final": "los moros. O que ayan guardado la Parcua del camero, atendendole y uerto, haziendo primero el Guadoc, Osifalgun",
+      "confidence": 0.431640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 36,
+      "bbox": [
+        301,
+        1566,
+        1136,
+        1624
+      ],
+      "draft": "es el Conde príuiose or Cauayes. E mugueritos lo ay un Cauayo y mu",
+      "final": "es el Conde principe of Cauayes. E mugueros lo ay un Cauaye. Megun",
+      "confidence": 0.0177001953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 37,
+      "bbox": [
+        649,
+        1828,
+        977,
+        1872
+      ],
+      "draft": "https://pares.cultural",
+      "final": "https://pares.cultural",
+      "confidence": 1.0,
+      "method": "kept"
+    }
+  ],
+  "text": "functo no saliendo de ca la por vn año por obseruancia de la dicha ley. O si los enterrassen en tierra virgen, o en offarios de judios. O si algunos fe\nfunciole no lançando de caua por viruno por obolituancia de la dicha ley. O fi los enterrallen en tierra virgen, o en ossarios de judios. O fi algunos fe\ntios enterfalen en tierra virgen, o en ocharlos de judios. O si algunos le han y do a tornar judios, O si alguno ha dicho que tan buena es la ley de Movenlen, como la de nuestro señor JESUS CHRISTO\nllan y do a tornar judios, Oh alguno ha dicho que tan buena\nSI SAVEYS, o haueys oydo dezir, que algunas personas ayar dicho, o affirmado que la fera de Mahoma es buena, y que no\nsita s A V E y s, o haueys oyo dezir, que algunas personas ayant dicho, o affirmado que la feta de Mahoma es buena, y que no ay otra para entrar en el Paravlo. Y que IESVC CHRISTO\ndicho, o amilado que la lenta de Mallonia es Buelta, y que no ay otra para entrar en el Paraylo. Y que IESV CHRISTO Dios, fino Prophetا, y que no nacio de nuestra señora, fiendo\nay otra para entrar en el Palaylo. Y que E ES Y CHRISTO\ndios, lino y Propicia. Y que no hizo de nueustra señora, luego virgen antes del parto, en el parto, y despues del parto. O que ayan he cho algunos ritos y cerimonia's de la feria de Mahoma por guarda y ob\nvirgen antes del parto, en el parto, y despues del parto. O que ayan he cho algunos ritos y ceremonias de la fecha de Mahoma, por guarda y ob- feruancia de ella, assi como si vuiessen guardado los Viernes por fiesta\neno algunos ritos y ceruñas de la festa de Malloma, por guarda y obseruancia de ella, a ssi como li vuiessen guardado los Viernes por fiesta, comiendo carne en ellos, o en otros dias prohibidos por la ley qe. Medrums\nperuancia de ella, a ssi como si vuiessen guardado los Viernes por helta, comiendo carne en ellos, o en otros dias prohibidos por la lança Madre yglesia, diziendo que no es peccado; yostiendola en los dichos Viernes\ny glefia, diziendo que no es peccado: vistendose en los dichos Viernes camisas limpias y otras no paso de fiasse. O gran dagollada que qe refuer\ny griena, diziendo que no es peccado. Vitiendole en los dichos y llines camilas limpias, y otras ropas de fiesta, O ayan de gollado aues o refeso o otra cosa a trauefflo el cuchillo dexando la puer en la cabeça boluia\nCatuss Mil plus, y otras cosas de ella. O ayal de ggonialo aues o leles o otra cosa, a trauessando el cuchillo, dexando la nueue en la cabeça boluiēdo la armaril Alaricklo, ca marial. Giri dali Nadie. Ca V\nOtra cosa, attauchando el cuchillo, dexandolo la huez en la cabeça boluesdo la cara azia el Alquibla, que es dia el Oriente diziendo, Vizmelea, y atando los pies a las refes. O que no coman ninguna a uos que estan\ndela cara azia el Alquibia, que es azi el Oriente diziendo, Vizinme la, y atando los pies a las refes. O que no coman ninguna aues que esten por degollar, ni que esten degolladas de mano de muger, ni guerian\ny atando los ples a las reles. O que no comian ninguna aues que esten por degollar, ni que esten degolladas de mano de muger, ni querien dolas de degollar las dichas mugeres por les estar prohibido en la fecha de\npor de gollar, ni que esten de golladas de mano de muger, ni quieren dolas de gollar las dichas mugeres por les estar prohibido en la feta de Mahoma. O que avan retajado a fushijos, non iendoles nombres de\ndolas de gonçal las dichas mugeres por les estar prohibido en la lenta de Mahoma, O que ayan retajado a sus hijos, poniendoles nombres de los Moros, y llamandoles a ssi: O que se llamassen los discos nombres\nMauonia, O que ayall retajado a tus hijos, poniendoles nombres de los Moros, y llamandoles assi: O que le llamassen los dichos nombres de Moros o que le huelgen que le los llaman. O que eran dicho, que\nlos Moros, y llamandoles a ssi: O que le llamauiesen los dichos nombres de Moros o que le huelgen que fe los llamen O que ayan dicho, que no ay mas que Dios y Mahoma su mensa gero. O que ayan jurado por\nde Moros, o que le huelgen que fe los llamen. O que ayano dicho, que no ay mas que Dios y Mahoma lumenfagero. O que ayan jurado por el Alquibla, o dicho A laymingula, que quiere dezir, Por todos los juramentos. O que ayan auxado el ayuno del Ramadan,\nAnaggia, o dicho A laymittigua, que quiere dezir, Por todos los juramentos. O que ayuan ayudado el ayuno del Ramadan, guardan- do su Pasqua, dando en ella a los pobres limosña, no comiendo ni beuiendo en todo el dia hasta, la noche (falia la estrella, comiendo\ngo la Palqua, dando en ella a los pobres limoña, no comiendo ni beuiendo en todo el dia hasta la noche falida la estrella, comiendo carne o lo que auiera. O que nunca bede, o despues de su deseo, de su deseo,\nseuiendo en todo el dia hasta la noche linda la estrella, comiendo carne, o lo que quieren. O que ayan hecho el zahor, leuantandose a las mañanas antes que amançe a comer, y despues de auer comido, le guiso\na qe quiereres. E que ayuniesse el Cauallor, leuantandole unas mañanas antes que amanezca a comer, y despues de auer comido, lauarlase la boca y tornarfo a la serme. O que ayu a lardad y Guardarle la leche, y despues de comido, lauarlase la boca y tornarfo a la serme. O que ayu a lardad y Guardarle la leche, y despues de comido, lauarlase la boca y tornarfo a la serme. O que ayu a lardad y Guardarle la leche, y despues de comido, lauarlase la boca y tornarfo a la serme. Output ONLY the transcribed text, nothing else.\nuatallas antes que amanezca a comer, y despues de auer comido, la tiar fe la boca y tornarle a la cama. O que ayan hecho el Guadoc, lauandose los braços de las manos y los codos, cara, boca narizes, oudos, uniernes\nde la boca y tornarle a la caua. O que ayan hecho el Guadoc, lauandole los braços, de las manos a los codos, boca, narizes, oydos, y piernas, partes vergonçolas. O que ayan hecho despues el zala, boluiedo la cara\nlos braqos, de las manos a los codos, cara, boca, narizes, oyes, y piernas, partes vergonçolas. O que ayan hecho despues el zala, boluiedo la cara al Alguibla, pisandose, yobre una corte a novel alarde, y sobre rica y noble vida, de la\npartes y ergonçolias. O que ayan hecho despues el zala, boluiedo la cara al Alquibla, poniendole sobre vna estera o poyal, alçando, y baxando la cabeça, diziendo ciertas palabras en Arabigo, rezando la oracion de I\nual Alçabia, poniendole sobre vila celta o poyar, alçando, y axaxando la cabeça, diziendo ciertas palabras en Arabigo, rezandolo la oracion del I Andululey y Colbua, y la Cuchas, y otras oraciones de Moços. Y qe cuanto a Oracion\ncabeça, diziendo ciertas palabras en Arabigo, rezando la oracion del Andululey, y Colhua, y las oraciones de Moros. Y que no coman tocino, ni beuan vino, por guarda y observancia de la fecha, de\nlindalley, y Comua, y la Guadal, y otras Óraçiones de Moros. y que no coman tocino, ni beuan vino; por guarda y obseruancia de la feta de los Moros. O que eran gregarios de la iglesia, y levaran la consolida y el tiempo, dozino, vigilia, etc. y que no modernize the spelling (e.g. keep 'Vezino', 'Leg.mo', 'Vm'). Output ONLY the transcribed text, nothing else.\nno coman toermo, ni be Dani vino; por guarda y obiertuancia de la lenta de los Moros, O que ayan guardado la Pascua del carnero, auiendole rnu- terto haziendo primero al Guardo. O algunos le auian sañado, fegun\nlos moros. O que ayan guardado la Parcua del camero, atendendole y uerto, haziendo primero el Guadoc, Osifalgun\nes el Conde principe of Cauayes. E mugueros lo ay un Cauaye. Megun\nhttps://pares.cultural"
+}

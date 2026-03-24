@@ -1,0 +1,237 @@
+{
+  "page": "source4_p013",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      2464,
+      1858
+    ],
+    "has_marginalia": false,
+    "raw_response": "12 01 28 con la vida de Don Antonio se exhiguia el Juez y a su caso conve Don Alonsi, avraugurando don laga la segunda vida de Rey, y quierle a los Don Pedro su hijo la cosa mas fuerça de Dragon"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        416,
+        81,
+        2350,
+        236
+      ],
+      "draft": "la vida de Don Antonio se exinguiaba el juez porque el so Conixe Don Alonsi a maquerido dar",
+      "final": "la vida de Don Antonio se estinguia el juez porque el so Conixe Don Alonsi a maquerido dar",
+      "confidence": 0.009521484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        399,
+        192,
+        2331,
+        284
+      ],
+      "draft": "que dios Contezon con Jonge a traquerido dar la segunda vida al Rei y guisar seja al os /",
+      "final": "que dios Contezon con Jonge a traquerido dar la segunda vida al Rei y guisar se la a los",
+      "confidence": 0.05810546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        616,
+        245,
+        2269,
+        330
+      ],
+      "draft": "y por que es la cosa mas fuerce",
+      "final": "e si que es la cosa mas fuerce",
+      "confidence": 0.322265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        404,
+        288,
+        2302,
+        433
+      ],
+      "draft": "Dagon 2 de termins que puede avr por",
+      "final": "Dagon 26 terminos que puede avr por sor 122 su sop roque es la lota mi fuer // Dagon 26 terminos que puede avr por sor 123 su sop de la subcession, no para darla a otz // 58 Al des Marque Don Pedro. [de clausuass // 5",
+      "confidence": 0.00136566162109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        442,
+        382,
+        2295,
+        582
+      ],
+      "draft": "Aos Marquez, don Merles.",
+      "final": "83 Año Marquez, don Merles. Don Artex. Don Claudio. Don Cipriano. Don 118",
+      "confidence": 0.07470703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        404,
+        533,
+        2295,
+        818
+      ],
+      "draft": "123 ¶ Doqier & tierra de la desigual represa 118 ¶ Doqier & tierra de la desigual represa 118 ¶ Doqier & tierra de la desigual represa 118 ¶ Doqier & tierra de la desigual represa 118",
+      "final": "123 ¶ Doqier & tierra de la desigual represa 118 ¶ Doqier & tierra de la desigual represa 118 ¶ Doqier & tierra de la desigual represa 118 ¶ Doqier & tierra de la desigual represa 118",
+      "confidence": 0.8515625,
+      "method": "kept"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        442,
+        764,
+        2269,
+        857
+      ],
+      "draft": "quat de ulium ci relinguat non Augubrium, porque si esquenta e otrosi in I. guissandi. E porque es esquenta e obligar. de quā la & egit el ipso",
+      "final": "quarct de ulium ci relinguat non Augubrium, porque si esquenta Cardo in E. guissante. E porque es esquenta Doblezino in E. guissante.",
+      "confidence": 0.043212890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        401,
+        813,
+        1756,
+        907
+      ],
+      "draft": "otrosi con el causila en que el // Conde Don alfo",
+      "final": "otrosi con el causila en que el // Conde Don alfo",
+      "confidence": 0.08447265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        500,
+        858,
+        2312,
+        943
+      ],
+      "draft": "Alguara En que otros Conde Don alonso que otros Don Polgu si lo por pueda acaua y quando sin pusubio de vna variedad tan clara se quisie",
+      "final": "Alguara En que otros Conde Don alonso que otros Don Polgu si lo por pueda acaua y quando sin pusubio de vna variedad tan clara seguesie",
+      "confidence": 0.2001953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        372,
+        911,
+        2319,
+        1266
+      ],
+      "draft": "32 ¶ le siete semanas. Don Alfonso, don Bautista, don Carlo, don Bartolome, don薄, don 11",
+      "final": "32 ¶ le quiere quemar Don Alfonso, don Cipriano, don Siseo, don Bautista, don Siseo, don Bautista, don Siseo, don Bautista, don Siseo, don Bautista, don Siseo, don Bautista, don Siseo, don Bautista, don S",
+      "confidence": 0.3125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        514,
+        1227,
+        2317,
+        1316
+      ],
+      "draft": "villa porstra clauilla querer quitasgels",
+      "final": "villa porstra clauilla querer quitasgels",
+      "confidence": 0.0118408203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        399,
+        1275,
+        2302,
+        1357
+      ],
+      "draft": "fueran vesto por este caudillo querer que tajes",
+      "final": "fueran vesto por feclaustica quier que tajels / y el sentido de la a er que Don T' no pueda se",
+      "confidence": 0.330078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        885,
+        1328,
+        2290,
+        1403
+      ],
+      "draft": "pero no que le quisi",
+      "final": "pero no que le quita",
+      "confidence": 0.1865234375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        375,
+        1376,
+        2305,
+        1504
+      ],
+      "draft": "año donado en vida, uio caso interminç",
+      "final": "año donado en vida, uio caso interminç",
+      "confidence": 0.0118408203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        392,
+        1470,
+        2281,
+        1550
+      ],
+      "draft": "1. si quan df delegati A lioguin vendrem.Ti",
+      "final": "1. si quan df delegati A lioguin vendrem.Ti",
+      "confidence": 0.05224609375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        421,
+        1513,
+        2115,
+        1598
+      ],
+      "draft": "absordo que queda apuntado o que si. Or",
+      "final": "absordo que queda apuntado o que si. Or",
+      "confidence": 0.1806640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        481,
+        1561,
+        2295,
+        1646
+      ],
+      "draft": "daua de xirid de la segunda vida les",
+      "final": "daua a xirid de la segunda vida les",
+      "confidence": 0.2412109375,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "la vida de Don Antonio se estinguia el juez porque el so Conixe Don Alonsi a maquerido dar\nque dios Contezon con Jonge a traquerido dar la segunda vida al Rei y guisar se la a los\ne si que es la cosa mas fuerce\nDagon 26 terminos que puede avr por sor 122 su sop roque es la lota mi fuer // Dagon 26 terminos que puede avr por sor 123 su sop de la subcession, no para darla a otz // 58 Al des Marque Don Pedro. [de clausuass // 5\n83 Año Marquez, don Merles. Don Artex. Don Claudio. Don Cipriano. Don 118\n123 ¶ Doqier & tierra de la desigual represa 118 ¶ Doqier & tierra de la desigual represa 118 ¶ Doqier & tierra de la desigual represa 118 ¶ Doqier & tierra de la desigual represa 118\nquarct de ulium ci relinguat non Augubrium, porque si esquenta Cardo in E. guissante. E porque es esquenta Doblezino in E. guissante.\notrosi con el causila en que el // Conde Don alfo\nAlguara En que otros Conde Don alonso que otros Don Polgu si lo por pueda acaua y quando sin pusubio de vna variedad tan clara seguesie\n32 ¶ le quiere quemar Don Alfonso, don Cipriano, don Siseo, don Bautista, don Siseo, don Bautista, don Siseo, don Bautista, don Siseo, don Bautista, don Siseo, don Bautista, don Siseo, don Bautista, don S\nvilla porstra clauilla querer quitasgels\nfueran vesto por feclaustica quier que tajels / y el sentido de la a er que Don T' no pueda se\npero no que le quita\naño donado en vida, uio caso interminç\n1. si quan df delegati A lioguin vendrem.Ti\nabsordo que queda apuntado o que si. Or\ndaua a xirid de la segunda vida les"
+}

@@ -1,0 +1,276 @@
+{
+  "page": "source2_p003",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      6300,
+      8400
+    ],
+    "has_marginalia": false,
+    "raw_response": "61 ¶ de Cabeço y Dona ma"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        1082,
+        515,
+        6152,
+        928
+      ],
+      "draft": "de a guiare madre legítima de marian dres de a reqi mi hija legítima en la cauessa",
+      "final": "de a guiare madre legítima de marian dres de a reqi mi hija legítima en la cauerra & a tage de cordoua e qe eran ararunas",
+      "confidence": 0.10205078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        1197,
+        720,
+        6144,
+        1273
+      ],
+      "draft": "e gūlita de mandarres de argui mi hyslegītma en la cūura e gago de guardar goitria clerigo presbitero natural y laudo en el señorio de discipa y en el arara. El ocho",
+      "final": "elegimia de mandarres de argui mi hyslegima en la curia ciego de gardeagoitria clerigo presbitero natural y laudo en el señorio de discipa y en el arcaico (y chó)",
+      "confidence": 0.0224609375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        959,
+        1089,
+        6045,
+        1486
+      ],
+      "draft": "gquerinen embargo de lo que se alega Por la parte contraaria por su peticion de primeros //",
+      "final": "guerinen embargo de lo que se alega Por la parte contraaria por supeticion de primeros //",
+      "confidence": 0.203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        1099,
+        1400,
+        6078,
+        1814
+      ],
+      "draft": "nres de septiembre debe 6 m, de justicia en execucion del auto por Um dado en",
+      "final": "nres de septiembre debe 18, de justicia en execucion del auto por Um dado en",
+      "confidence": 0.40625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        1074,
+        1679,
+        6053,
+        2052
+      ],
+      "draft": "dias del mer de Julio próximo que passo mandar que Oualgoacil que era por Um",
+      "final": "dias del mer de Julio próximo que passo mandar que Oualgoacil que era por Um",
+      "confidence": 0.224609375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        1730,
+        2040,
+        6070,
+        2331
+      ],
+      "draft": "caya al vno Lugar de la unio y a otras Pares, del vno señorio de bricara y",
+      "final": "caya al vno lugar de la unio y a otras Pares, del vno señorio de bricara y",
+      "confidence": 0.392578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        1599,
+        2295,
+        6086,
+        2643
+      ],
+      "draft": "cigares donde el dho santiago de gardeagoitia y la, la berde se hallase",
+      "final": "cigares donde el dho santiago de gardeagoitia y la, la berde se hallase",
+      "confidence": 0.1923828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        1853,
+        2582,
+        6078,
+        2913
+      ],
+      "draft": "ticia y prenda al suro ojo, y le traya gapierno a la carcel de la Uniua",
+      "final": "ticia y prenda al suro ojo, y le traya gapierno a la carcel de la Uniua",
+      "confidence": 0.212890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        2436,
+        2869,
+        5971,
+        3283
+      ],
+      "draft": "dias y salario por lo general y faurable Hey porque la",
+      "final": "dias y salario por lo general y faurable Hey porque la",
+      "confidence": 0.06005859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        2748,
+        3140,
+        6045,
+        3553
+      ],
+      "draft": "de comparecer ante Vn personalmente a lo que Vn",
+      "final": "de comparecer ante Vn personalmente a lo que Vn",
+      "confidence": 0.984375,
+      "method": "kept"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        1181,
+        3377,
+        6062,
+        3824
+      ],
+      "draft": "pare a declarar y de dir su deporicion en los negocios que ante Um como ante Jueb",
+      "final": "pare a declarar y de dir su deporicion en los negocios que ante Um como ante Jueb",
+      "confidence": 0.130859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        1320,
+        3623,
+        6078,
+        4086
+      ],
+      "draft": "a de criar y dezir su depencion en los negocios que une, & como antifues=",
+      "final": "a declarar y dezir su depcion en los negocios que une, como antes qe",
+      "confidence": 0.0191650390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        1492,
+        3952,
+        6078,
+        4415
+      ],
+      "draft": "e respecto del que es Recuitero matriculado, estudiante pero aun que fue",
+      "final": "e respecto del que es Pereuitero matriculado, estudiante pero aunque fue",
+      "confidence": 0.416015625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        1845,
+        4239,
+        6053,
+        5194
+      ],
+      "draft": "a elixigo ya un mere logo y estrecha de derecho genuo porque du",
+      "final": "a elixigo ya un mere logo y estrecha de derecho genuo porque du",
+      "confidence": 0.00048828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        1517,
+        5084,
+        5971,
+        5801
+      ],
+      "draft": "villa como con la de la informacion en la causa por mi da lo co mo pido grupalico que entonturaria y reboldia del parte contra la",
+      "final": "villa como con la de la informacion en la causa por mi da lo co mo pido grupalico que entonturaria y reboldia del parte contra la",
+      "confidence": 0.0069580078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        1173,
+        5469,
+        5988,
+        6104
+      ],
+      "draft": "a Um pidio yruplico que en tornumaria y reboldia del aparte concurrirle. E curoso mande que Un algo a cil que por Um fue reonbrado, baya al dicho luga",
+      "final": "a Um pidio yruplico que enontumaria y reboldia del aparte concurrirle. E curoso mande que Un algo a cil que por Um fue reonbrado, baya al dicho luga",
+      "confidence": 0.00408935546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        1066,
+        5888,
+        5775,
+        6392
+      ],
+      "draft": "y a la demas partes que fuese necesario acosta de la parte contra aria con dia",
+      "final": "y a la demas partes que firiere necesario acosta del aparte contra aria con dia",
+      "confidence": 0.06689453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        2214,
+        6224,
+        5676,
+        6662
+      ],
+      "draft": "a la carcel de la Univeridad qe fue cumpla lo que",
+      "final": "a la carcel de la Univeridad qe fue con plla lo que",
+      "confidence": 0.0927734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        1271,
+        6486,
+        5610,
+        7286
+      ],
+      "draft": "metraygapiesto a dunderalla E mi miedo, Commandado sobre que todo Pilo Justicia concolbaray agopieren. E cauaciones al parte contra cria llega a pamandamiento de Vrāçar",
+      "final": "metrayagiesto al su yllidicta Electra, mando mandado sobre que todo Pilo Justicia con colbar y agopieren. E cauaciones al parte contra cria llega a pamandamiento de Vrāçar",
+      "confidence": 0.0111083984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        1378,
+        7479,
+        3986,
+        7926
+      ],
+      "draft": "y llaçalaua gonadma",
+      "final": "y llaçalaua gonadma",
+      "confidence": 0.9921875,
+      "method": "kept"
+    }
+  ],
+  "text": "de a guiare madre legítima de marian dres de a reqi mi hija legítima en la cauerra & a tage de cordoua e qe eran ararunas\nelegimia de mandarres de argui mi hyslegima en la curia ciego de gardeagoitria clerigo presbitero natural y laudo en el señorio de discipa y en el arcaico (y chó)\nguerinen embargo de lo que se alega Por la parte contraaria por supeticion de primeros //\nnres de septiembre debe 18, de justicia en execucion del auto por Um dado en\ndias del mer de Julio próximo que passo mandar que Oualgoacil que era por Um\ncaya al vno lugar de la unio y a otras Pares, del vno señorio de bricara y\ncigares donde el dho santiago de gardeagoitia y la, la berde se hallase\nticia y prenda al suro ojo, y le traya gapierno a la carcel de la Uniua\ndias y salario por lo general y faurable Hey porque la\nde comparecer ante Vn personalmente a lo que Vn\npare a declarar y de dir su deporicion en los negocios que ante Um como ante Jueb\na declarar y dezir su depcion en los negocios que une, como antes qe\ne respecto del que es Pereuitero matriculado, estudiante pero aunque fue\na elixigo ya un mere logo y estrecha de derecho genuo porque du\nvilla como con la de la informacion en la causa por mi da lo co mo pido grupalico que entonturaria y reboldia del parte contra la\na Um pidio yruplico que enontumaria y reboldia del aparte concurrirle. E curoso mande que Un algo a cil que por Um fue reonbrado, baya al dicho luga\ny a la demas partes que firiere necesario acosta del aparte contra aria con dia\na la carcel de la Univeridad qe fue con plla lo que\nmetrayagiesto al su yllidicta Electra, mando mandado sobre que todo Pilo Justicia con colbar y agopieren. E cauaciones al parte contra cria llega a pamandamiento de Vrāçar\ny llaçalaua gonadma"
+}

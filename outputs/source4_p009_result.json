@@ -1,0 +1,393 @@
+{
+  "page": "source4_p009",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      2467,
+      1855
+    ],
+    "has_marginalia": false,
+    "raw_response": "336 336 ex pacto precedente en que quedo a su Majs facultad de poder le recitar quando quisiese que le speca el que tiene Dr. Juillo Catorion tam bien a priego y por tanto a como A. de Maguer. despues de mu"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        399,
+        35,
+        2348,
+        144
+      ],
+      "draft": "33 6 319",
+      "final": "33 6 319",
+      "confidence": 0.314453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        431,
+        114,
+        2320,
+        320
+      ],
+      "draft": "dadero obla de tex in codexico y no sufaram ssf de legat lla",
+      "final": "dadero obla de tex in codexico y no lejaron ssf de legat lla",
+      "confidence": 0.00014019012451171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        505,
+        264,
+        2312,
+        353
+      ],
+      "draft": "assi como el obispo Marques Despues de la",
+      "final": "assi como el obispo Marques Despues de la",
+      "confidence": 0.443359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        489,
+        312,
+        2300,
+        402
+      ],
+      "draft": "¶ Don Antonio su hermanos ouie",
+      "final": "¶ Don Antonio su hermanos ouie",
+      "confidence": 0.06591796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        737,
+        367,
+        2295,
+        448
+      ],
+      "draft": "Juro siño se Pezimiera - 132 quod liberti non sabebunt nec vem nec pritrum",
+      "final": "Juro siño se Pezimiera - 122 guis libati non sabebunt nec vem nec prëtrum",
+      "confidence": 0.7265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        513,
+        408,
+        2310,
+        496
+      ],
+      "draft": "desubceder en el dinero que se a por",
+      "final": "desubceder en el dinero que se a por",
+      "confidence": 0.173828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        387,
+        452,
+        2288,
+        539
+      ],
+      "draft": "redejacion Del muro Juro pertexer.xll. Sifun -",
+      "final": "re denigon y el muro juros pertexer.x. m. Sifun -",
+      "confidence": 0.2177734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        426,
+        507,
+        2274,
+        587
+      ],
+      "draft": "e por frdei comm. Trum. ff de legai Primō. a dnrx que De grene Jasson. D. l. si fundum perfeici con",
+      "final": "per frdei comm. Trum. ff de legai Primō. a dnrx que De pierre Gasson. D. l. si fundum perfeici con",
+      "confidence": 0.1005859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        448,
+        555,
+        2262,
+        633
+      ],
+      "draft": "El gradia un fundo suyo perfericium sium",
+      "final": "El gradia un fondo suyo perfericium sium",
+      "confidence": 0.035888671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        472,
+        599,
+        2317,
+        684
+      ],
+      "draft": "el qual se vendio para pagar deudas de",
+      "final": "el qual se vendio para pagar deudas de",
+      "confidence": 0.75390625,
+      "method": "kept"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        385,
+        642,
+        2192,
+        732
+      ],
+      "draft": "serencia, y vno de los herederos le compro por el",
+      "final": "serencia, y vno de los herederos le compro por el",
+      "confidence": 0.8671875,
+      "method": "kept"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        448,
+        686,
+        2317,
+        775
+      ],
+      "draft": "que valia conforme a lo que daua derenta –",
+      "final": "que valia conforme a lo que daua derenta –",
+      "confidence": 0.091796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        604,
+        736,
+        2233,
+        845
+      ],
+      "draft": "las dos Deudas de la Serencia pre",
+      "final": "las dos Deudas de la Serencia pre",
+      "confidence": 0.038818359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        448,
+        782,
+        2317,
+        874
+      ],
+      "draft": "a desgnante es ciudidericommissum debeva deste, este axi lo congoço e qe si",
+      "final": "a designerle es cui fideri commissum debeva desta es text su leyenda e &i si",
+      "confidence": 0.009521484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        426,
+        828,
+        2310,
+        918
+      ],
+      "draft": "y obse el tex. que le queda a Titio firi u commi –",
+      "final": "y obse el tex. que le queda a Titio firi u commi –",
+      "confidence": 0.14453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        457,
+        869,
+        2324,
+        966
+      ],
+      "draft": "y por tanto el Monumento",
+      "final": "y qe le quedia a liito fidu comm",
+      "confidence": 0.025390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        414,
+        927,
+        2315,
+        1007
+      ],
+      "draft": "momo fund.",
+      "final": "momo fund. iesi tamsssi (133)",
+      "confidence": 0.0167236328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        373,
+        972,
+        2305,
+        1072
+      ],
+      "draft": "esta lo que escribe qualqier non subcedit /",
+      "final": "esta lo que escribe qual prëbium non subcedit /",
+      "confidence": 0.2060546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        397,
+        1021,
+        2307,
+        1113
+      ],
+      "draft": "por lo que dize Passauen",
+      "final": "Llos precip, quā nunquam presummitur animus",
+      "confidence": 0.0189208984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        599,
+        1059,
+        2322,
+        1161
+      ],
+      "draft": "136 ¶ otro piejo, que a luqadam pagammata era un mi-",
+      "final": "126 Otro pieje, que a luqadam pagamla araua mi. & abi: Bart. ff de Sribouilles",
+      "confidence": 0.004364013671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        619,
+        1112,
+        2305,
+        1200
+      ],
+      "draft": "er fund per Seegem ut subuenientes",
+      "final": "er fund per Seegem ut subuenientes",
+      "confidence": 0.04833984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        426,
+        1165,
+        2310,
+        1291
+      ],
+      "draft": "batabys hieroclati, criuinminibat es hiedita alienum exklundum de Consentimiento y non pusamaturo donatio se cumsum",
+      "final": "batiby hiericatfel curinminibat es hiedita alienum exklundum de Consentimiento y non phusatric donatio se conuium",
+      "confidence": 0.00170135498046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        693,
+        1247,
+        2307,
+        1340
+      ],
+      "draft": "çondum de Consentimiento intelligitur si biestium",
+      "final": "ley Codicillit qe insulam nulla su berat necesitab",
+      "confidence": 0.1103515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        1440,
+        1298,
+        2339,
+        1381
+      ],
+      "draft": "l Vdeo pressummitur Donal's ni si contraarium prōetus",
+      "final": "l Vdeo pressummitur Donal's ni si contraarium prōetus",
+      "confidence": 0.037109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        445,
+        1346,
+        2324,
+        1439
+      ],
+      "draft": "esçe fund mandad alfideicommisario de",
+      "final": "es frie fund mandad al fideicomisario de",
+      "confidence": 0.6484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        530,
+        1390,
+        2334,
+        1484
+      ],
+      "draft": "segund manves a grādicommisšario je por Razon de argun pacto precedent e estas dos leges quando El contrato primero se deses. Ca si querian continuar su gordonamiento.",
+      "final": "por Razon de argun pacto precedente",
+      "confidence": 0.002471923828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        397,
+        1433,
+        2327,
+        1528
+      ],
+      "draft": "diuiesse por olazon de algun pacto precedentc",
+      "final": "diuiesse por olazon de algun pacto precedentc",
+      "confidence": 0.0859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        385,
+        1479,
+        2327,
+        1624
+      ],
+      "draft": "quando milla Ca mistranaveron,il por ordaria Mo pacio ressouatum iub ad pristum para Ca jona o persona que avia de a ver el fundum. Aqella fue en Coutand",
+      "final": "quando milla Ca mistran avaron, li ordain Mo pacio ressouatum iub ad pristum para Ca",
+      "confidence": 0.0118408203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 28,
+      "bbox": [
+        373,
+        1580,
+        2247,
+        1660
+      ],
+      "draft": "inquir Molines. loco infra un and",
+      "final": "inquir Molines. loco infra un and",
+      "confidence": 0.330078125,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "33 6 319\ndadero obla de tex in codexico y no lejaron ssf de legat lla\nassi como el obispo Marques Despues de la\n¶ Don Antonio su hermanos ouie\nJuro siño se Pezimiera - 122 guis libati non sabebunt nec vem nec prëtrum\ndesubceder en el dinero que se a por\nre denigon y el muro juros pertexer.x. m. Sifun -\nper frdei comm. Trum. ff de legai Primō. a dnrx que De pierre Gasson. D. l. si fundum perfeici con\nEl gradia un fondo suyo perfericium sium\nel qual se vendio para pagar deudas de\nserencia, y vno de los herederos le compro por el\nque valia conforme a lo que daua derenta –\nlas dos Deudas de la Serencia pre\na designerle es cui fideri commissum debeva desta es text su leyenda e &i si\ny obse el tex. que le queda a Titio firi u commi –\ny qe le quedia a liito fidu comm\nmomo fund. iesi tamsssi (133)\nesta lo que escribe qual prëbium non subcedit /\nLlos precip, quā nunquam presummitur animus\n126 Otro pieje, que a luqadam pagamla araua mi. & abi: Bart. ff de Sribouilles\ner fund per Seegem ut subuenientes\nbatiby hiericatfel curinminibat es hiedita alienum exklundum de Consentimiento y non phusatric donatio se conuium\nley Codicillit qe insulam nulla su berat necesitab\nl Vdeo pressummitur Donal's ni si contraarium prōetus\nes frie fund mandad al fideicomisario de\npor Razon de argun pacto precedente\ndiuiesse por olazon de algun pacto precedentc\nquando milla Ca mistran avaron, li ordain Mo pacio ressouatum iub ad pristum para Ca\ninquir Molines. loco infra un and"
+}

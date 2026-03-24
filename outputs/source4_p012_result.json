@@ -1,0 +1,172 @@
+{
+  "page": "source4_p012",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      2458,
+      1855
+    ],
+    "has_marginalia": false,
+    "raw_response": "339 12 se auios de entender selo dansa según la forma del / 144 161 Don Antonio no quioss de Francisco en confidera agaño fin de Terminos ex pura muerte con jufo en la ysla clauulse principal"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        381,
+        96,
+        2397,
+        248
+      ],
+      "draft": "quia a gu Math. de asicht de ad2 144. ubi Casca",
+      "final": "quia a gu Math. de asicht de ad2 144. ubi Casca",
+      "confidence": 0.09423828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        388,
+        209,
+        2316,
+        394
+      ],
+      "draft": "131 Don a ngs no quiso de trava y en confider // sus vgnes sino de termals expresamente y codig no an guos en la pi clausula principal referiri //",
+      "final": "131 Don a ngs no quiso de Jafet, en confider // Don vgnas sino de termals expresamente y codig no an guos en la pi Claustra principal referendi //",
+      "confidence": 0.0012054443359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        616,
+        348,
+        2345,
+        440
+      ],
+      "draft": "chamsi y psla a ligia non se duxerit",
+      "final": "chamis y psla a liua non se duxerit",
+      "confidence": 0.09912109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        566,
+        396,
+        2179,
+        490
+      ],
+      "draft": "tertius A ut.",
+      "final": "tertius A ut.",
+      "confidence": 0.470703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        376,
+        432,
+        2299,
+        959
+      ],
+      "draft": "122 ¶ la ley es por todo else, no modernize spelling (e.g. keep 'Vezino', 'Leg.mo', 'dha', 'Vm'). Output ONLY the transcribed text, nothing else.",
+      "final": "122 ¶ la ley es por todo else, no modernize spelling (e.g. keep 'Vezino', 'Leg.mo', 'dha', 'Vm'). Output ONLY the transcribed text, nothing else.",
+      "confidence": 0.984375,
+      "method": "kept"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        410,
+        915,
+        2311,
+        1184
+      ],
+      "draft": "que en la despedicion reformen Conde de",
+      "final": "que en la desposesión reformation se convirta",
+      "confidence": 0.00299072265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        429,
+        1143,
+        2294,
+        1223
+      ],
+      "draft": "66. Vila donazione ante numerum. 6. Ibi nec etram contra di",
+      "final": "66. Vila donazione ante numerum. 6. Ibi nec etram contra di",
+      "confidence": 0.53515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        597,
+        1186,
+        2285,
+        1273
+      ],
+      "draft": "61 de jucesonse en cuerpo por suyo. De ferirle como se Refirele a lo Contenido en el",
+      "final": "61 de jucesonse en body por su. Que a pocos",
+      "confidence": 0.0224609375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        499,
+        1246,
+        1711,
+        1324
+      ],
+      "draft": "/ iuxta naturam contracto. feuallis, el",
+      "final": "cixta naturam contracto. feuallis, el",
+      "confidence": 0.055419921875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        391,
+        1277,
+        2265,
+        1405
+      ],
+      "draft": "rām claufulz accessoris regulantur se con su",
+      "final": "rām claufuliz accessoris regulantur se con su",
+      "confidence": 0.01220703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        400,
+        1371,
+        2321,
+        1600
+      ],
+      "draft": "que avnque non le qeamento de Coni",
+      "final": "que avnque non le quayamento de Coni",
+      "confidence": 0.0020599365234375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        451,
+        1560,
+        1125,
+        1650
+      ],
+      "draft": "Consejo don alonso dize que dexa el 129 por Don antonio por ellos muria6",
+      "final": "Conseccion alisgo dos se guedeya el. e Don antonio por ellos muria6",
+      "confidence": 0.05810546875,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "quia a gu Math. de asicht de ad2 144. ubi Casca\n131 Don a ngs no quiso de Jafet, en confider // Don vgnas sino de termals expresamente y codig no an guos en la pi Claustra principal referendi //\nchamis y psla a liua non se duxerit\ntertius A ut.\n122 ¶ la ley es por todo else, no modernize spelling (e.g. keep 'Vezino', 'Leg.mo', 'dha', 'Vm'). Output ONLY the transcribed text, nothing else.\nque en la desposesión reformation se convirta\n66. Vila donazione ante numerum. 6. Ibi nec etram contra di\n61 de jucesonse en body por su. Que a pocos\ncixta naturam contracto. feuallis, el\nrām claufuliz accessoris regulantur se con su\nque avnque non le quayamento de Coni\nConseccion alisgo dos se guedeya el. e Don antonio por ellos muria6"
+}

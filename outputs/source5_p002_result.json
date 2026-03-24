@@ -1,0 +1,367 @@
+{
+  "page": "source5_p002",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      6300,
+      8400
+    ],
+    "has_marginalia": false,
+    "raw_response": "y mi diuane conuiendles ahora apaaue De ello, para que enpero echo en la Nai y forma que mas haya lugar les Derechos Conorados del que les qe ponga, y cuando de dichas licencias de su libre y espantaua prouia"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        1722,
+        80,
+        5955,
+        518
+      ],
+      "draft": "y mediantes conuerirles ahora su parquez De ellos, para que tenço",
+      "final": "y mediantes conuerirles ahora su parquez De ellos, para que tenço",
+      "confidence": 0.06689453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        1714,
+        309,
+        5742,
+        715
+      ],
+      "draft": "efecto en la Via y forma que may haya lugar llen Qe echos",
+      "final": "efecto en la Via y forma que may haya lugar llenchez otros",
+      "confidence": 0.1865234375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        1665,
+        597,
+        5857,
+        969
+      ],
+      "draft": "ceriorados del que les Compere, y usandol de dichas licencias //",
+      "final": "ceriorados del que les Compere, y usandol de dichas licencias //",
+      "confidence": 0.11962890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        1714,
+        867,
+        5733,
+        1256
+      ],
+      "draft": "de su libre y espomaned voluntad, erogan que se apartaran",
+      "final": "de su libre y espomaned voluntad, morgan que se apartaran",
+      "confidence": 0.2451171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        1706,
+        1171,
+        5848,
+        1593
+      ],
+      "draft": "desde luego para siempre de los referidos espondales o Compromisos",
+      "final": "desde luego para siempre de los referidos espondales o Compromisos",
+      "confidence": 0.0771484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        1542,
+        1417,
+        5881,
+        2142
+      ],
+      "draft": "que en cualquier manera suuvieran Contra de, los que darian por vestidlos, restringidos, nulos, y De ningun Valor si efecto, Como",
+      "final": "que en cualquier manera suieren Contra de, los que darian por vestidlos, restringidos, nulos, y De ningun Valor ni efecto, como",
+      "confidence": 0.035400390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        2247,
+        1745,
+        5783,
+        2159
+      ],
+      "draft": "rescindidos, nullos, y De ningun Valor ni efecto, Como",
+      "final": "rescindidos, nullos, y De ningun Valor ni efecto, Como",
+      "confidence": 0.8125,
+      "method": "kept"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        1657,
+        1950,
+        5676,
+        2405
+      ],
+      "draft": "Candillos, Roblarados, uala, y qe ningun Valor ni efecto, Ama",
+      "final": "Candillos, Roblarados, uala, y qe ningun Valor ni efecto, Ama",
+      "confidence": 0.26953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        1607,
+        2319,
+        5709,
+        2717
+      ],
+      "draft": "uuo al oro por libros e indemnes en ella y absolutamente de la sillerica e indemne en ella",
+      "final": "uuo al oro por libros e indemnes en ella y absolutamente de la sillerica e indemne y absolutamente de la sillerica e indemne y absolutamente de la sillerica e indemne y absolutamente de la sillerica e indemne y absolutamente de la sillerica",
+      "confidence": 0.01043701171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        1624,
+        2573,
+        5742,
+        2987
+      ],
+      "draft": "y estaua en toda yudololamente de la obligacion que por la palabra de Caramierno tenian ligadas y sigillosamente la escripcion oferte",
+      "final": "y estaua en toda yudololamente de la obligacion que por la palabra de Caramierno tenian ligadas y sigillosamente la escripcion of Christ, Caraimino, 'Leg.mo', 'Vm', 'dha', 'Vm'). Output ONLY the transcribed text, nothing else.",
+      "confidence": 0.0101318359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        1640,
+        2902,
+        5627,
+        3258
+      ],
+      "draft": "las personalis se le layan en plena libertad, y Confieren el mad",
+      "final": "sus personalis, le byan en plena libertad, y Confieren el mad",
+      "confidence": 0.455078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        1632,
+        3156,
+        5660,
+        3520
+      ],
+      "draft": "efica e irreervable poder que necesion, para que Cada uio",
+      "final": "efica e irreervable poder que necesion, para que Cada uio",
+      "confidence": 0.6171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        1591,
+        3476,
+        5635,
+        3783
+      ],
+      "draft": "june de ella y de l'Case, o elija ouo estado al / su arbitrio lin",
+      "final": "jue de ella y de l'Case, o elija ouo estado al su arbitrio lin",
+      "confidence": 0.0712890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        1591,
+        3706,
+        5725,
+        4127
+      ],
+      "draft": "licia y intervensions ni Consenimiento de El oro, del mismo moço y a su",
+      "final": "licia y intervensions ni Consenimiento de El oro, del mismo modο y a su",
+      "confidence": 0.138671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        1616,
+        4009,
+        5692,
+        4398
+      ],
+      "draft": "que antes lo podian prauicar lin Diferencia y Como li pamabati",
+      "final": "que antes lo podian prauicar lin Diferencia y Como li pamaboli",
+      "confidence": 0.03369140625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        1525,
+        4239,
+        5430,
+        4693
+      ],
+      "draft": "hubiera habito tales esponsales y Compromisos, á cuyo fin",
+      "final": "hubiera habito tales esponajes y Compromisos, á cuyo fin",
+      "confidence": 0.01043701171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        1525,
+        4559,
+        5463,
+        4956
+      ],
+      "draft": "le dezisten, y se apartan de todas las Acciones que participen",
+      "final": "le dezisten, y se apartan de todas las Acciones que participen",
+      "confidence": 0.44921875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        1607,
+        4895,
+        5479,
+        5260
+      ],
+      "draft": "y dexelos les Comperian, las que Dain por feneriuios y Jacabada",
+      "final": "y dexelos les Comperian, las que Dain por feneriuios y Jacarada",
+      "confidence": 0.2470703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        1837,
+        5215,
+        5184,
+        5612
+      ],
+      "draft": "cuylican a los señores y que es Composteros los hayan",
+      "final": "cuylican a los señores y que es Complecheros los hayan",
+      "confidence": 0.052978515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        1509,
+        5510,
+        5479,
+        5858
+      ],
+      "draft": "apartados y libros enteramente, para Disponer de sus personas",
+      "final": "aparados y libres enteramente, para Disponer de sus pessonas",
+      "confidence": 0.6796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        1484,
+        5781,
+        5487,
+        6162
+      ],
+      "draft": "segun les Conuença; y bajo de jurameros que hacen en le",
+      "final": "segun les Convenya; y bajo de jurameros que hacen en le",
+      "confidence": 0.13671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        1960,
+        6183,
+        5553,
+        6474
+      ],
+      "draft": "pora qe se meten a qe jamas le podarian imperim.te",
+      "final": "pora qe nunca al que jamas le podran impedirte",
+      "confidence": 0.06591796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        1484,
+        6396,
+        4856,
+        6785
+      ],
+      "draft": "ni reclamaran esta escritura por li ni porcialmente //",
+      "final": "ni reclamaran esta escritura por li ni porcialmente //",
+      "confidence": 0.1767578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        1419,
+        6659,
+        5389,
+        7031
+      ],
+      "draft": "lidieren quieren que qe mas de llco oibeles en juicio ni fuera",
+      "final": "lidieren quieren que qe mas de llo oibeles en juicio ni fuera",
+      "confidence": 0.1796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        1616,
+        6987,
+        5520,
+        7614
+      ],
+      "draft": "sejles cumpldrá a su observancia, y Orduña en Costas, que por el mismo hecho la rino habola approbado con",
+      "final": "a sesiles comparta a su observancia, y Ordoue en Costas, que por el mismo hecho la rino habola approbado con",
+      "confidence": 0.0537109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        1402,
+        7545,
+        5364,
+        7926
+      ],
+      "draft": "mayor el Minu洛 y Firmeras, añadiendo fuerça a fuerça // Comgar qe Roba en A Gijon y A pino",
+      "final": "mayorles Minulos y Firmeras, añadiendo fuerça a fuerza // Comgarç qe Roba su ympera, y qe Roba su ympera, y qe Roba su ympera, y qe Roba su ympera, y qe Roba su ympera, y qe",
+      "confidence": 0.0185546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        1575,
+        7758,
+        5438,
+        8155
+      ],
+      "draft": "Contrato de Colchero, al Cumplimiento de todos obligan",
+      "final": "Contrato de Colchero, al Cumplimiento de todos obligan",
+      "confidence": 0.8359375,
+      "method": "kept"
+    }
+  ],
+  "text": "y mediantes conuerirles ahora su parquez De ellos, para que tenço\nefecto en la Via y forma que may haya lugar llenchez otros\nceriorados del que les Compere, y usandol de dichas licencias //\nde su libre y espomaned voluntad, morgan que se apartaran\ndesde luego para siempre de los referidos espondales o Compromisos\nque en cualquier manera suieren Contra de, los que darian por vestidlos, restringidos, nulos, y De ningun Valor ni efecto, como\nrescindidos, nullos, y De ningun Valor ni efecto, Como\nCandillos, Roblarados, uala, y qe ningun Valor ni efecto, Ama\nuuo al oro por libros e indemnes en ella y absolutamente de la sillerica e indemne y absolutamente de la sillerica e indemne y absolutamente de la sillerica e indemne y absolutamente de la sillerica e indemne y absolutamente de la sillerica\ny estaua en toda yudololamente de la obligacion que por la palabra de Caramierno tenian ligadas y sigillosamente la escripcion of Christ, Caraimino, 'Leg.mo', 'Vm', 'dha', 'Vm'). Output ONLY the transcribed text, nothing else.\nsus personalis, le byan en plena libertad, y Confieren el mad\nefica e irreervable poder que necesion, para que Cada uio\njue de ella y de l'Case, o elija ouo estado al su arbitrio lin\nlicia y intervensions ni Consenimiento de El oro, del mismo modο y a su\nque antes lo podian prauicar lin Diferencia y Como li pamaboli\nhubiera habito tales esponajes y Compromisos, á cuyo fin\nle dezisten, y se apartan de todas las Acciones que participen\ny dexelos les Comperian, las que Dain por feneriuios y Jacarada\ncuylican a los señores y que es Complecheros los hayan\naparados y libres enteramente, para Disponer de sus pessonas\nsegun les Convenya; y bajo de jurameros que hacen en le\npora qe nunca al que jamas le podran impedirte\nni reclamaran esta escritura por li ni porcialmente //\nlidieren quieren que qe mas de llo oibeles en juicio ni fuera\na sesiles comparta a su observancia, y Ordoue en Costas, que por el mismo hecho la rino habola approbado con\nmayorles Minulos y Firmeras, añadiendo fuerça a fuerza // Comgarç qe Roba su ympera, y qe Roba su ympera, y qe Roba su ympera, y qe Roba su ympera, y qe Roba su ympera, y qe\nContrato de Colchero, al Cumplimiento de todos obligan"
+}

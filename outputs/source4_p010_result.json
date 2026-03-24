@@ -1,0 +1,393 @@
+{
+  "page": "source4_p010",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      2470,
+      1855
+    ],
+    "has_marginalia": false,
+    "raw_response": "337 10 ¶ le acaudillimos resolvio Don ço Molonez incognuo 114 ¶ le acaudillimos resolvio Don ço Molonez incognuo 114 ¶ le acaudillimos resolvio Don"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        383,
+        123,
+        2289,
+        213
+      ],
+      "draft": "interminis res Luit Cara 19 Molinez in consueuo y quedaria resershado A dr alpreço alfo Marqués",
+      "final": "interminis res Luit Cara 19 Molinez in consueuo. Y quedaria reseruado A dr alpreço alfo Marqués",
+      "confidence": 0.06591796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        400,
+        183,
+        2134,
+        295
+      ],
+      "draft": "tio. S ii. nau. 31 donde est be que le vno compraua en frido cum",
+      "final": "tio. S ii. nar. 31 donde est be que le vno compraua en frido cum",
+      "confidence": 0.01385498046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        607,
+        275,
+        2296,
+        343
+      ],
+      "draft": "tura, E moriatur reieti, planebi felijs a la",
+      "final": "tura, E moriatur reieti, planebi felijs a la",
+      "confidence": 0.2109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        477,
+        321,
+        2252,
+        392
+      ],
+      "draft": "nrō de priōs genitura mientra no se Jezase, Raze",
+      "final": "nrō de priōs genitura mientra no se Jezase, Raze",
+      "confidence": 0.035888671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        465,
+        362,
+        2289,
+        445
+      ],
+      "draft": "en conuides de espacio, pero que si seuen a Saze –",
+      "final": "en conierto de espacio, pero que si seuen a Saze –",
+      "confidence": 0.12890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        528,
+        408,
+        2286,
+        495
+      ],
+      "draft": "42 possederon porque no por esto se albera que en el precio",
+      "final": "42 possederon porque no por esto se albera que en el precio",
+      "confidence": 0.259765625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        552,
+        446,
+        2284,
+        534
+      ],
+      "draft": "e cadavro tiene en el seudo, quia inquit, vere",
+      "final": "cada vno tiene en el seudo, quia inquit, vere",
+      "confidence": 0.44140625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        453,
+        509,
+        2308,
+        635
+      ],
+      "draft": "su jure vendunt, & se soluitori dixesoluitori prior con",
+      "final": "su jure vendunt, & se soluitori dixesoluitori prior con",
+      "confidence": 0.0118408203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        414,
+        603,
+        2298,
+        679
+      ],
+      "draft": "tex en monte su, en V. Corvallijs $ ynfuram ssē e",
+      "final": "tex enmonte su, en . Corallius $ ynfalam ssē e",
+      "confidence": 0.06689453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        603,
+        647,
+        2264,
+        720
+      ],
+      "draft": "res legatarii si consentrant venditioni feu",
+      "final": "res legatarii si consentrant venditioni feu 130 131 132 133 134 135 136 137 138 139 138 ONLY text, nothing else.",
+      "confidence": 0.1328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        410,
+        693,
+        2223,
+        763
+      ],
+      "draft": "Legati. debent para pere pretrium proporcionibys reditu",
+      "final": "çagati. debent para pere pretrium proporcionib y reditu",
+      "confidence": 0.2060546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        467,
+        736,
+        2291,
+        807
+      ],
+      "draft": "ceptuerant versione non facta",
+      "final": "ceptuerant versione non facta",
+      "confidence": 0.96875,
+      "method": "kept"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        576,
+        787,
+        2154,
+        857
+      ],
+      "draft": "Moliones son expuestas para nuestro casso // Nu. e. (que aunque el testador permita la",
+      "final": "Moliones son expressas para nuestro casso . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.0771484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        451,
+        823,
+        2305,
+        913
+      ],
+      "draft": "le hablaron son expresos para su escocaso cibdo que la redenapan del yero se haz exacto",
+      "final": "le hablaron son expresos para su escocaso cibdo que la redenapan del yero se haz exacto",
+      "confidence": 0.01611328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        537,
+        881,
+        2315,
+        956
+      ],
+      "draft": "ceder en quanto al precio qe dera su mar llano en el lasso //",
+      "final": "ceder en quanto al precio qe dera su mano en el lasso",
+      "confidence": 0.07958984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        397,
+        927,
+        2298,
+        1007
+      ],
+      "draft": "E sus lo vendieren de nueuo, que casu fasta Vi",
+      "final": "E sus lo vendieren de nueuo, que casu fasta Vi",
+      "confidence": 0.1953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        528,
+        977,
+        2310,
+        1048
+      ],
+      "draft": "cio por ti a cada vno como venia a parte y su Mō obisse de redimir el su nrō feoria de señalar ar",
+      "final": "cio por ti a cada vno como venia a parte",
+      "confidence": 0.00494384765625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        407,
+        1023,
+        2293,
+        1089
+      ],
+      "draft": "136 el juño, e quem se obispe de Redimir, siendo vico",
+      "final": "136 el juizo - 236 Perona a quien se obisperse de ver dirimir. Siendo vico",
+      "confidence": 0.31640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        439,
+        1064,
+        2298,
+        1154
+      ],
+      "draft": "Molines Almejortex xpi. d.l. codrall ijs. Se en su la",
+      "final": "Molines Almejortex xpi. d.l. codrall ijs. Se en Jula",
+      "confidence": 0.0086669921875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        443,
+        1112,
+        2291,
+        1195
+      ],
+      "draft": "en la enagenia a quien voluntaria consentida por el",
+      "final": "en la enagenia a vn voluntaria consolida por el",
+      "confidence": 0.08447265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        513,
+        1161,
+        2134,
+        1236
+      ],
+      "draft": "sres da de si o alfundo ni alrear siño\n\nOTRO seguno",
+      "final": "sres da de si lo al fondo ni algo siño 130 Otro alguno",
+      "confidence": 0.06201171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        467,
+        1187,
+        2293,
+        1289
+      ],
+      "draft": "aNogue dicatur que Saziendose la redengon a los conde",
+      "final": "no sester da serfo al fondo ni a peço sino",
+      "confidence": 0.0201416015625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        460,
+        1238,
+        2308,
+        1328
+      ],
+      "draft": "Nega aclarar que iazienosje la vedengon a ssi. Eño",
+      "final": "expessamente lo esforuan lo qual paresese – 26 Don Alonso no quedaua A con obligaçon de este /",
+      "confidence": 0.00982666015625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        448,
+        1298,
+        2308,
+        1381
+      ],
+      "draft": "a leo el & tex. por escrippalabras. a qe es oph",
+      "final": "a leo el & tex. por escrippalabras. a quod oph",
+      "confidence": 0.2353515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        424,
+        1344,
+        2310,
+        1420
+      ],
+      "draft": "la cit texin monte sui. en. E conicilli. y su jura,",
+      "final": "139 ¶ adesi si la redenapn se hiziera a Eps primer No",
+      "confidence": 0.0498046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        451,
+        1392,
+        2289,
+        1463
+      ],
+      "draft": "e.g. & ya que uos palabros uiri mi Con ses",
+      "final": "e.g. & ya que uos palabros uiri monte suyon ses",
+      "confidence": 0.0274658203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        383,
+        1433,
+        2257,
+        1514
+      ],
+      "draft": "12 ¶ Ca quādros pascinō con monesterio, gonç",
+      "final": "12 ¶ capaçaríc pascinio con monesterio. gō",
+      "confidence": 0.0859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        434,
+        1479,
+        2320,
+        1610
+      ],
+      "draft": "a lo que estllaño que caso que se ouinarse mī, D Juno por su Mā. y no se ubiera subido como quier",
+      "final": "a lo que estllaño que caso que se ouinarse mī, D Juno por su Mā. y no se ubiera subido como quier",
+      "confidence": 0.02978515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 28,
+      "bbox": [
+        492,
+        1573,
+        2286,
+        1661
+      ],
+      "draft": "hizo por razon del rō pacto precedentemente quedo",
+      "final": "hizo por razon del rō pacto precedentemente quedo",
+      "confidence": 0.11767578125,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "interminis res Luit Cara 19 Molinez in consueuo. Y quedaria reseruado A dr alpreço alfo Marqués\ntio. S ii. nar. 31 donde est be que le vno compraua en frido cum\ntura, E moriatur reieti, planebi felijs a la\nnrō de priōs genitura mientra no se Jezase, Raze\nen conierto de espacio, pero que si seuen a Saze –\n42 possederon porque no por esto se albera que en el precio\ncada vno tiene en el seudo, quia inquit, vere\nsu jure vendunt, & se soluitori dixesoluitori prior con\ntex enmonte su, en . Corallius $ ynfalam ssē e\nres legatarii si consentrant venditioni feu 130 131 132 133 134 135 136 137 138 139 138 ONLY text, nothing else.\nçagati. debent para pere pretrium proporcionib y reditu\nceptuerant versione non facta\nMoliones son expressas para nuestro casso . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nle hablaron son expresos para su escocaso cibdo que la redenapan del yero se haz exacto\nceder en quanto al precio qe dera su mano en el lasso\nE sus lo vendieren de nueuo, que casu fasta Vi\ncio por ti a cada vno como venia a parte\n136 el juizo - 236 Perona a quien se obisperse de ver dirimir. Siendo vico\nMolines Almejortex xpi. d.l. codrall ijs. Se en Jula\nen la enagenia a vn voluntaria consolida por el\nsres da de si lo al fondo ni algo siño 130 Otro alguno\nno sester da serfo al fondo ni a peço sino\nexpessamente lo esforuan lo qual paresese – 26 Don Alonso no quedaua A con obligaçon de este /\na leo el & tex. por escrippalabras. a quod oph\n139 ¶ adesi si la redenapn se hiziera a Eps primer No\ne.g. & ya que uos palabros uiri monte suyon ses\n12 ¶ capaçaríc pascinio con monesterio. gō\na lo que estllaño que caso que se ouinarse mī, D Juno por su Mā. y no se ubiera subido como quier\nhizo por razon del rō pacto precedentemente quedo"
+}

@@ -1,0 +1,523 @@
+{
+  "page": "source3_p010",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      1329,
+      1875
+    ],
+    "has_marginalia": false,
+    "raw_response": "Arquivos Estatales, https://pares.cultura.gob.es"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        311,
+        202,
+        1173,
+        279
+      ],
+      "draft": "otras, por les hazer mal, i daño, i macular fu honrra. O que aya encubier- to recetado, o fuorecido algunos hereges, dandoles favor i avuda ocul",
+      "final": "otras, por les hazer mal, i daño, i macular fu honrra. O que aya encubier- to recetado, o fuorecido algunos hereges, dandoles favor i avuda ocul",
+      "confidence": 0.1943359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        314,
+        240,
+        1157,
+        312
+      ],
+      "draft": "otras, por les hazer mal, daño, y llacualar le donita. O que aya encubier- to, recetado, o fauorecido algunos hereges, dandoles fauor, i a yuda, o cul",
+      "final": "otras, por les hazer mal, daño, y llacualar le donita. O que aya encubier- to, recetado, o fauorecido algunos hereges, dandoles fautor, i a yuda, o cul- tando, i encubriendo sus peronas, o sus bienes. O que avan puesto",
+      "confidence": 0.486328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        316,
+        275,
+        1155,
+        346
+      ],
+      "draft": "to, recetado, o lauoreciado algunos hereges, daudoles razon, la ayuda, oculi",
+      "final": "to, recetado, o lauoreciado algunos hereges, daudoles razon, la ayuda, oculi",
+      "confidence": 0.1376953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        316,
+        312,
+        1155,
+        379
+      ],
+      "draft": "tanto, lleeu bien nrō sus perdonas, o tus bienes. O que ayal puesto impe- dimiento por li, o por otros al libre i reto exercicio del Santo Officio, i assi, y los ministros del. O que eran guindo, o biesto guiter algunos",
+      "final": "tanto, lleeu bien nrō sus perdonas, o tus bienes. O que ayal puesto impe- dimiento por li, o por otros al libre i reto exercicio del Santo Officio, i assi, y los ministros del. O que eran guindo, o biesto guiter algunos",
+      "confidence": 0.0191650390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        318,
+        345,
+        1153,
+        420
+      ],
+      "draft": "abdimiento por nō por otros al libre reto exercicio del Santo Officio, a ti officiales, o ministros del. O que ayan quitado, o hecho quitar algunos Sambenitos donde estauan puestos por el santo Officio, o ayau puesto",
+      "final": "abdimiento por nō por otros al libre reto exercicio del Santo Officio, a ti officiales, o ministros del. O que ayan quitado, o hecho quitar algunos Sambenitos donde estauan puestos por el santo Officio, o ayau puesto",
+      "confidence": 0.373046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        318,
+        374,
+        1164,
+        493
+      ],
+      "draft": "officiales, o minutos del. O que ayuan quitado, o hecho qeuitar algunos Sambenitos donde estauan puestos por el fanto Officio, o ayau puesto otros. O que los que an fijo reconciliados, i penitenciados por el fano Officio, no an guardado, ni cumplido las carcelerias, ni peniten",
+      "final": "officiales, o minutos del. O que ayudado, o hecho qeuitar algunos Sambenitos donde estauan puestos por el fanto Officio, o ayau puesto otros. O que los que an fijo reconciliados, i penitenciados por el fano Officio, no an guardado, ni cumplido las carcelerias",
+      "confidence": 0.5546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        312,
+        453,
+        1155,
+        528
+      ],
+      "draft": "otros. O que los que an lido reconemados, i penitenciados por chan- to Officio, no an guardado, ni cumplido las carcelerias, ni peniten- cias que les fueron impuestas. O li han dexado de traer publica- 1",
+      "final": "otros. O que los que an lido reconemados, i penitenciados por chan- ro Officio, no an guardado, ni cumplido las carcelerias, ni peniten- cias que les fueron impuestas. O li han dexado de traer publica-",
+      "confidence": 0.6015625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        316,
+        482,
+        1157,
+        564
+      ],
+      "draft": "to Officio, no air guardado, ni cumplido las carcelerias, ni peniten- cias que les fueron impuestos. O li han dexado de traer publicamente el abito de reconciliacion sobre sus vestiduras. O que algunos re-",
+      "final": "to Officio, no air guardado, ni cumplido las carcelerias, ni peniten- cias que les fueron impuestos. O li han dexado de traer publicamente el abito de reconciliacion sobre sus vestiduras. O que algunos re-",
+      "confidence": 0.455078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        316,
+        521,
+        1147,
+        592
+      ],
+      "draft": "cias que les fueron impuesitas. O si han dexado de traer publicamente el abito de reconciliacion sobre sus vestiduras. O que algunos reciclados o penitenciados ayadicho, que lo que confessaron en el sen",
+      "final": "cias que les fueron impuesitas. O si han dexado de traer publicamente el abito de reconciliacion sobre sus vestiduras. O que algunos reciclilidos o penitenciados ayadicho, que lo que confessaron en el sen",
+      "confidence": 0.2197265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        320,
+        555,
+        1151,
+        627
+      ],
+      "draft": "mente era bito de recomelacion sobre sus vestiduras. O que algunos recconciliados, o penitenciados ayā dicho, que lo que confessaron en el lan- to Obispo, assi de si como de otras personas no fuesse verdad, ni lo avian",
+      "final": "mente era bito de recomelacion sobre sus vestiduras. O que algunos recconciliados, o penitenciados ayā dicho, que lo que confessaron en el lan- to Obispo, assi de si como de otras personas no fuesse verdad, ni lo avian",
+      "confidence": 0.2412109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        312,
+        586,
+        1153,
+        663
+      ],
+      "draft": "conciliados, o penitenciados ayadicho, que lo que contelaron en el lan- to Officio, alli de li como de otras personas no fuesse verdad, ni lo avian hecho ni comitido i que lo dixeron por tempor, o por otros respetos, O",
+      "final": "conciliados, o penitenciados ayadicho, que lo que contelaron en el lan- to Officio, alli de li como de otras personas no fuesse verdad, ni lo avian hecho ni comitido i que lo dixeron por temor, o por otros respetos, O",
+      "confidence": 0.31640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        316,
+        629,
+        1149,
+        696
+      ],
+      "draft": "Con tillo, un de tres como de otras perreras no lueñe verdad, ni lo avian hecho ni cometido, i que lo dixeron por temor, o por otros respetos, O que avan descubierto el secreto qe les fue encomendado en el sancto, Offi",
+      "final": "Conterio, un de tres como de otras pereuas no fuese verdad, ni lo avian hecho ni cometido, i que lo dixeron por temor, o por otros respetos, O que avan descubierto el secreto qe les fue encomendado en el sancto, Officiario, o que avan descubierto el",
+      "confidence": 0.22265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        318,
+        656,
+        1146,
+        729
+      ],
+      "draft": "hecho ni cometiado, i que lo dixeron por temor, o por otros relpetsos. O que ayan descubierto el secreto qe les fue encomendado en el lanto Offi-",
+      "final": "hecho ni cometiado, i que lo dixeron por temor, o por otros relpetsos. O que ayan descubierto el secreto qe les fue encomendado en el lanto Offi-",
+      "confidence": 0.40625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        314,
+        696,
+        1142,
+        762
+      ],
+      "draft": "que ayan de de cubierto el terceto que fue encomiendado en el tanto Officio. O que alguno aya dicho, que los relaxados por el lanto Officio fue",
+      "final": "que ayan de cubierto el terceto que fue encomiendado en el tanto Officio. O que alguno aya dicho, que los relaxados por el lento Officio fue",
+      "confidence": 0.3515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        316,
+        733,
+        1146,
+        806
+      ],
+      "draft": "ço. O que alguno ay adello, que los relaxados por el tantto. Cinco fue- ron condenados sin culpa, i que murieron martires. O que algunos que avan liddo reconciliados o hijos y nietros de cōdenados por el delito i cri- tiado, murieron martires. O que algunos que avan liddo reconciliados o hijos y nietros de cōdenados por el delito i cri- tiado, murieron martires. Output ONLY the transcribed text, nothing else.",
+      "final": "ço. O que alguno ay adello, que los relaxados por el tantto. Cinco fue- ron condenados sin culpa, i que murieron martires. O que algunos que avan liddo reconciliados o hijos y nietros de cōdenados por el delito i cri- tiado, murieron martires. O que algunos que avan liddo reconciliados o hijos y nietros de cōdenados por el delito i cri- tiado, murieron martires. Output ONLY the transcribed text, nothing else.",
+      "confidence": 0.94140625,
+      "method": "kept"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        311,
+        760,
+        1146,
+        839
+      ],
+      "draft": "ron condenados lin culpa, i que murieron martires. O que algunos que ayan fido reconciliados, o hijos, o nietos de cōdenados por el delito i cri- men de la gregia, ayan y fido i ysen officios publicos, i de honra, que les",
+      "final": "ron condenados lin culpa, i que murieron martires. O que algunos que ayan fido reconciliados, o hijos, o nietos de cōdenados por el delito i cri- men de la gregia, ayan y fido i ysen officios publicos, i de honra, que les",
+      "confidence": 0.02978515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        311,
+        799,
+        1149,
+        877
+      ],
+      "draft": "ayan lido reconciliados, o niños, o lícitos de cobdenados por el delito leri- men de la erigia, ayan vlado, i vlen officios publicos, i de honta, que les fon proiridos por derecho comuñ, leves i premanicas de estos Reynos, e",
+      "final": "ayan lido reconciliados, o niños, o lícitos de cobdenados por el delito leri- men de la erigia, ayan vlado, i vlen officios publicos, i de honta, que les fon proiridos por derecho comun, leves i premanicas de estos Reynos, e",
+      "confidence": 0.09912109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        307,
+        837,
+        1140,
+        905
+      ],
+      "draft": "tien de Msegueña, a y aliuidado, E ven Officios publicos, Fue linilla, que les fon provididos por derecho comun, leyes, i prematicas destos Reynos, e iinstruigues del Sancto Officeo. O que fa aun ocho Chriega, O que fu",
+      "final": "tien de Msegueña, a y aliuidado, E ven Officios publicos, Fue linilla, que les fon provididos por derecho comun, leyes, i prematicas destos Reynos, e iinstruigues del Sancto Officeo. O que fa aun ocho Chriega, O que fu",
+      "confidence": 0.018310546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        305,
+        865,
+        1146,
+        945
+      ],
+      "draft": "ton prouidos por derecho comun, leyes, i prematicas del los Reynos, e instrucciones del santo Officio. O que fe ayan echo Clerigos. O que tengan alguna dignidad Ecclesiasticca, o leglar, o insignias della. O avan",
+      "final": "ton prouidos por derecho común, leyes, i prematicas del los Reynos, e instrucciones del santo Officio. O que fe ayan echo Clerigos. O que tengan alguna dignidad Ecclesiasticca, o leglar qe insignias della. O avan",
+      "confidence": 0.0546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        309,
+        905,
+        1146,
+        978
+      ],
+      "draft": "Instrucciones del tanto Office. O que le ayan echo Clerigos. O que tengan alguna dignidad Eclesiasticca, o seglar, o insignias della. O ayan traido cosas proibidas, como lo närmas, feda, oro, plata, corales, perlas",
+      "final": "Instrucciones del tanto Office. O que le ayan echo Clerigos. O que tengan alguna dignidad Eclesiasticca, o seglar, o insignias della. O ayan traido cosas prohibidas, como son armas de da, oro, plata, corales, perlas",
+      "confidence": 0.466796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        305,
+        936,
+        1144,
+        1015
+      ],
+      "draft": "tengan alguna dignidad Ecclesiástica, o leglar, o inligias della. O ayan traido cosas proibidas, como son armas; feda, oro, plata, corales, perlas, chamelotes, paños finos, o caualgado en caballo. O que en poder de al",
+      "final": "tengan alguna dignidad Ecclesiástica, o leglar, o inligias della. O ayan traido cosas proibidas, como son armas; feda, oro, plata, corales, perlas, chamelotes, paños finos, o caualgado en caballo. O que en poder de al-",
+      "confidence": 0.6796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        307,
+        975,
+        1144,
+        1048
+      ],
+      "draft": "trunas colas proliudas, como loba, lila, oro, plata, corales, perlas, chamelotes, paños finos, o caualgado en caballo. O que en poder de al- 128 sugun E escribuno, o Notario, o en otras personas esten algunos procesillos",
+      "final": "trunas colas proliudas, como loba, lila, oro, plata, corales, perlas, chamelotes, paños finos, o caualgado en caballo. O que en poder de al- 128 sugun E escribuno, o Notario, o en otras personas esten algunos procesossos",
+      "confidence": 0.173828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        301,
+        1011,
+        1140,
+        1082
+      ],
+      "draft": "en chameleotes, puros mios, o eavallado en caballo. O que en poder de al- gun Escribaño, o Notario, o en otras personas, esten algunos proceffos, mutos, denunciaciones, prouancias, informaciones o otras calesquis",
+      "final": "en chamelotes, puros mios, o eavallado en caballo. O que en poder de al gun Escribano, o Notario, o en otras personas, esten algunos proceffos, mutos, denunciaciones, prouancias, informaciones o otras calesquis",
+      "confidence": 0.056396484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        305,
+        1050,
+        1140,
+        1117
+      ],
+      "draft": "segund El Hallo, o Necauiso, o en otras personas, en en algunos procesos,",
+      "final": "segund El Hallo, o Necauiso, o en otras personas, en en algunos procesos, auto, denunciaciones, prouanças, informaciones, o otras qualesquier escrituras tocantes a los delitos, en esta nuestra carrera refueridos",
+      "confidence": 0.10693359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        303,
+        1081,
+        1118,
+        1154
+      ],
+      "draft": "86 a uitos, de su relación, prouanças, informaciones, o otras qualquier escrituras tocantes a los delitos, en esta nuestra carta referidos.",
+      "final": "89 auctos, de mutuaciones, prouanças, informaciones, o otras qualesquier escrituras tocantes a los delitos, en esta nuestra carta referidos.",
+      "confidence": 0.59375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        457,
+        1125,
+        1125,
+        1183
+      ],
+      "draft": "112 NO i giler arlington ob noiostrauug i onsbaszg a 113 N.D.E. Por el lugar donde Comparta su gente y su cultura",
+      "final": "112 NO i giler ardonuam st noiosdunnug i ombasg a",
+      "confidence": 0.0810546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        316,
+        1152,
+        1140,
+        1256
+      ],
+      "draft": "POR ENDE, Por el tenor de la presente, a monestamos, exortámos, i requerimos, i en virtud de lanta obediciencia, i lo pena de ex- cirurion menos les tenia fortescimiento. Ca qe se puso en guardia",
+      "final": "POR ENDE, Por el tenor de la presente, a monestamos, exortámos, i requerimos, i en virtud de lanta obediciencia, i lo pena de eximirucion me y la tam fortebiencia i Cinco iuios, y en virtud de lanta obediciencia, i lo pena de eximirucion me y la",
+      "confidence": 0.003387451171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        323,
+        1225,
+        1138,
+        1299
+      ],
+      "draft": "mos, frequenciamos, ren virtud de la tā obediencia, ni openha de ex comúnion mayor la tæ lententia, trina Cānonica monitore pre",
+      "final": "mos, frequenciamos, ren virtud de la tā obediencia, ni openha de ex comunion mayor la tæ lententia, trina Cānonica monitore pre",
+      "confidence": 0.1953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 28,
+      "bbox": [
+        307,
+        1262,
+        1138,
+        1328
+      ],
+      "draft": "comulion mayor le quentilla, llima Callolica mencionole pre- missa, mandamos a todos; i qualquier de vos, qe filupieredes, o ovieredes hecho, vista, o oido dezir que alguna perfazie su boca o dicho o tenido",
+      "final": "comulion mayor le quentilla, llima Catholica mencionole pre- missa, mandamos a todos; i qualquier de vos, qe filupieredes, o ovieredes hecho, vista, o oido dezir que alguna perfazie su boca o dicho o tenido",
+      "confidence": 0.025390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 29,
+      "bbox": [
+        301,
+        1297,
+        1135,
+        1363
+      ],
+      "draft": "llina, lliudallim s a todos, i qualquier de vos, qe supierudes, o avierudes hecho, visto, o oido dezir, que alguna persona aya hecho, o dicho, tenido, o affirmado o algunos casos de les arribo dicho, i deslendades, y otra, qual",
+      "final": "llina, liudamle sä todos, i qualquier de vos, qe supieredes, o avieredes hecho, visto, o oido dezir, que alguna persona aya hecho, o dicho, tenido, o affirmado o algunos casos de les arribo dicho, i deslendares, y otra, qual",
+      "confidence": 0.00141143798828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 30,
+      "bbox": [
+        305,
+        1333,
+        1135,
+        1401
+      ],
+      "draft": "neecho, vinto, o oido de zaf, que alguna persona aya hecho, o dicho, tenido, o affirmado algunas cosas de las arriba dichas, i declaradas, o otra qual- quiera que lea contra nuestra Santa Frā Carolina i lo que tiene, predica, i nothing else.",
+      "final": "neecho, vinto, o oido de zaf, que alguna persona aya hecho, o dicho, tenido, o affirmado algunas cosas de las arriba dichas, i declaradas, o otra qual- quiera que lea contra nuestra Santa Frā Carolina i lo que tiene, predica, i nothing else.",
+      "confidence": 0.04248046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 31,
+      "bbox": [
+        305,
+        1366,
+        1136,
+        1434
+      ],
+      "draft": "o affirmado algunas cosas de las arriba dichas, i declaradas, o otra qual-",
+      "final": "o affirmado algunas cosas de las arriba dichas, i declaradas, o otra qual- quiera que lea contra luectra santa Fe Carolica, i lo que tiene, predica, i en leña nuestra santa madre y glosia de Roma, asi de vivos, profetas, o",
+      "confidence": 0.0927734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 32,
+      "bbox": [
+        305,
+        1405,
+        1135,
+        1471
+      ],
+      "draft": "en leña nuestra santa madre y glesia de Roma, a ssi de vivos, preentes, o aufentes como de difuntos, sin comunicarlo con persona alguna (por",
+      "final": "en leña nuestra santa madre y glesia de Roma, a ssi de vivos, preentes, o aufentes como de difuntos, sin comunicarlo con persona alguna (por su leg.mo), y en leña nuestra santa madre y glesia de Roma, a ssi de vivos, preentes, o aufentes como de difuntos, sin comunicarlo con persona",
+      "confidence": 0.4609375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 33,
+      "bbox": [
+        303,
+        1440,
+        1133,
+        1507
+      ],
+      "draft": "su trrada madre. E giena de Roma, asi de vivos, presentes, o aufentes, como de difuntos, lin comunicarlo comperona alguna, (porque assi conviene ) vengays i parezçays ante nos personalmente a dezir",
+      "final": "su trrada madre. E giena de Roma, asi de vivos, presentes, o aufentes, como de difuntos, lin comunicarlo comperona alguna, (porque assi conviene ) vengays i parezçays ante nos personalmente a dezir",
+      "confidence": 0.271484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 34,
+      "bbox": [
+        292,
+        1469,
+        1136,
+        1542
+      ],
+      "draft": "auiiles, como de ultimos, ni comullicarlo con perioña alguna, (porque a ssi conviene) vengays, i parezcaysante nos personalmente, a dezirlo, i manifiestarlo, dentro de seis dias primeros siguientes, despues que",
+      "final": "auiiles, como de ultimos, ni comullicarlo con perioña alguna, (porque a ssi conviene) vengays, i parezcaysante nos personalmente, a dezirlo, i manifiestarlo, dentro de seis dias primeros siguientes, despues que",
+      "confidence": 0.404296875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 35,
+      "bbox": [
+        294,
+        1504,
+        1131,
+        1577
+      ],
+      "draft": "que a iste conviene ) vengays, i parezcaysante nos personalmente, a dezir- lo, i manifiestarlo, dentro de feis dias primeros ligüientes, despues que esta nueuropa carta fuere leyda i publico, o como della parte supierades",
+      "final": "que a iste conviene ) vengays, i parezcaysante nos personalmente, a dezir- lo, i manifiestarlo, dentro de feis dias primeros ligüientes, despues que esta nueuropa carta fuere leyda i publico, o como della parte supierades",
+      "confidence": 0.06396484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 36,
+      "bbox": [
+        281,
+        1539,
+        1135,
+        1615
+      ],
+      "draft": "llo, i mantinetarlo, dentro de les dias primeros ligúientes, despues que esta nuestra carta fuere leyda i publicada, o como della parte lupieredes",
+      "final": "llo, i mantinetallo, dentro de les dias primeros ligúientes, despues que esta nuestra carta fuere leyda i publicada, o como della parte lupieredes",
+      "confidence": 0.390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 37,
+      "bbox": [
+        287,
+        1590,
+        1129,
+        1646
+      ],
+      "draft": "año 1300",
+      "final": "año 1300",
+      "confidence": 0.97265625,
+      "method": "kept"
+    },
+    {
+      "index": 38,
+      "bbox": [
+        331,
+        1824,
+        1052,
+        1875
+      ],
+      "draft": "archivos Estatales, https://pares.cultura.gob/",
+      "final": "chivos Estatales, https://pares.cultura.gob/",
+      "confidence": 0.439453125,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "otras, por les hazer mal, i daño, i macular fu honrra. O que aya encubier- to recetado, o fuorecido algunos hereges, dandoles favor i avuda ocul\notras, por les hazer mal, daño, y llacualar le donita. O que aya encubier- to, recetado, o fauorecido algunos hereges, dandoles fautor, i a yuda, o cul- tando, i encubriendo sus peronas, o sus bienes. O que avan puesto\nto, recetado, o lauoreciado algunos hereges, daudoles razon, la ayuda, oculi\ntanto, lleeu bien nrō sus perdonas, o tus bienes. O que ayal puesto impe- dimiento por li, o por otros al libre i reto exercicio del Santo Officio, i assi, y los ministros del. O que eran guindo, o biesto guiter algunos\nabdimiento por nō por otros al libre reto exercicio del Santo Officio, a ti officiales, o ministros del. O que ayan quitado, o hecho quitar algunos Sambenitos donde estauan puestos por el santo Officio, o ayau puesto\nofficiales, o minutos del. O que ayudado, o hecho qeuitar algunos Sambenitos donde estauan puestos por el fanto Officio, o ayau puesto otros. O que los que an fijo reconciliados, i penitenciados por el fano Officio, no an guardado, ni cumplido las carcelerias\notros. O que los que an lido reconemados, i penitenciados por chan- ro Officio, no an guardado, ni cumplido las carcelerias, ni peniten- cias que les fueron impuestas. O li han dexado de traer publica-\nto Officio, no air guardado, ni cumplido las carcelerias, ni peniten- cias que les fueron impuestos. O li han dexado de traer publicamente el abito de reconciliacion sobre sus vestiduras. O que algunos re-\ncias que les fueron impuesitas. O si han dexado de traer publicamente el abito de reconciliacion sobre sus vestiduras. O que algunos reciclilidos o penitenciados ayadicho, que lo que confessaron en el sen\nmente era bito de recomelacion sobre sus vestiduras. O que algunos recconciliados, o penitenciados ayā dicho, que lo que confessaron en el lan- to Obispo, assi de si como de otras personas no fuesse verdad, ni lo avian\nconciliados, o penitenciados ayadicho, que lo que contelaron en el lan- to Officio, alli de li como de otras personas no fuesse verdad, ni lo avian hecho ni comitido i que lo dixeron por temor, o por otros respetos, O\nConterio, un de tres como de otras pereuas no fuese verdad, ni lo avian hecho ni cometido, i que lo dixeron por temor, o por otros respetos, O que avan descubierto el secreto qe les fue encomendado en el sancto, Officiario, o que avan descubierto el\nhecho ni cometiado, i que lo dixeron por temor, o por otros relpetsos. O que ayan descubierto el secreto qe les fue encomendado en el lanto Offi-\nque ayan de cubierto el terceto que fue encomiendado en el tanto Officio. O que alguno aya dicho, que los relaxados por el lento Officio fue\nço. O que alguno ay adello, que los relaxados por el tantto. Cinco fue- ron condenados sin culpa, i que murieron martires. O que algunos que avan liddo reconciliados o hijos y nietros de cōdenados por el delito i cri- tiado, murieron martires. O que algunos que avan liddo reconciliados o hijos y nietros de cōdenados por el delito i cri- tiado, murieron martires. Output ONLY the transcribed text, nothing else.\nron condenados lin culpa, i que murieron martires. O que algunos que ayan fido reconciliados, o hijos, o nietos de cōdenados por el delito i cri- men de la gregia, ayan y fido i ysen officios publicos, i de honra, que les\nayan lido reconciliados, o niños, o lícitos de cobdenados por el delito leri- men de la erigia, ayan vlado, i vlen officios publicos, i de honta, que les fon proiridos por derecho comun, leves i premanicas de estos Reynos, e\ntien de Msegueña, a y aliuidado, E ven Officios publicos, Fue linilla, que les fon provididos por derecho comun, leyes, i prematicas destos Reynos, e iinstruigues del Sancto Officeo. O que fa aun ocho Chriega, O que fu\nton prouidos por derecho común, leyes, i prematicas del los Reynos, e instrucciones del santo Officio. O que fe ayan echo Clerigos. O que tengan alguna dignidad Ecclesiasticca, o leglar qe insignias della. O avan\nInstrucciones del tanto Office. O que le ayan echo Clerigos. O que tengan alguna dignidad Eclesiasticca, o seglar, o insignias della. O ayan traido cosas prohibidas, como son armas de da, oro, plata, corales, perlas\ntengan alguna dignidad Ecclesiástica, o leglar, o inligias della. O ayan traido cosas proibidas, como son armas; feda, oro, plata, corales, perlas, chamelotes, paños finos, o caualgado en caballo. O que en poder de al-\ntrunas colas proliudas, como loba, lila, oro, plata, corales, perlas, chamelotes, paños finos, o caualgado en caballo. O que en poder de al- 128 sugun E escribuno, o Notario, o en otras personas esten algunos procesossos\nen chamelotes, puros mios, o eavallado en caballo. O que en poder de al gun Escribano, o Notario, o en otras personas, esten algunos proceffos, mutos, denunciaciones, prouancias, informaciones o otras calesquis\nsegund El Hallo, o Necauiso, o en otras personas, en en algunos procesos, auto, denunciaciones, prouanças, informaciones, o otras qualesquier escrituras tocantes a los delitos, en esta nuestra carrera refueridos\n89 auctos, de mutuaciones, prouanças, informaciones, o otras qualesquier escrituras tocantes a los delitos, en esta nuestra carta referidos.\n112 NO i giler ardonuam st noiosdunnug i ombasg a\nPOR ENDE, Por el tenor de la presente, a monestamos, exortámos, i requerimos, i en virtud de lanta obediciencia, i lo pena de eximirucion me y la tam fortebiencia i Cinco iuios, y en virtud de lanta obediciencia, i lo pena de eximirucion me y la\nmos, frequenciamos, ren virtud de la tā obediencia, ni openha de ex comunion mayor la tæ lententia, trina Cānonica monitore pre\ncomulion mayor le quentilla, llima Catholica mencionole pre- missa, mandamos a todos; i qualquier de vos, qe filupieredes, o ovieredes hecho, vista, o oido dezir que alguna perfazie su boca o dicho o tenido\nllina, liudamle sä todos, i qualquier de vos, qe supieredes, o avieredes hecho, visto, o oido dezir, que alguna persona aya hecho, o dicho, tenido, o affirmado o algunos casos de les arribo dicho, i deslendares, y otra, qual\nneecho, vinto, o oido de zaf, que alguna persona aya hecho, o dicho, tenido, o affirmado algunas cosas de las arriba dichas, i declaradas, o otra qual- quiera que lea contra nuestra Santa Frā Carolina i lo que tiene, predica, i nothing else.\no affirmado algunas cosas de las arriba dichas, i declaradas, o otra qual- quiera que lea contra luectra santa Fe Carolica, i lo que tiene, predica, i en leña nuestra santa madre y glosia de Roma, asi de vivos, profetas, o\nen leña nuestra santa madre y glesia de Roma, a ssi de vivos, preentes, o aufentes como de difuntos, sin comunicarlo con persona alguna (por su leg.mo), y en leña nuestra santa madre y glesia de Roma, a ssi de vivos, preentes, o aufentes como de difuntos, sin comunicarlo con persona\nsu trrada madre. E giena de Roma, asi de vivos, presentes, o aufentes, como de difuntos, lin comunicarlo comperona alguna, (porque assi conviene ) vengays i parezçays ante nos personalmente a dezir\nauiiles, como de ultimos, ni comullicarlo con perioña alguna, (porque a ssi conviene) vengays, i parezcaysante nos personalmente, a dezirlo, i manifiestarlo, dentro de seis dias primeros siguientes, despues que\nque a iste conviene ) vengays, i parezcaysante nos personalmente, a dezir- lo, i manifiestarlo, dentro de feis dias primeros ligüientes, despues que esta nueuropa carta fuere leyda i publico, o como della parte supierades\nllo, i mantinetallo, dentro de les dias primeros ligúientes, despues que esta nuestra carta fuere leyda i publicada, o como della parte lupieredes\naño 1300\nchivos Estatales, https://pares.cultura.gob/"
+}

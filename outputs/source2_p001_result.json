@@ -1,0 +1,341 @@
+{
+  "page": "source2_p001",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      6300,
+      8400
+    ],
+    "has_marginalia": false,
+    "raw_response": "125 ¶eña de a guerre. Obina de la Villa De Quute madre legitima De maria Antros de arreguiri mi hija legima y demin de arregui mi marco. Veryente muchos años ha en las tiendas con la Quina que a U."
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        1214,
+        490,
+        5980,
+        838
+      ],
+      "draft": "ña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a guirre y sāña de a gu",
+      "final": "ña de a guirre y Egina de la Villade Quate madre Legitima de maria",
+      "confidence": 0.251953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        1419,
+        777,
+        5889,
+        1117
+      ],
+      "draft": "de arregui mi hija leg.mo y de nun de arregui mi marido resi",
+      "final": "de arregui mi hija leg.mo y de nun de arregui mi marido resi",
+      "confidence": 0.11962890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        1255,
+        966,
+        5906,
+        1420
+      ],
+      "draft": "muchos años ha en las yndias con la Venia que a V. m. pido en",
+      "final": "muchos años ha en las yndias con la Venia que a V. m. pido en",
+      "confidence": 0.291015625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        1230,
+        1245,
+        5840,
+        1617
+      ],
+      "draft": "de la marital y siendame concedida para lo que Dire de yuso pa",
+      "final": "de la marital y siendame concedida para lo que Dire de yuso pa",
+      "confidence": 0.279296875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        1115,
+        1499,
+        5939,
+        2585
+      ],
+      "draft": "ante Don, por la mejor forma que Hubiera lugar de derecho y non excusable a uerous criminalmente a Santiago de garragoria canterizo, Precituro y natural de Aragauia oui serio de Vez y llauino. Vezino relation de mi guerra, otmes que como es",
+      "final": "ante, Don, por la mejor forma que Hubiera lugar de Josecho y quisierran a ucers criminalmente a Santiago de garragoria la- guderigo Preruerto y natural de Aragauia oui serio de Vez y llauino. y estaua relation de mi guerra, otmes que como es",
+      "confidence": 0.000457763671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        1386,
+        2467,
+        5848,
+        2823
+      ],
+      "draft": "y por tal alego que Teniendo yo a la sa maria andres mi hija",
+      "final": "y por tal alego que Teniendo yo a la sa maria andres mi hija",
+      "confidence": 0.4296875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        1443,
+        2729,
+        5971,
+        3061
+      ],
+      "draft": "en cauello en mi casa y compañia en españa Villa con mucha",
+      "final": "en cauello en mi casa y compañia en españa Villa con mucha",
+      "confidence": 0.87109375,
+      "method": "kept"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        1698,
+        2992,
+        5857,
+        3332
+      ],
+      "draft": "Recogimiento de Hered de diez y nueue años poco mas",
+      "final": "Recogimiento de Hered de diez y nueue años poco mas",
+      "confidence": 0.203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        1443,
+        3172,
+        5922,
+        3594
+      ],
+      "draft": "y de logroño de haber alli gaudado a unos poe muš el vno acusado siendo el bruiante matriculado en esta Uniuer",
+      "final": "y de lo que quier dize qe nadada uos por mucho el vno acusado siendo el biuiante matriculado en esta Uniuer",
+      "confidence": 0.09033203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        1419,
+        3484,
+        5873,
+        3832
+      ],
+      "draft": "ordenado de orden sacra por s. pueblo El geraror de Dios y de su",
+      "final": "ordenado de orden sacra por s. pueblo El creueror de Dios y de su",
+      "confidence": 0.06201171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        1673,
+        3763,
+        5914,
+        4095
+      ],
+      "draft": "y en gran perjuuo de mi señrra y reputacion y de la qe he",
+      "final": "y en gran perjuuo de mi señrra y reputacion y de la qe he",
+      "confidence": 0.2060546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        1533,
+        3976,
+        5832,
+        4324
+      ],
+      "draft": "a tres años paco masiemenos de Vaxo de muchos 10 recimi",
+      "final": "a tres años paco masiemenos de Vaxo de muchos 10 recimi",
+      "confidence": 0.32421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        1066,
+        4099,
+        5914,
+        4948
+      ],
+      "draft": "la abra tuera unos marionenses de Vaxo de muchos 100 muertos y palabras la reduxo a su Fullo y Voluntad y la hibi perx su limprea y honestidad y sacandela por fuerça y contra mi vo 233 y haz mi casas calluie al地 lugar de aRigort",
+      "final": "la abra tuera unos marionenses de Vaxo, de muchos yrumores y palabras la reduxo a su Fullo y Voluntad la hibi perx su limprea y honestidad y sacandela por fuerça y contra mi vo 200 ybarri mi casas calluie al lugar de aRigort",
+      "confidence": 0.00057220458984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        1533,
+        4698,
+        5980,
+        5071
+      ],
+      "draft": "de las yslas mis casas la lleuo al vno lugar de aRigorrā",
+      "final": "de las yslas mis casas la lleuo al vno lugar de aRigorrā",
+      "confidence": 0.212890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        1845,
+        4961,
+        5512,
+        5424
+      ],
+      "draft": "Ha tenido siempre y latiene al presente en lo qe",
+      "final": "Ha tenido siempre y latiene al presente en lo qe Del i dier. De gosce y con mugeres",
+      "confidence": 0.0279541015625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        1484,
+        5240,
+        5528,
+        5719
+      ],
+      "draft": "muy atroçes de scios dignos de Exemplar punicion e en muchas pezas establecidas un derecho com",
+      "final": "muy atroçes de scios dignos de Exemplar punicion e en muchas pezas establecidas un derecho com",
+      "confidence": 0.05126953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        2075,
+        5510,
+        5660,
+        5875
+      ],
+      "draft": "en muchas ponas establecidas por derecho com",
+      "final": "en muchas ponas establecidas por derecho com",
+      "confidence": 0.984375,
+      "method": "kept"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        1214,
+        5691,
+        5643,
+        6219
+      ],
+      "draft": "ycucurrio en muchas peñas Establecidas por derecho con de los reynos = Por tanto pino y supp a N. m. auda Po.",
+      "final": "con currio en muchas peñas Establecidas por derecho con de los reynos = Por tanto pino y supp a N.m. auida Po.",
+      "confidence": 0.02978515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        967,
+        6043,
+        5635,
+        6843
+      ],
+      "draft": "dura y noticia esta mi Relacion de dar el ocho sanctaigo de glosia por perperador de los dios dios y le condene y exceda yendo las oblas con peor y mala señal.",
+      "final": "119 por zapffe a C.M. Muerte. y noticia esta mi Relacion de leer al ocho sancta gosto de g Biblia por perperador de los dios dios y le condene y exceda yendo las oblas nuegро y ocho dios y le condene y le extiende yendo las oblas nueg",
+      "confidence": 0.00921630859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        1296,
+        6618,
+        5619,
+        7113
+      ],
+      "draft": "persona y bienes las ydas penas y las mayores que en ello",
+      "final": "persona y bienes las ydas penas y las mayores que en ello",
+      "confidence": 0.173828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        2206,
+        6921,
+        5799,
+        7286
+      ],
+      "draft": "syncidientemente mente y de su officio con gene al dzo",
+      "final": "syncidientemente mente y de su officio con gene al dzo",
+      "confidence": 0.09912109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        1747,
+        7143,
+        5561,
+        7507
+      ],
+      "draft": "puede y pague por docte de la trrā mari andres quin",
+      "final": "puede y pague por docte de la trrā mari andres quin",
+      "confidence": 0.4609375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        1074,
+        7487,
+        5709,
+        7827
+      ],
+      "draft": "dicados los quales y muchos mas tenia y esperaua tener al tpō",
+      "final": "dicados los quales y muchos mas tenia y esperaua tener al tpō",
+      "confidence": 0.205078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        1156,
+        7692,
+        5857,
+        8090
+      ],
+      "draft": "con el se encuentra de sus legitimas paterna y materna y de las pri",
+      "final": "leonel se encontro de sus legitimas paterna y materna y de las pri",
+      "confidence": 0.47265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        1041,
+        7930,
+        5783,
+        8385
+      ],
+      "draft": "memorias que en el barba Villa dexaron min y bañes de herida /",
+      "final": "memorias que en el barba Villa dexaron min y bañes de herida /",
+      "confidence": 0.2333984375,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "ña de a guirre y Egina de la Villade Quate madre Legitima de maria\nde arregui mi hija leg.mo y de nun de arregui mi marido resi\nmuchos años ha en las yndias con la Venia que a V. m. pido en\nde la marital y siendame concedida para lo que Dire de yuso pa\nante, Don, por la mejor forma que Hubiera lugar de Josecho y quisierran a ucers criminalmente a Santiago de garragoria la- guderigo Preruerto y natural de Aragauia oui serio de Vez y llauino. y estaua relation de mi guerra, otmes que como es\ny por tal alego que Teniendo yo a la sa maria andres mi hija\nen cauello en mi casa y compañia en españa Villa con mucha\nRecogimiento de Hered de diez y nueue años poco mas\ny de lo que quier dize qe nadada uos por mucho el vno acusado siendo el biuiante matriculado en esta Uniuer\nordenado de orden sacra por s. pueblo El creueror de Dios y de su\ny en gran perjuuo de mi señrra y reputacion y de la qe he\na tres años paco masiemenos de Vaxo de muchos 10 recimi\nla abra tuera unos marionenses de Vaxo, de muchos yrumores y palabras la reduxo a su Fullo y Voluntad la hibi perx su limprea y honestidad y sacandela por fuerça y contra mi vo 200 ybarri mi casas calluie al lugar de aRigort\nde las yslas mis casas la lleuo al vno lugar de aRigorrā\nHa tenido siempre y latiene al presente en lo qe Del i dier. De gosce y con mugeres\nmuy atroçes de scios dignos de Exemplar punicion e en muchas pezas establecidas un derecho com\nen muchas ponas establecidas por derecho com\ncon currio en muchas peñas Establecidas por derecho con de los reynos = Por tanto pino y supp a N.m. auida Po.\n119 por zapffe a C.M. Muerte. y noticia esta mi Relacion de leer al ocho sancta gosto de g Biblia por perperador de los dios dios y le condene y exceda yendo las oblas nuegро y ocho dios y le condene y le extiende yendo las oblas nueg\npersona y bienes las ydas penas y las mayores que en ello\nsyncidientemente mente y de su officio con gene al dzo\npuede y pague por docte de la trrā mari andres quin\ndicados los quales y muchos mas tenia y esperaua tener al tpō\nleonel se encontro de sus legitimas paterna y materna y de las pri\nmemorias que en el barba Villa dexaron min y bañes de herida /"
+}

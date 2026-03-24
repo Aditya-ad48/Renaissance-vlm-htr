@@ -1,0 +1,445 @@
+{
+  "page": "source3_p009",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      1332,
+      1888
+    ],
+    "has_marginalia": false,
+    "raw_response": "es eslojo del Ctriador. O que alguno (siendo Clerigo o de orden fascio, o Frayle professo, se aya caído. O que alguno no fiendo ordenado de orden Sacerdotal o dicho Mißio, o administrado alguno de"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        418,
+        214,
+        1001,
+        293
+      ],
+      "draft": "que alguno (fiendo Clerigo o de orden facto, o a casado. O que alguno no fiendo ordenado de orden",
+      "final": "que alguno (fiendo Clerigo o de orden facto, o a casado. O que alguno no fiendo ordenado de orden",
+      "confidence": 0.21484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        245,
+        251,
+        996,
+        328
+      ],
+      "draft": "del Criador. O que alguno (liebdo Clerigo o de orden la tro, o profello) fe nya caualdo. O que alguno no liendo ordenado de or- cedor la va dicho Missa, o administrado alguno de los Sacramen",
+      "final": "del Criador. O que alguno (liebdo Clerigo o de orden la tro, o profello) se yaa cañado. O que alguno no liendo ordenado de or- cedor la va dicho Missa, o administrado alguno de los Sacramen-",
+      "confidence": 0.287109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        326,
+        323,
+        1007,
+        393
+      ],
+      "draft": "laya dicho Milla, o administrado alguno de los sacramen-\ntaña madre y glesia O que alguno Confessor, o Conssello \ny ligascon, en su jurisprigno este, y con condition que les en",
+      "final": "laya dicho Milla, o administrado alguno de los sacramen-\ntaña madre y glesia O que alguno Confessor, o Conssello \ny ligion fou en su jurisprigno este, y con condition que les en",
+      "confidence": 0.006134033203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        216,
+        362,
+        1003,
+        430
+      ],
+      "draft": "de tientra tala madre Iglesia Que algun Començor, o Començo // Clerigos, o Religiosos, de qualquier estado, o condicion que le a, en // Pide de la Confession, o proximamente a ella, o en el confessionalario o lute",
+      "final": "de tientra tala madre Iglesia Que algun Començor, o Començo // Clerigos, o Religiosos, de qualquier estado, o condicion que le a, en // Pide de la Confession, o proximamente a ella, o en el confessionalario o lute",
+      "confidence": 0.0439453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        300,
+        388,
+        1007,
+        467
+      ],
+      "draft": "cos, o Religiosos, de qualquier el estado, o condicion que le a, en Confession, o proximamente a ella, o en el confesonario o lu do para confessar, aunque no le confessen, ayan solicitado a sus",
+      "final": "cos, o Religiosos, de qualquier el estado, o condicion que le a, en Confession, o proximamente a ella, o en el confesonario o lu do para confessar, aunque no le confessen, ayan solicitado a sus",
+      "confidence": 0.0693359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        258,
+        467,
+        1003,
+        535
+      ],
+      "draft": "amado para conçeliar, aunque no le conoscen, ayala conierto a los",
+      "final": "amado para conçeliar, aunque no le conoscen, ayala conierto a los",
+      "confidence": 0.047607421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        284,
+        491,
+        1007,
+        570
+      ],
+      "draft": "confelsion, provocandolas, o induciendolas con echos o palas acros torpes, i deslouestos. O si alguna otra persona le acaulado o mas vezes teniendo su primera muger o nrigo vivos. O qe",
+      "final": "confelsion, provocandolas, o induciendolas con echos o palas acros torpes, i deslouestos. O si alguna otra persona le a calado o mas vezes teniendo su primera muger o nrigo vivos. O qe",
+      "confidence": 0.06298828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        295,
+        535,
+        1007,
+        609
+      ],
+      "draft": "y otros torpes, fue oido nuestros. En alguna otra persona le acaído",
+      "final": "neros torpes, fue oido nuestros. En alguna otra persona le acaído",
+      "confidence": 0.07470703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        299,
+        568,
+        1005,
+        640
+      ],
+      "draft": "mas vezes, teniendo la primera muger, o marido vivos. O que",
+      "final": "mas vezes, teniendo la primera muger, o matido vivos. O que",
+      "confidence": 0.212890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        457,
+        605,
+        1005,
+        673
+      ],
+      "draft": "cado, que la impiertonization, O dar a Vitira, o a",
+      "final": "cado, que la impiertonization, O dar a Vitira, o a",
+      "confidence": 0.03369140625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        341,
+        637,
+        1012,
+        708
+      ],
+      "draft": "farle no es pecado, O que es mejor, Ivalle mas en al vno que caulado. O que ayan hecho vituperios, i malos trata - y como mançe de santos ê Cruzes. O que alguno no era escudo",
+      "final": "farle no es pecado, O que es mejor, Ivalle mas en al vno que caulado. O que ayan hecho vituperios, i malos trata - y como mançe de santos ê Cruzes. O que alguno no era escudo",
+      "confidence": 0.01611328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        273,
+        672,
+        1007,
+        743
+      ],
+      "draft": "cebado, que cataudo. O que ayala hecho vituperillos, i finco trata",
+      "final": "cebado, que cataudo. O que ayau hecho vituperios, & finco trata- lles á Imagenes de Santos, o Cruzes. O que alguno no aya creido, ni supo de le Fō, ouverdudedo de algunas dellas. O vsa estado, y",
+      "confidence": 0.1103515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        736,
+        707,
+        1014,
+        780
+      ],
+      "draft": "alguno no aya creido ni con ellos. O aya estado vn reciado i teniolo en PO",
+      "final": "alguno no aya creido ni desdellos. O aya estado vn estado preciado, i tenido en PO",
+      "confidence": 0.0167236328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        524,
+        814,
+        1016,
+        885
+      ],
+      "draft": "yglesia, diziendo, o haziendo colas contra ellas, que alguna o algunas personas, lo color",
+      "final": "yglesia, diziendo, o haziendo colas contra ellas, que alguna o algunas personas, lo color",
+      "confidence": 0.87890625,
+      "method": "kept"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        452,
+        884,
+        1019,
+        955
+      ],
+      "draft": "haben por las entrelas, plus aspectos, o por las rayas",
+      "final": "haben por las entrelas, plus aspectos, o por las rayas",
+      "confidence": 0.294921875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        642,
+        917,
+        1021,
+        985
+      ],
+      "draft": "del arte, clecia, o facultad, o otras // y venir, dependientes de la liber- // ty, como no puegarnos de a gente",
+      "final": "del arte, clecia, o facultad, o otras // y venir, dependientes de la liber- // ty, y como puede ser gente de gente,",
+      "confidence": 0.03759765625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        441,
+        954,
+        1019,
+        1022
+      ],
+      "draft": "canian las colas por venir, dependientes de la liber-",
+      "final": "canian las colas por venir, dependientes de la liber-",
+      "confidence": 0.2412109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        505,
+        991,
+        1019,
+        1059
+      ],
+      "draft": "nobre, o los ca los forluyos que an de acontes en las cosas patadas, ocultas, i libres, dizen entender que ay reglas arca, o ciencia para no",
+      "final": "nobre, o los ca los foruyles que an de acontes en las cosas patadas, ocultas, i libres, dizen entender que ay reglas arca, o ciencia para no",
+      "confidence": 0.005950927734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        599,
+        1028,
+        1027,
+        1099
+      ],
+      "draft": "otas pañadas, gecillas, e libres, dezien que ay reglas, arte, o ciencia para po",
+      "final": "otas pañadas, gecillas, e libres, dezien que ay reglas, arte, o ciencia para po",
+      "confidence": 0.88671875,
+      "method": "kept"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        431,
+        1050,
+        1031,
+        1134
+      ],
+      "draft": "ando a entender que ay reglas, arte, o ciencia para po",
+      "final": "ando a entender que ay reglas, arte, o ciencia para po",
+      "confidence": 0.921875,
+      "method": "kept"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        448,
+        1096,
+        1025,
+        1164
+      ],
+      "draft": "y que las vayan a preguntar, i con tal, nexo (que los talles efectos) fallo, vano, i superfticiolo (y por exclusion de nuestra religion Cristiana",
+      "final": "O que las vayan a preguntar, i con tal, nin (que los talles efectos) fallo, vano, i superfticiolo (y expucion de nuestra religion Cristiana",
+      "confidence": 0.15625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        234,
+        1133,
+        896,
+        1204
+      ],
+      "draft": "combido todo ello es para los tales efectos) tajo, vado, Fijo gran daño i perturbacion de nuestra religion Cristiana. e xa, por si, que porue moderna y clara touo i. DICI",
+      "final": "combido todo ello es para los tales efectos) tajo, vado, Fijo gran daño i perturbacion de nuestra religion Cristiana. e xa, por si, que porue moderna labor touo i. DHI",
+      "confidence": 0.00396728515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        293,
+        1170,
+        927,
+        1234
+      ],
+      "draft": "daño y perturbacion de nueua religión Christiana.\n127",
+      "final": "daño y perturbacion de nueua religión Christiana.\n121",
+      "confidence": 0.279296875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        253,
+        1206,
+        868,
+        1265
+      ],
+      "draft": "e e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e,",
+      "final": "e e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e,",
+      "confidence": 0.921875,
+      "method": "kept"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        265,
+        1240,
+        1032,
+        1308
+      ],
+      "draft": "SI SAVEYS, dauer y oido dezir, que algunas personas ayan te- cido giro y algunos calibros de la fe, i opiniones del dicho Mar",
+      "final": "SI SAVEYS, dauer y oido dezir, que algunas personas ayan te- cido giro y algunos calibros de la fe, i opiniones del dicho Mar",
+      "confidence": 0.138671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        273,
+        1271,
+        1036,
+        1346
+      ],
+      "draft": "SI SAVE Y S, o aueys oido dezir, que algunas personas ayan te- nido o tengan algunos libros de la feta, i opiniones del dicho Marti Luraro, o otrosageos o si Alcoran o otros libros de la feta",
+      "final": "SI SAVE Y S, o aueys oido dezir, que algunas personas ayan te- nido o tengan algunos libros de la feta, i opiniones del dicho Marti Luraro, o otros eragres o si Alcoran o otros libros de la feta",
+      "confidence": 0.08203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        234,
+        1308,
+        1036,
+        1376
+      ],
+      "draft": "rido o tengan algunos libros de la feta, o opiniones del dicho Martiin Lutero, o otros ereges, o el Alcoran, o otros libros de la feta",
+      "final": "rido o tengan algunos libros de la feta, o opiniones del dicho Martiin Lutero, o otros ereges, o el Alcoran, o otros libros de la feta y del Mahom, y Bibli, que juzgaua, o le guiaua, o le presaua, o le recusaua, y no modern Spanish",
+      "confidence": 0.7265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        374,
+        1347,
+        1038,
+        1413
+      ],
+      "draft": "lo, o otros cieges, o el Alcoran, o otros libros de la leta Biblia en romiance, o otros qualquier de los reproofa- 111 por los confuses, i Catalogos del fara, Officio de la In",
+      "final": "lo, o otros cieges, o el Alcoran, o otros libros de la leta Biblia en romiance, o otros qualquier de los reproofa- 10 por los confuses, i Catalogos del fara, Officio de la In",
+      "confidence": 0.03173828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 28,
+      "bbox": [
+        385,
+        1382,
+        1038,
+        1448
+      ],
+      "draft": "biblias en romania, o otros qualquier de los represa por las censuras, i Catalogos del santo Officio de la Inkuga algunos es porfonse, no cumpliendo lo que son obliga",
+      "final": "biblias en romance, o otros qualquier de los represa por las censuras, i Catalogos del santo Officio de la Inkūna algunos es porfonçe, no cumpliendo lo que son obliga",
+      "confidence": 0.00653076171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 29,
+      "bbox": [
+        335,
+        1415,
+        1042,
+        1488
+      ],
+      "draft": "gidos por las celturas, i Catalogos del tanto Oficio de la Mi",
+      "final": "gidos por las celturas, i Catalogos del tanto Oficio de la Mi",
+      "confidence": 0.6328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 30,
+      "bbox": [
+        489,
+        1439,
+        1045,
+        1569
+      ],
+      "draft": "as las personas, no cumpliendo lo que fonlen, o oido dezir, o o las personas que no lo manifieste. O que ayan fochar falsamente los que an depuesto en el lan",
+      "final": "as las personas, no cumpliendo lo que tono, ni manifiestar lo que laben, o an oido dezir, o las personas que no lo manifieste. O que ayan loechar fallamente los que an depuesto en el lan",
+      "confidence": 0.1875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 31,
+      "bbox": [
+        400,
+        1512,
+        1047,
+        1597
+      ],
+      "draft": "do a otras personas que no lo manihelte. O que ayan lo- s para tachar fallamente los que an depuesto en el lan- que algunas personas avan depuesto fallamente contra",
+      "final": "do a otras personas que no lo manihelte. O que ayan lo- s para tachar fallamente los que an depuesto en el lan- que algunas personas avan depuesto fallamente contra",
+      "confidence": 0.263671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 32,
+      "bbox": [
+        339,
+        1551,
+        1043,
+        1630
+      ],
+      "draft": "titigos para tacillar fallamente los que an depuesto en el lan- O que algunas personas ayan depuesto fallamente contra",
+      "final": "titigos para taciliar fallamente los que an depuesto en el lan- O que algunas personas ayan depuesto fallamente contra",
+      "confidence": 0.6640625,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "que alguno (fiendo Clerigo o de orden facto, o a casado. O que alguno no fiendo ordenado de orden\ndel Criador. O que alguno (liebdo Clerigo o de orden la tro, o profello) se yaa cañado. O que alguno no liendo ordenado de or- cedor la va dicho Missa, o administrado alguno de los Sacramen-\nlaya dicho Milla, o administrado alguno de los sacramen-\ntaña madre y glesia O que alguno Confessor, o Conssello \ny ligion fou en su jurisprigno este, y con condition que les en\nde tientra tala madre Iglesia Que algun Començor, o Començo // Clerigos, o Religiosos, de qualquier estado, o condicion que le a, en // Pide de la Confession, o proximamente a ella, o en el confessionalario o lute\ncos, o Religiosos, de qualquier el estado, o condicion que le a, en Confession, o proximamente a ella, o en el confesonario o lu do para confessar, aunque no le confessen, ayan solicitado a sus\namado para conçeliar, aunque no le conoscen, ayala conierto a los\nconfelsion, provocandolas, o induciendolas con echos o palas acros torpes, i deslouestos. O si alguna otra persona le a calado o mas vezes teniendo su primera muger o nrigo vivos. O qe\nneros torpes, fue oido nuestros. En alguna otra persona le acaído\nmas vezes, teniendo la primera muger, o matido vivos. O que\ncado, que la impiertonization, O dar a Vitira, o a\nfarle no es pecado, O que es mejor, Ivalle mas en al vno que caulado. O que ayan hecho vituperios, i malos trata - y como mançe de santos ê Cruzes. O que alguno no era escudo\ncebado, que cataudo. O que ayau hecho vituperios, & finco trata- lles á Imagenes de Santos, o Cruzes. O que alguno no aya creido, ni supo de le Fō, ouverdudedo de algunas dellas. O vsa estado, y\nalguno no aya creido ni desdellos. O aya estado vn estado preciado, i tenido en PO\nyglesia, diziendo, o haziendo colas contra ellas, que alguna o algunas personas, lo color\nhaben por las entrelas, plus aspectos, o por las rayas\ndel arte, clecia, o facultad, o otras // y venir, dependientes de la liber- // ty, y como puede ser gente de gente,\ncanian las colas por venir, dependientes de la liber-\nnobre, o los ca los foruyles que an de acontes en las cosas patadas, ocultas, i libres, dizen entender que ay reglas arca, o ciencia para no\notas pañadas, gecillas, e libres, dezien que ay reglas, arte, o ciencia para po\nando a entender que ay reglas, arte, o ciencia para po\nO que las vayan a preguntar, i con tal, nin (que los talles efectos) fallo, vano, i superfticiolo (y expucion de nuestra religion Cristiana\ncombido todo ello es para los tales efectos) tajo, vado, Fijo gran daño i perturbacion de nuestra religion Cristiana. e xa, por si, que porue moderna labor touo i. DHI\ndaño y perturbacion de nueua religión Christiana.\n121\ne e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e, e,\nSI SAVEYS, dauer y oido dezir, que algunas personas ayan te- cido giro y algunos calibros de la fe, i opiniones del dicho Mar\nSI SAVE Y S, o aueys oido dezir, que algunas personas ayan te- nido o tengan algunos libros de la feta, i opiniones del dicho Marti Luraro, o otros eragres o si Alcoran o otros libros de la feta\nrido o tengan algunos libros de la feta, o opiniones del dicho Martiin Lutero, o otros ereges, o el Alcoran, o otros libros de la feta y del Mahom, y Bibli, que juzgaua, o le guiaua, o le presaua, o le recusaua, y no modern Spanish\nlo, o otros cieges, o el Alcoran, o otros libros de la leta Biblia en romiance, o otros qualquier de los reproofa- 10 por los confuses, i Catalogos del fara, Officio de la In\nbiblias en romance, o otros qualquier de los represa por las censuras, i Catalogos del santo Officio de la Inkūna algunos es porfonçe, no cumpliendo lo que son obliga\ngidos por las celturas, i Catalogos del tanto Oficio de la Mi\nas las personas, no cumpliendo lo que tono, ni manifiestar lo que laben, o an oido dezir, o las personas que no lo manifieste. O que ayan loechar fallamente los que an depuesto en el lan\ndo a otras personas que no lo manihelte. O que ayan lo- s para tachar fallamente los que an depuesto en el lan- que algunas personas avan depuesto fallamente contra\ntitigos para taciliar fallamente los que an depuesto en el lan- O que algunas personas ayan depuesto fallamente contra"
+}

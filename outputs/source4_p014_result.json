@@ -1,0 +1,380 @@
+{
+  "page": "source4_p014",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      2452,
+      1849
+    ],
+    "has_marginalia": false,
+    "raw_response": "316 14 ¶ De bocar la donacion respejo de Neco no que las accepto porque como el Padre tiene Ligima por Conia para acceptar por los hijos por lo mismo que se ambrlo aceptaran cerca a ella disputati, uo eleganter e a li"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        371,
+        100,
+        2392,
+        206
+      ],
+      "draft": "llamandola comun cor de Dere y sigue la decision",
+      "final": "llamandola comun cor de Dere y sigue la decision",
+      "confidence": 0.0439453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        399,
+        162,
+        2291,
+        256
+      ],
+      "draft": "Gama. B.nw. e nguelib? E ci concludiunt que",
+      "final": "Gama. B.nw. e nguelo? E ci concludiunt que",
+      "confidence": 0.1533203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        373,
+        203,
+        2308,
+        314
+      ],
+      "draft": "qe la maria.",
+      "final": "qe la maria. non es con el que es con el que es",
+      "confidence": 0.06591796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        495,
+        253,
+        2293,
+        350
+      ],
+      "draft": "muçarriatteran el 92º de ley y qe al / si ambos lo aceptaran cessat ella disputatio, ule el acogerio a Vician. Luit. Diet. derecho. Como",
+      "final": "muçarriatteran el dō de el y qe al / si ambos lo aceptaran cessat ella disputatio, u / el acogerio a Aician (Luit. Diet. derecho Como",
+      "confidence": 0.00193023681640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        390,
+        306,
+        2284,
+        393
+      ],
+      "draft": "sta opinio es to x Singulari A. c. i. de suces",
+      "final": "sta opinio es to x Singulari A. c. i. de suces",
+      "confidence": 0.490234375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        390,
+        354,
+        2308,
+        443
+      ],
+      "draft": "vna feudo, que en la concepcion leuala de",
+      "final": "vna feudo, que en la concepcion leuala de",
+      "confidence": 0.047607421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        543,
+        401,
+        2281,
+        489
+      ],
+      "draft": "que la fama de sucession conquer A / So Conc Dow Alongs presJudicar a los Margi",
+      "final": "que la fama de sucession conquer A / So Conc Dow Alongo presudicar alos Margar",
+      "confidence": 0.0771484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        368,
+        440,
+        2270,
+        548
+      ],
+      "draft": "Padre croquis se feudo para lo qe le sea de guaran- dar aunque el despues qe en el lo contradidissen",
+      "final": "Padre croquis se feudo para lo qe le sea de guaran- dar aunque el despues qe en el lo contradidissen",
+      "confidence": 0.01300048828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        378,
+        464,
+        2305,
+        673
+      ],
+      "draft": "Pacifieriusc us de grado para lo qe sea de guan- dar a avniquer dopier qe o en ello contaidzon y era dan quanto puede hazer por ti, y a gwoño por el primer Con",
+      "final": "Don P., su hijo en el cibdellino avn que qil fuera quanto mas que no o quisso sazer el ex defectu por tahr. arguimus a dezectum vnn tahr. e tex. glō. y ange lo con la miutile",
+      "confidence": 0.0021209716796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        397,
+        581,
+        2272,
+        678
+      ],
+      "draft": "e por en el Si que acuino por el prima Con",
+      "final": "e por en el Si que a gino por el prima Con",
+      "confidence": 0.154296875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        471,
+        636,
+        1889,
+        728
+      ],
+      "draft": "que esco procede no solo, disponiendo le d",
+      "final": "que esco procede no solo, disponiendo le d",
+      "confidence": 0.1982421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        375,
+        619,
+        2222,
+        793
+      ],
+      "draft": "151.92 / Mo que escrios de notar proceže 151.92",
+      "final": "151 navi = 151u",
+      "confidence": 0.126953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        739,
+        720,
+        2248,
+        819
+      ],
+      "draft": "que es mo de no tar procer Con scala que es Padre sin",
+      "final": "126 De que resulta que la Jula de los sus hijos | Seueros del ojo Marqueo Don Pedro estu",
+      "confidence": 0.00150299072265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        656,
+        775,
+        2195,
+        867
+      ],
+      "draft": "con encaso que el Padre sin",
+      "final": "con encaso que el Padre sin",
+      "confidence": 0.69140625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        395,
+        821,
+        2114,
+        922
+      ],
+      "draft": "nianatara ningun suyo. Nizo ce pacecho por si e por –",
+      "final": "nianatavar ningun suyo. Ni zo cejachorro porf e po- 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 10",
+      "confidence": 0.006317138671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        371,
+        878,
+        1973,
+        996
+      ],
+      "draft": "sus Cossos generalemte por bi dominus leges Dan tan atados. Las manos que no soslo no",
+      "final": "sus Cossos generalemte por bi dominus leges Dan tan atados. Las manos que no soslo no",
+      "confidence": 0.0228271484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        483,
+        964,
+        1154,
+        1035
+      ],
+      "draft": "disponer en favor de vn estraño sin os",
+      "final": "disponer en favor de vn estraño sin os",
+      "confidence": 0.013427734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        517,
+        1019,
+        1132,
+        1085
+      ],
+      "draft": "poco puede el oigh avn hiporto dexar",
+      "final": "poco puede el oigh avn hiporto dexar",
+      "confidence": 0.0311279296875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        445,
+        1103,
+        1144,
+        1174
+      ],
+      "draft": "Соб. лб. z. variarum .13 .132 .vof.141",
+      "final": "соб. л.в. z. variarum c. i379-80 Vof.141",
+      "confidence": 0.4453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        428,
+        1156,
+        1067,
+        1217
+      ],
+      "draft": "conclusio es la Razon porque avngi",
+      "final": "conclusio es la Razon porque avnqe",
+      "confidence": 0.01470947265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        433,
+        1245,
+        1144,
+        1305
+      ],
+      "draft": "contrato o ce Padre no se le pagare lo e en e",
+      "final": "contrato oce Padre no se le zaguelo e treuente",
+      "confidence": 0.16796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        474,
+        1288,
+        1168,
+        1360
+      ],
+      "draft": "92 nōs de Señor con quien el padre Sir· e g rad",
+      "final": "90 120 120 120 120 120 120 120 120 120 120 120 120 120 120 121 121 121 122 123 1",
+      "confidence": 0.1376953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        442,
+        1343,
+        1173,
+        1408
+      ],
+      "draft": "destluit Cotle. ni loco proxime a la. O game",
+      "final": "ies su luit Cō el. ni lo co proxime a la ho. E game",
+      "confidence": 0.287109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        407,
+        1386,
+        1154,
+        1454
+      ],
+      "draft": "de uis 233 nuo. 122 genie caso no es necesario",
+      "final": "de uis 233 nuo. qe en este caso no es necesario",
+      "confidence": 0.0693359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        469,
+        1436,
+        1070,
+        1499
+      ],
+      "draft": "a la conteruiera que uo entre Bar",
+      "final": "a la conteruiera que uo entre Bar",
+      "confidence": 0.33984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        469,
+        1477,
+        1108,
+        1552
+      ],
+      "draft": "m. Egui Rome. Y Lui, assi de verbo",
+      "final": "m. Egui Rome. Y Lauio ssesse verbo",
+      "confidence": 0.212890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        368,
+        1520,
+        1170,
+        1609
+      ],
+      "draft": "Olçar sic que saze donacion avno con pacho que despues, de lu, doscientos quintos",
+      "final": "Olçar sic que saze donacion avno con pacho que despues, de lu, doscientos quintos",
+      "confidence": 0.023193359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        579,
+        1573,
+        1151,
+        1650
+      ],
+      "draft": "de su dia de buelta a astro puede",
+      "final": "de su dia de buelta a astro puede",
+      "confidence": 0.023193359375,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "llamandola comun cor de Dere y sigue la decision\nGama. B.nw. e nguelo? E ci concludiunt que\nqe la maria. non es con el que es con el que es\nmuçarriatteran el dō de el y qe al / si ambos lo aceptaran cessat ella disputatio, u / el acogerio a Aician (Luit. Diet. derecho Como\nsta opinio es to x Singulari A. c. i. de suces\nvna feudo, que en la concepcion leuala de\nque la fama de sucession conquer A / So Conc Dow Alongo presudicar alos Margar\nPadre croquis se feudo para lo qe le sea de guaran- dar aunque el despues qe en el lo contradidissen\nDon P., su hijo en el cibdellino avn que qil fuera quanto mas que no o quisso sazer el ex defectu por tahr. arguimus a dezectum vnn tahr. e tex. glō. y ange lo con la miutile\ne por en el Si que a gino por el prima Con\nque esco procede no solo, disponiendo le d\n151 navi = 151u\n126 De que resulta que la Jula de los sus hijos | Seueros del ojo Marqueo Don Pedro estu\ncon encaso que el Padre sin\nnianatavar ningun suyo. Ni zo cejachorro porf e po- 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 10\nsus Cossos generalemte por bi dominus leges Dan tan atados. Las manos que no soslo no\ndisponer en favor de vn estraño sin os\npoco puede el oigh avn hiporto dexar\nсоб. л.в. z. variarum c. i379-80 Vof.141\nconclusio es la Razon porque avnqe\ncontrato oce Padre no se le zaguelo e treuente\n90 120 120 120 120 120 120 120 120 120 120 120 120 120 120 121 121 121 122 123 1\nies su luit Cō el. ni lo co proxime a la ho. E game\nde uis 233 nuo. qe en este caso no es necesario\na la conteruiera que uo entre Bar\nm. Egui Rome. Y Lauio ssesse verbo\nOlçar sic que saze donacion avno con pacho que despues, de lu, doscientos quintos\nde su dia de buelta a astro puede"
+}

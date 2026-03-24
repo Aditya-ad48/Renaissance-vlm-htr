@@ -1,0 +1,172 @@
+{
+  "page": "source2_p002",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      6300,
+      8400
+    ],
+    "has_marginalia": false,
+    "raw_response": "a Nos el Doctor Joan Lopes de galarca R. cancelario puesto hordinario a apostolicos conservadores del colegio mayor de santipcitas de la Villa de Orate por la santa seca apostólica = a los curios y clerigos de arriogaria y Pessimos ecc"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        2469,
+        162,
+        3880,
+        1018
+      ],
+      "draft": "yor el Poher, a publicar con Tristes",
+      "final": "yor el Poher, a publicar con Tristes",
+      "confidence": 0.00372314453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        1271,
+        621,
+        4462,
+        1470
+      ],
+      "draft": "y Perouas escolas, que mes",
+      "final": "y Perouas escolas, que mes",
+      "confidence": 0.0125732421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        1870,
+        851,
+        5192,
+        2003
+      ],
+      "draft": "Jean Luyd de Galua",
+      "final": "Jean Luyd de Galua",
+      "confidence": 0.0283203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        1246,
+        1310,
+        6300,
+        3947
+      ],
+      "draft": "119 ¶ la ley es a la partea de la justicia, de alli qe se partio el agua, ordeñole todo except ño, doblev all the line, (e in some words missing\nnobodys name is exactly split across — (Vezino', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo' (e.g. some line-end",
+      "final": "129 ¶ la ley es por todo else, por alli, 'Vezino', 'Leg.mo', 'dha', 'Vm'). Output ONLY the transcribed text, nothing else.",
+      "confidence": 0.22265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        1796,
+        3263,
+        6250,
+        4029
+      ],
+      "draft": "y Mandado por ende Les quires la traça y la guisa que el Dijo",
+      "final": "y Mandado por ende Las guerras que el Poblacion ay por tal",
+      "confidence": 0.01385498046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        1189,
+        3468,
+        6300,
+        4464
+      ],
+      "draft": "anne que guerra quit el Rey nueuegico de San Isidro y Quito a lllar Samuel y a lacer",
+      "final": "puissance y grecia porque el Rey nueuegodeu",
+      "confidence": 0.02880859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        1017,
+        3771,
+        6300,
+        5686
+      ],
+      "draft": "d En Virgil que quiera que le escriba, le escriba para le",
+      "final": "d En Virgil que el Pueblo de Paredes, para le",
+      "confidence": 0.019775390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        1739,
+        4928,
+        6045,
+        6072
+      ],
+      "draft": "y por su muerte y deshon, y como gudiuos suos y llueua y mena, y como gudiuos suos y llueua y mena, y como gudiuos suos y llueua y mena, y como gudiuos suos y llueua y mena, y como gudiuos suos y llueua y mena,",
+      "final": "y en la qual con el juicio de su madre y de su padre y de su hermano y de su heredero y de su viñedo y de su granja y de su gran patrimonio y de su gran propension y de su pessimos mançe y de su pessimos estado y de su pessimos estado y de su pessimos estado",
+      "confidence": 0.404296875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        1050,
+        5338,
+        5733,
+        6613
+      ],
+      "draft": "y ayudame ya, y ayudame ya, y ayudame ya, y ayudame ya, y ayudame ya, y ayudame ya, y ayudame ya,",
+      "final": "y ayudame ya, y ayudame ya, y ayudame ya, y ayudame ya, y ayudame ya, y ayudame ya, y ayudame ya,",
+      "confidence": 0.7578125,
+      "method": "kept"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        1616,
+        6068,
+        5373,
+        7064
+      ],
+      "draft": "yudiente ni levarua En manejo morałos, entre PLō y qe le dāis 82",
+      "final": "sientiera ni levara En manera que fuere Neguerdos morir, En manera que fuere Neguerdos morir, En manera que fuere Neguerdos morir, En manera que fuere Neguerdos morir, Output ONLY the transcribed text, nothing else.",
+      "confidence": 0.0274658203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        1862,
+        6626,
+        4601,
+        7318
+      ],
+      "draft": "m maior orden que le quiso hacer, en manera que querian entre PS. y Savo",
+      "final": "m maior orden que coniate a ontio",
+      "confidence": 0.005950927734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        2649,
+        7052,
+        4273,
+        7515
+      ],
+      "draft": "lauio qe orbe de",
+      "final": "lauio ombse de",
+      "confidence": 0.322265625,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "yor el Poher, a publicar con Tristes\ny Perouas escolas, que mes\nJean Luyd de Galua\n129 ¶ la ley es por todo else, por alli, 'Vezino', 'Leg.mo', 'dha', 'Vm'). Output ONLY the transcribed text, nothing else.\ny Mandado por ende Las guerras que el Poblacion ay por tal\npuissance y grecia porque el Rey nueuegodeu\nd En Virgil que el Pueblo de Paredes, para le\ny en la qual con el juicio de su madre y de su padre y de su hermano y de su heredero y de su viñedo y de su granja y de su gran patrimonio y de su gran propension y de su pessimos mançe y de su pessimos estado y de su pessimos estado y de su pessimos estado\ny ayudame ya, y ayudame ya, y ayudame ya, y ayudame ya, y ayudame ya, y ayudame ya, y ayudame ya,\nsientiera ni levara En manera que fuere Neguerdos morir, En manera que fuere Neguerdos morir, En manera que fuere Neguerdos morir, En manera que fuere Neguerdos morir, Output ONLY the transcribed text, nothing else.\nm maior orden que coniate a ontio\nlauio ombse de"
+}

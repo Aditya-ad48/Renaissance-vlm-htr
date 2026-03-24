@@ -1,0 +1,237 @@
+{
+  "page": "source1_p003",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      6300,
+      8400
+    ],
+    "has_marginalia": false,
+    "raw_response": "36 141 142 150 151 152 153 154 155 156 157 158 159 160 161 162 1"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        1960,
+        39,
+        4675,
+        551
+      ],
+      "draft": "138 (muori) Corunna",
+      "final": "138 (muori) – 142 Lluoi Corrientes",
+      "confidence": 0.546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        2075,
+        211,
+        4528,
+        772
+      ],
+      "draft": "tori de",
+      "final": "tori de",
+      "confidence": 0.99609375,
+      "method": "kept"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        1722,
+        260,
+        5364,
+        1092
+      ],
+      "draft": "122 Corri pongi el noble 80",
+      "final": "N el ouo prompto a Coruonda, dueño del noble 80",
+      "confidence": 0.0537109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        4282,
+        810,
+        5898,
+        1453
+      ],
+      "draft": "qe apacar de juntarlos - Fuzio de",
+      "final": "qe apacor qe Junezio del",
+      "confidence": 0.0023345947265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        1304,
+        769,
+        6094,
+        1716
+      ],
+      "draft": "hijo - 131 Gobio de su aria y pares",
+      "final": "hijo - 132 Gobio de su aria y pares",
+      "confidence": 0.005950927734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        1189,
+        1138,
+        6300,
+        1806
+      ],
+      "draft": "123 ¶ por su sangre yza para lo deuol",
+      "final": "120 ¶ por su sangre y por su derecho de nom ±to de nom ±to de nom ±to",
+      "confidence": 0.033203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        1082,
+        1819,
+        4872,
+        2175
+      ],
+      "draft": "Este",
+      "final": "Este",
+      "confidence": 1.0,
+      "method": "kept"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        2280,
+        2697,
+        5307,
+        3127
+      ],
+      "draft": "gue or &",
+      "final": "gue or &",
+      "confidence": 0.62890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        2100,
+        2697,
+        4716,
+        4004
+      ],
+      "draft": "que les verie con assurance / se allie a la coruña /",
+      "final": "que les imposse la confiance / se alliaron / a la coruña / a la cebada",
+      "confidence": 0.044677734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        1886,
+        3213,
+        3962,
+        4168
+      ],
+      "draft": "la corte que partio y que veio a",
+      "final": "la cecilia que partio de madrid",
+      "confidence": 0.02587890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        1681,
+        3181,
+        5126,
+        4661
+      ],
+      "draft": "de la Catedral, Non porque loco, porque palgo, porque corte, porque deseo, porque tarea, porque trabajo, porque dha, porque vezino, porque sangre, porque leon, porque bapty, NOT spelling split (e.g. keep 'Vezino', 'Leg.mo', 'dha', 'Vm'). Output ONLY the transcribed text, nothing else.",
+      "final": "de la Catedral, Non porque loco, porque palgo, porque corte, porque deseo, porque tarea, porque trabajo, porque dha, porque vezino, porque sangre, porque leon, porque bapty, NOT spelling split (e.g. keep 'Vezino', 'Leg.mo', 'dha', 'Vm'). Output ONLY the transcribed text, nothing else.",
+      "confidence": 0.9296875,
+      "method": "kept"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        976,
+        3788,
+        4060,
+        4710
+      ],
+      "draft": "80 ellos el descalade De ecaf",
+      "final": "85 ellos el descalade De ecaf",
+      "confidence": 0.000537872314453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        1181,
+        4025,
+        6209,
+        5177
+      ],
+      "draft": "e a 23 Lines de Sa 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 148 149 150 151 152 153 154 155 156 157 158 159 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189",
+      "final": "e a 21 días e despachos e despedaços e desgastes e desglosse e desglosse e desglosse",
+      "confidence": 0.65625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        2009,
+        4017,
+        6168,
+        5875
+      ],
+      "draft": "129 ¶ despotism, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & cinghiale, & c",
+      "final": "139 ¶ la viña de la muerte. ¶ la muerte de la viña. ¶ la muerte de la viña. ¶ la muerte de la viña. Output ONLY the transcribed text, nothing else. Output\n92 ¶ la muerte de la viña. ¶ la muerte de la viña. ¶ la muerte de la viña.",
+      "confidence": 0.2490234375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        1238,
+        5043,
+        5520,
+        7220
+      ],
+      "draft": "112 ¶ le reste,",
+      "final": "112 ¶ le doble conierto, le doble conierto, le doble conierto, le doble conierto, Output ONLY the transcribed text, nothing else.",
+      "confidence": 0.224609375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        2534,
+        6454,
+        4601,
+        7515
+      ],
+      "draft": "batalleria a cccada",
+      "final": "batalleria a cccada",
+      "confidence": 0.07470703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        3002,
+        7028,
+        4364,
+        7745
+      ],
+      "draft": "celca años celebres",
+      "final": "celca años celebres",
+      "confidence": 0.85546875,
+      "method": "kept"
+    }
+  ],
+  "text": "138 (muori) – 142 Lluoi Corrientes\ntori de\nN el ouo prompto a Coruonda, dueño del noble 80\nqe apacor qe Junezio del\nhijo - 132 Gobio de su aria y pares\n120 ¶ por su sangre y por su derecho de nom ±to de nom ±to de nom ±to\nEste\ngue or &\nque les imposse la confiance / se alliaron / a la coruña / a la cebada\nla cecilia que partio de madrid\nde la Catedral, Non porque loco, porque palgo, porque corte, porque deseo, porque tarea, porque trabajo, porque dha, porque vezino, porque sangre, porque leon, porque bapty, NOT spelling split (e.g. keep 'Vezino', 'Leg.mo', 'dha', 'Vm'). Output ONLY the transcribed text, nothing else.\n85 ellos el descalade De ecaf\ne a 21 días e despachos e despedaços e desgastes e desglosse e desglosse e desglosse\n139 ¶ la viña de la muerte. ¶ la muerte de la viña. ¶ la muerte de la viña. ¶ la muerte de la viña. Output ONLY the transcribed text, nothing else. Output\n92 ¶ la muerte de la viña. ¶ la muerte de la viña. ¶ la muerte de la viña.\n112 ¶ le doble conierto, le doble conierto, le doble conierto, le doble conierto, Output ONLY the transcribed text, nothing else.\nbatalleria a cccada\ncelca años celebres"
+}

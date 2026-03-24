@@ -1,0 +1,549 @@
+{
+  "page": "source3_p008",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      1329,
+      1875
+    ],
+    "has_marginalia": false,
+    "raw_response": "INQUIIRIR EN Vezino."
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        305,
+        185,
+        1138,
+        260
+      ],
+      "draft": "opiniones del dicho Martin Luterio, i sus sequaces: O le ayan ydo fue: re de ssos Reynos a fer Luteranos y a lidiar lidiuos ocholo qe ydo mi",
+      "final": "opiniones del dicho Martin Luterio, i sus sequaces: O le ayan ydo fue: re de ssos Reynos a ser Luteranos y a lidiar a cadules ochouio qe no",
+      "confidence": 0.0101318359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        303,
+        228,
+        730,
+        288
+      ],
+      "draft": "s opiniones del reno Martir Luteros, ra destos Reynos a fer Luteranos.",
+      "final": "y opiniones del reno Martir Luteros, y era destos Reynos a fer Luteranos.",
+      "confidence": 0.60546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        386,
+        255,
+        1138,
+        326
+      ],
+      "draft": "dos Reynos a ter Litteranos. SI SA Vey S, o have yo do dezir que alguna o algunas perio-  \nmas vivasō difunras, quando dicho, o confirmado que es buena la Ste",
+      "final": "dos Reynos a ter Litteranos. SI SA Vey S, o have yo do dezir que alguna o algunas perio-  \nmas vivas cō difusres, quando dicho, o confirmado que es buena la Ste",
+      "confidence": 0.0235595703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        380,
+        282,
+        1133,
+        361
+      ],
+      "draft": "SI SAvey S, o have yo ydo dezir que alguna o algunas perduras, vivas o difuntras, ayan dicho, o afirmado que es buena la leta de los Alumbrados. @ Darados especialmente que la oracion me",
+      "final": "SI SAvey S, o have yo ydo dezir que alguna o algunas perduras, vivas o difuntras, ayan dicho, o afirmado que es buena la leta de los Alumbrados. @ Darados especialmente que la oracion me",
+      "confidence": 0.400390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        336,
+        326,
+        1131,
+        396
+      ],
+      "draft": "y has, vivas o difuntas, ayala dicho, o amillado que es buena la leta de los Alumbrados, o Dexados, especialmente que la oracion me luebre su presente divino, i que con ella le cumpla todo lo demas. Y qe",
+      "final": "y las, vivas o difuntas, ayala dicho, o amillado que es buena la leta de los Alumbrados, o Dexados, especialmente que la oracion me luebre su presente divino, i que con ella le cumpla todo lo demas. Y qe",
+      "confidence": 0.14453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        303,
+        352,
+        1133,
+        432
+      ],
+      "draft": "1521 de los Alumbrados, o Dexados, especialmente que la oracion me tal esta en precepto diuino, i que con ella le cumple todo lo demas. Y qe la otacion es Sacramento de hara de accilientes. Y que la oracion men",
+      "final": "1521 de los Alumbrados, o Dexados, especialmente que la oracion me tal esta en precepto diuino, i que con ella le cumple todo lo demas. Y qe la otacion es Sacramento de hara de accilientes. Y que la oracion men",
+      "confidence": 0.09423828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        300,
+        398,
+        1131,
+        465
+      ],
+      "draft": "ta reita en preceptos diluuos, y que con ella le cumple todo lo deuallas. Y qe la oracion es Sacramento de baxo de accidentes. Y que la oracion men- tal arle, pero sin hecho y los uguo la oracion basal importe muy poco. Y qe la oracion es Sacramento de baxo de accidentes. Y qe la oracion men- tal arle, pero sin hecho y los uguo la oracion basal importe muy poco. Y qe la oracion es Sacramento de baxo de accidentes. Y qe la oracion men- tal arle, pero sin hecho y los uguo la oracion basal importe muy poco. Output ONLY the transcribed text, nothing else.",
+      "final": "ta reita en preceptos diluuos, y que con ella le cumple todo lo deuallas. Y qe la oracion es Sacramento de baxo de accidentes. Y que la oracion men- tal arle, pero sin hecho y los uguo la oracion basal importe muy poco. Y qe la oracion es Sacramento de baxo de accidentes. Y qe la oracion men- tal arle, pero sin hecho y los uguo la oracion basal importe muy poco. Y qe la oracion es Sacramento de baxo de accidentes. Y qe la oracion men- tal arle, pero sin hecho y los uguo la oracion basal importe muy poco. Output ONLY the transcribed text, nothing else.",
+      "confidence": 0.9453125,
+      "method": "kept"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        303,
+        436,
+        1131,
+        504
+      ],
+      "draft": "la oracion es sacramento de baxo de accidentes. Y que la oracion inte- tal, es la que tiene este valor, y que la oracio bocal importa muy poco. Y que los sieruos de Dios no han de trabajar, ni ocuparle en exercicios",
+      "final": "la oracion es sacramento de baxo de accidentes. Y que la oracion inte- tal, es la que tiene este valor, y que la oracio bocal importa muy poco. Y que los sieruos de Dios no han de trabajar, ni ocuparle en exercicios",
+      "confidence": 0.2265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        303,
+        466,
+        1131,
+        539
+      ],
+      "draft": "tal, es la que tiene este valor, y que la gracia loca importa muy poco. Y que los sieros de Dios, no han de trabajar, ni ocuparse en exercicios corporales. Y que no le ha de obedecer a Pregado, ni padre, ni superior",
+      "final": "tal, es la que tiene este valor, y que la gracia loca importa muy poco. Y que los sieros de Dios, no han de trabajar, ni ocuparse en exercicios corporales. Y que no le ha de obedecer a Pregado, ni padre, ni superior",
+      "confidence": 0.7578125,
+      "method": "kept"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        301,
+        502,
+        1131,
+        572
+      ],
+      "draft": "que los nervos de Dios, no fin de trabajar, ni ocuparte en exercicios corporales. Y que no le ha de obedecer a Prelado, ni padre, ni superior, en quanto manieran cosas que aportuā las horas de la oracion mental, i",
+      "final": "que los nervos de Dios, no fin de trabajar, ni ocuparte en exercicios corporales. Y que no le ha de obedecer a Prelado, ni padre, ni superior, en quanto manieran cosas que aportuā las horas de la oracion mental, i",
+      "confidence": 0.1953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        300,
+        537,
+        1129,
+        608
+      ],
+      "draft": "y que no le ha de obedecer a I relacio, ni padre, ni superior y en quanto mandaren cosas que estorue las horas de la oracion mental, i contemplacion. Y que dizen palabras, piaricolo mal del Sacramento",
+      "final": "y que dizen palabras, fiaricolo mal del Sacramento",
+      "confidence": 0.3515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        301,
+        572,
+        1129,
+        643
+      ],
+      "draft": "en quanto mantaua en cosas que estorue las lloras de la oracion oriental, y contemplacion. Y que dizen palabras, giatiendo mal del Sacramento del matrimonio. Y que ningo pudo alcançar el secreto de la virtud, sino",
+      "final": "en quanto mantaua en cosas que estorue las lloras de la oracion oriental, y contemplacion. Y que dizen palabras, giatiendo mal del Sacramento del matrimonio. Y que ningo pudo alcançar el secreto de la virtud, sino",
+      "confidence": 0.06689453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        300,
+        605,
+        1127,
+        681
+      ],
+      "draft": "y que dicesen palabras, initiendo manseracimento del matrimonio. Y que nadie puede alcançar el secreto de la virtud, lino fuere discipulo de los maestros que en seña la dicha mala doctrina. Y que",
+      "final": "y que dicesen palabras, initiendo manseracimento del matrimonio. Y que nadie puede alcançar el secreto de la virtud, lino fuere discipulo de los maestros que en seña la dicha mala doctrina. Y que",
+      "confidence": 0.50390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        303,
+        641,
+        1131,
+        716
+      ],
+      "draft": "del matrimonio. y que nadie puede alcançar el secreto de la virtud, mas fueere dicipulo de los maestros que en leña la dicha mala doctrina. Y que nadie puede culvarse sin la oracion qe hazē, iufueuan los dichos maestros",
+      "final": "del matrimonio. y que nadie puede alcançar el secreto de la virtud, mas fueere dicipulo de los maestros que en leña la dicha mala doctrina. Y que nadie puede culvarse sin la oracion qe hazē, iufueuan los dichos maestros",
+      "confidence": 0.10546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        298,
+        674,
+        1136,
+        751
+      ],
+      "draft": "fuere discipulo de los maestros que en leña la dicha lla doctrina. Y que nadie puede salvarle fin la oracion qe hazē, i enfeñan los dichos maestros, i no le confessando con ellos generalmente, Y que ciertos ardos res",
+      "final": "fuere discipulo de los maestros que en leña la dicha lla doctrina. Y que nadie puede la varle fin la oracion qe hazē, i enfeñan los dichos maestros, i no le confessando con ellos generalmente, Y que ciertos ardos res",
+      "confidence": 0.5859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        298,
+        711,
+        1133,
+        784
+      ],
+      "draft": "hable puede lavarle en la obracion qe haze, i entellamlos dichos muertos, i no le confessando con ellos generalmente. Y que ciertos ardores té- blarse, i desmavos que nadaren, Con indicios del amor de Dios i que por",
+      "final": "hable puede lavarle en la obracion qe haze, i entellamlos dichos muertos, i no le confessando con ellos generalmente. Y que ciertos ardores téblarase, i desmavos que nadaren, Con indicios del amor de Dios i que por",
+      "confidence": 0.0888671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        300,
+        746,
+        1136,
+        822
+      ],
+      "draft": "1 no le conteliando con ellos generalmente. i que ciertos ardores te- blores; i desmayos que padecen, son indicios del amor de Dios, i que por si lo se conoce qe esta en gracia, i tienen el Espiritu Santo. Y que los portadores de enfermedad, i desmayos, i deseo, i deseo, no se conoce qe esta en gracia, i no se conocien con el Espiritu Santo. Y que los per- sonas que se sienten enfermas, i desmayos, i deseo, i deseo, i no se conocien con el Espiritu Santo. Y que los portadores de enfermedad, i desmayos, i deseo, i deseo, nothing else. Output ONLY the transcribed text, nothing else. Output may be split across lines. (Vezino, i. d. -)",
+      "final": "1 no le conteliando con ellos generalmente. i que ciertos ardores te- blores; i desmayos que padecen, son indicios del amor de Dios, i que por si lo se conoce qe esta en gracia, i tienen el Espiritu Santo. Y que los portadores de enfermedad, i desmayos, i deseo",
+      "confidence": 0.451171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        298,
+        786,
+        1127,
+        855
+      ],
+      "draft": "Brotes, i deuayos que padeten, le enuidios de amor de Dios, i que por ello se conoce qe está en gracia, i tienen el Espiritu Santo. Y que los per",
+      "final": "Brotes, i deuayos que padeten, le enuideros de amor de Dios, i que por ello se conoce qe está en gracia, i tienen el Espiritu Santo. Y que los per",
+      "confidence": 0.5546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        298,
+        821,
+        1127,
+        890
+      ],
+      "draft": "cho le conoce qe la en gracia, i tienen el, El pitalia Santo. Y que los per- fertos, no tienen necesidad de hazer obras virtuosas. Y que le puede ver içarure en esta vida la estencia divina i los ministerios de la Trinidad que un",
+      "final": "cho le conoce qe la en gracia, i tienen el, El pitalia Santo. Y que los per- fertos, no tienen necesidad de hazer obras virtuosas. Y que le puede ver içarure en esta vida la estencia divina i los ministerios de la Trinidad quan",
+      "confidence": 0.0242919921875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        296,
+        850,
+        1131,
+        929
+      ],
+      "draft": "fijos, no tienen necesidad de hazer obras virtuosas, y que le puede ver i fe vei en esta vida la effencia divina, i los misterios de la Trinidad, quan do llega a cierto punto de la perfeccion. Y que el Espiritu Santo imme",
+      "final": "fijos, no tienen necesidad de hazer obras virtuosas, y que le puede ver i fe vei en esta vida la effencia divina, i los misterios de la Trinidad, quan do llega a cierto punto de la perfeccion. Y que el Espiritu Santo imme",
+      "confidence": 0.7734375,
+      "method": "kept"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        287,
+        885,
+        1125,
+        971
+      ],
+      "draft": "de veej, en esta vida la inteligencia divina, i los sinisteros de la Trinidad, quan do llega a cierto punto de la perfeicion. Y que el Espiritu Santo immediatamente governa a los que a ssi viven. Y que solamente fe ha de fe",
+      "final": "de veej, en esta vida la inteligencia divina, i los sanctuarios de la Trinidad, quan do llega a cierto punto de la perfeicion. Y que el Espiritu Santo immediatamente governa a los que a ssi viven. Y que solamente fe ha de fe",
+      "confidence": 0.4296875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        294,
+        920,
+        1131,
+        995
+      ],
+      "draft": "do llega a cierto punto de la perfeccion. Y que el Elipitfa Santo imme- diatamente governa a los que a si viven. Y que solamente le ha de fe- quir su movimiento ē inspiracion interior, para hazer o dexar de hazer",
+      "final": "do llega a cierto punto de la perfeccion. Y que el Elipitfa Santo imme- diatamente gouiera a los que a si viven. Y que solamente le ha de fe- quir su movimiento e inspiracion interior, para hazer o dexar de hazer",
+      "confidence": 0.255859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        294,
+        954,
+        1127,
+        1033
+      ],
+      "draft": "diamente goyiera a los que alli viven. y que lo tanto le ha de le- guir su movimiento e inspiracion interior, para hazer, o dexar de hazer qualquier cosa. Y que al tiempo de la elevacion del Sanctissimo Sacra",
+      "final": "diamente goyiera a los que alli viven. y que lo tanto le ha de le- guir su movimiento e inspiracion interior, para hazer, o dexar de hazer qualquier cosa. Y que al tiempo de la elevacion del Sanctissimo Sacra",
+      "confidence": 0.6796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        300,
+        993,
+        1129,
+        1064
+      ],
+      "draft": "ningun movimiento e inspiracion interior, para hazer, o dexar de hazer qualquiera cosa. Y que al tiempo de la elevacion del Sant ifsimo Sacra",
+      "final": "ningun movimiento e inspiracion interior, para hazer, o dexar de hazer qualquiera cosa. Y que al tiempo de la elevacion del Sant ifsimo Sacra",
+      "confidence": 0.44921875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        294,
+        1028,
+        1133,
+        1103
+      ],
+      "draft": "qualquieracome. Y que al tiempo de la elevacion del Sanctisimo sacramento, por rito, i ceremonia necessaria, le han de cerrar los ojos. O que algunas personas avan dicho, i affirmado, que aviendo llegado a cierto",
+      "final": "qualquieracome. Y que al tiempo de la elevacion del Sanctisimo sacramento, por rito, i ceremonia necessaria, le han de cerrar los ojos. O que algunas personas avan dicho, i affirmado, que aviendo llegado a cierto",
+      "confidence": 0.7265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        296,
+        1062,
+        1127,
+        1137
+      ],
+      "draft": "mento, por rito, i ceredonia necesaria, le nabi de cerrar los ojos. O que algunas personas ayan dicho, i affirmando, que aviendo llegado a cierto puntuo de la perfeccion, no puede ver Imagines fantasni oyr (sermones ni",
+      "final": "mento, por rito, i ceredonia necesaria, le nabi de cerrar los ojos. O que algunas personas ayan dicho, i affirmando, que aviendo llegado a cierto puntuo de la perfeccion, no puede ver Imagines fantasni oyr (sermones ni",
+      "confidence": 0.125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        300,
+        1101,
+        1127,
+        1169
+      ],
+      "draft": "algumas personas ay al dicho, la unaminado, que avitndo llegado a cierto",
+      "final": "algumas personas ay al dicho, la unaminado, que avitndo llegado a cierto",
+      "confidence": 0.2353515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        294,
+        1134,
+        1125,
+        1205
+      ],
+      "draft": "punto de la perfection, no puede ver imágenes tantas ni ri bernones, ni palabra de Dios, o otras cosas de la dicha lenta, i falta dotrina.",
+      "final": "punto de la perfection, no puede ver imágenes tantas ni ri bernones, ni palabra de Dios, o otras cosas de la dicha lenta, i falta dotrina.",
+      "confidence": 0.76171875,
+      "method": "kept"
+    },
+    {
+      "index": 28,
+      "bbox": [
+        384,
+        1189,
+        909,
+        1234
+      ],
+      "draft": "121 ¶ estalidizo con gregorio y",
+      "final": "111 ¶ el otro, y. el quinto, y. el noveno, y. el quinto, y. el noveno, y. el quinto, y. el noveno,",
+      "confidence": 0.011474609375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 29,
+      "bbox": [
+        371,
+        1207,
+        1129,
+        1278
+      ],
+      "draft": "SI SA VE IS, o aueyo si lo dezir, otras algunas erigias, especial",
+      "final": "SI SA VE IS, o aueyo si lo dezir, otras algunas erigias, especial",
+      "confidence": 0.86328125,
+      "method": "kept"
+    },
+    {
+      "index": 30,
+      "bbox": [
+        371,
+        1242,
+        1127,
+        1313
+      ],
+      "draft": "31 ST A VES, o aleys ojo de zir, otras algunas ceglas, especial mente que no ay paraifo, o gloria para los buenos, ni inferno para los malos, iguo no ay mando yacer, i morir. O algunas blusfe",
+      "final": "31 ST A VES, o aleys ojo de zir, otras algunas ceglas, especial mente que no ay paraifo, o gloria para los buenos, ni inferno para los malos, i gue no ay mando, uacer, i morir. O algunas blusfe",
+      "confidence": 0.0101318359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 31,
+      "bbox": [
+        301,
+        1273,
+        1127,
+        1348
+      ],
+      "draft": "mente que no ay para ito, o gloria para los buenos, ni inferno para los malos, i que no ay mas de nacer, i morir. O algunas blasfeo- mas, araticalas como son, no creo, desgran, caigga contra Dios nue",
+      "final": "mente que no ay paraito, o gloria para los buenos, ni inferno para los malos, i que no ay mas de nacer, i morir. O algunas blasfeo- mas, araticalas como son, no creo, desgran caigga contra Dios que",
+      "confidence": 0.020751953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 32,
+      "bbox": [
+        289,
+        1317,
+        1125,
+        1381
+      ],
+      "draft": "y otros baros, que no ayudas de llacer, li mom. E algunas diatres mas ereticales, como lo con, no creo, descreo, reniego contra Dios nue- fredo. Señor i con multitud principe de lima, ygo de su fluy Señora la V. IP",
+      "final": "y otros baros, que no ayudas de llacer, li mom. E algunas diatres mias, ereticales, como lo con, no creo, descreo, reniego contra Dios nue- fredo. Señor i con multitud principe de lima, ygo de su fluy Señora la V. IP",
+      "confidence": 0.0089111328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 33,
+      "bbox": [
+        289,
+        1350,
+        1124,
+        1418
+      ],
+      "draft": "as, etciedales, como lo tun, no creo, de allero, temiigo contra Dios nueu- tro señor, i contra la virginidad, i limpieza de nuestra señora la V I R. G E N. M A R I A, o con talos los Santos i. Sāsas del Cielo. Que tenian gan",
+      "final": "as, etc etciales, como lo tun, no creo, de allero, temiigo contra Dios nuestro fijo señor, i contra la virgenidad, i limpieza de nuestra señora la VIR",
+      "confidence": 0.08740234375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 34,
+      "bbox": [
+        289,
+        1385,
+        1127,
+        1454
+      ],
+      "draft": "rro señor, le contra la virginidad, limpieza de juierta señora la VIRGA",
+      "final": "rro señor, le contra la virginidad, limpieza de tuelta señora la VIRGA",
+      "confidence": 0.298828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 35,
+      "bbox": [
+        285,
+        1418,
+        1125,
+        1493
+      ],
+      "draft": "SEñ MARIA, o contra los santos, i Satas del Cleio. O que ten gan o ayan tenido familiares invocando Demonios, i hecho cercos, pregun",
+      "final": "SEñ MARIA, o contra los santos, i Satas del Cleio. O que ten gan o ayan tenido familiares invocando Demonios, i hecho cercos, pregun",
+      "confidence": 0.5625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 36,
+      "bbox": [
+        283,
+        1447,
+        1129,
+        1524
+      ],
+      "draft": "o ayan tenido familiares invocando Demonios, i hecho cercos, pregun",
+      "final": "o ayan tenido familiares invocando Demonios, i hecho cercos, pregun",
+      "confidence": 0.71875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 37,
+      "bbox": [
+        290,
+        1489,
+        1124,
+        1555
+      ],
+      "draft": "landadores algunas colas, reperando Repiuesta de los O ayantido bruxos o bruxas, o ay antenido pacto, tácito, o expreso con el Demonio, mezclādo para agraç, fejfe, e pudiesen profanas, escribieron de la criatura, de que",
+      "final": "landadores algunas colas, perperando Resputia de los O ayantido bruxos o bruxas, o ay antenido pacto, tácito, o expreso con el Demonio, mezclādo para agraç, fej fe y pudiesen profanas, escribieron de la criatura, de que",
+      "confidence": 0.0107421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 38,
+      "bbox": [
+        287,
+        1528,
+        1122,
+        1592
+      ],
+      "draft": "do para esto cosas fragadas con profanas, atribuyendo a la criatura, lo que",
+      "final": "do para esto cosas fragadas con profanas, atribuyendo a la criatura, lo que",
+      "confidence": 0.9609375,
+      "method": "kept"
+    },
+    {
+      "index": 39,
+      "bbox": [
+        300,
+        1572,
+        1120,
+        1626
+      ],
+      "draft": "ouiso",
+      "final": "ouiso",
+      "confidence": 1.0,
+      "method": "kept"
+    },
+    {
+      "index": 40,
+      "bbox": [
+        550,
+        1828,
+        1081,
+        1875
+      ],
+      "draft": "es, https://pares.cultura.gob. es",
+      "final": "es, https://pares.cultura.gob. es",
+      "confidence": 0.56640625,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "opiniones del dicho Martin Luterio, i sus sequaces: O le ayan ydo fue: re de ssos Reynos a ser Luteranos y a lidiar a cadules ochouio qe no\ny opiniones del reno Martir Luteros, y era destos Reynos a fer Luteranos.\ndos Reynos a ter Litteranos. SI SA Vey S, o have yo do dezir que alguna o algunas perio-  \nmas vivas cō difusres, quando dicho, o confirmado que es buena la Ste\nSI SAvey S, o have yo ydo dezir que alguna o algunas perduras, vivas o difuntras, ayan dicho, o afirmado que es buena la leta de los Alumbrados. @ Darados especialmente que la oracion me\ny las, vivas o difuntas, ayala dicho, o amillado que es buena la leta de los Alumbrados, o Dexados, especialmente que la oracion me luebre su presente divino, i que con ella le cumpla todo lo demas. Y qe\n1521 de los Alumbrados, o Dexados, especialmente que la oracion me tal esta en precepto diuino, i que con ella le cumple todo lo demas. Y qe la otacion es Sacramento de hara de accilientes. Y que la oracion men\nta reita en preceptos diluuos, y que con ella le cumple todo lo deuallas. Y qe la oracion es Sacramento de baxo de accidentes. Y que la oracion men- tal arle, pero sin hecho y los uguo la oracion basal importe muy poco. Y qe la oracion es Sacramento de baxo de accidentes. Y qe la oracion men- tal arle, pero sin hecho y los uguo la oracion basal importe muy poco. Y qe la oracion es Sacramento de baxo de accidentes. Y qe la oracion men- tal arle, pero sin hecho y los uguo la oracion basal importe muy poco. Output ONLY the transcribed text, nothing else.\nla oracion es sacramento de baxo de accidentes. Y que la oracion inte- tal, es la que tiene este valor, y que la oracio bocal importa muy poco. Y que los sieruos de Dios no han de trabajar, ni ocuparle en exercicios\ntal, es la que tiene este valor, y que la gracia loca importa muy poco. Y que los sieros de Dios, no han de trabajar, ni ocuparse en exercicios corporales. Y que no le ha de obedecer a Pregado, ni padre, ni superior\nque los nervos de Dios, no fin de trabajar, ni ocuparte en exercicios corporales. Y que no le ha de obedecer a Prelado, ni padre, ni superior, en quanto manieran cosas que aportuā las horas de la oracion mental, i\ny que dizen palabras, fiaricolo mal del Sacramento\nen quanto mantaua en cosas que estorue las lloras de la oracion oriental, y contemplacion. Y que dizen palabras, giatiendo mal del Sacramento del matrimonio. Y que ningo pudo alcançar el secreto de la virtud, sino\ny que dicesen palabras, initiendo manseracimento del matrimonio. Y que nadie puede alcançar el secreto de la virtud, lino fuere discipulo de los maestros que en seña la dicha mala doctrina. Y que\ndel matrimonio. y que nadie puede alcançar el secreto de la virtud, mas fueere dicipulo de los maestros que en leña la dicha mala doctrina. Y que nadie puede culvarse sin la oracion qe hazē, iufueuan los dichos maestros\nfuere discipulo de los maestros que en leña la dicha lla doctrina. Y que nadie puede la varle fin la oracion qe hazē, i enfeñan los dichos maestros, i no le confessando con ellos generalmente, Y que ciertos ardos res\nhable puede lavarle en la obracion qe haze, i entellamlos dichos muertos, i no le confessando con ellos generalmente. Y que ciertos ardores téblarase, i desmavos que nadaren, Con indicios del amor de Dios i que por\n1 no le conteliando con ellos generalmente. i que ciertos ardores te- blores; i desmayos que padecen, son indicios del amor de Dios, i que por si lo se conoce qe esta en gracia, i tienen el Espiritu Santo. Y que los portadores de enfermedad, i desmayos, i deseo\nBrotes, i deuayos que padeten, le enuideros de amor de Dios, i que por ello se conoce qe está en gracia, i tienen el Espiritu Santo. Y que los per\ncho le conoce qe la en gracia, i tienen el, El pitalia Santo. Y que los per- fertos, no tienen necesidad de hazer obras virtuosas. Y que le puede ver içarure en esta vida la estencia divina i los ministerios de la Trinidad quan\nfijos, no tienen necesidad de hazer obras virtuosas, y que le puede ver i fe vei en esta vida la effencia divina, i los misterios de la Trinidad, quan do llega a cierto punto de la perfeccion. Y que el Espiritu Santo imme\nde veej, en esta vida la inteligencia divina, i los sanctuarios de la Trinidad, quan do llega a cierto punto de la perfeicion. Y que el Espiritu Santo immediatamente governa a los que a ssi viven. Y que solamente fe ha de fe\ndo llega a cierto punto de la perfeccion. Y que el Elipitfa Santo imme- diatamente gouiera a los que a si viven. Y que solamente le ha de fe- quir su movimiento e inspiracion interior, para hazer o dexar de hazer\ndiamente goyiera a los que alli viven. y que lo tanto le ha de le- guir su movimiento e inspiracion interior, para hazer, o dexar de hazer qualquier cosa. Y que al tiempo de la elevacion del Sanctissimo Sacra\nningun movimiento e inspiracion interior, para hazer, o dexar de hazer qualquiera cosa. Y que al tiempo de la elevacion del Sant ifsimo Sacra\nqualquieracome. Y que al tiempo de la elevacion del Sanctisimo sacramento, por rito, i ceremonia necessaria, le han de cerrar los ojos. O que algunas personas avan dicho, i affirmado, que aviendo llegado a cierto\nmento, por rito, i ceredonia necesaria, le nabi de cerrar los ojos. O que algunas personas ayan dicho, i affirmando, que aviendo llegado a cierto puntuo de la perfeccion, no puede ver Imagines fantasni oyr (sermones ni\nalgumas personas ay al dicho, la unaminado, que avitndo llegado a cierto\npunto de la perfection, no puede ver imágenes tantas ni ri bernones, ni palabra de Dios, o otras cosas de la dicha lenta, i falta dotrina.\n111 ¶ el otro, y. el quinto, y. el noveno, y. el quinto, y. el noveno, y. el quinto, y. el noveno,\nSI SA VE IS, o aueyo si lo dezir, otras algunas erigias, especial\n31 ST A VES, o aleys ojo de zir, otras algunas ceglas, especial mente que no ay paraifo, o gloria para los buenos, ni inferno para los malos, i gue no ay mando, uacer, i morir. O algunas blusfe\nmente que no ay paraito, o gloria para los buenos, ni inferno para los malos, i que no ay mas de nacer, i morir. O algunas blasfeo- mas, araticalas como son, no creo, desgran caigga contra Dios que\ny otros baros, que no ayudas de llacer, li mom. E algunas diatres mias, ereticales, como lo con, no creo, descreo, reniego contra Dios nue- fredo. Señor i con multitud principe de lima, ygo de su fluy Señora la V. IP\nas, etc etciales, como lo tun, no creo, de allero, temiigo contra Dios nuestro fijo señor, i contra la virgenidad, i limpieza de nuestra señora la VIR\nrro señor, le contra la virginidad, limpieza de tuelta señora la VIRGA\nSEñ MARIA, o contra los santos, i Satas del Cleio. O que ten gan o ayan tenido familiares invocando Demonios, i hecho cercos, pregun\no ayan tenido familiares invocando Demonios, i hecho cercos, pregun\nlandadores algunas colas, perperando Resputia de los O ayantido bruxos o bruxas, o ay antenido pacto, tácito, o expreso con el Demonio, mezclādo para agraç, fej fe y pudiesen profanas, escribieron de la criatura, de que\ndo para esto cosas fragadas con profanas, atribuyendo a la criatura, lo que\nouiso\nes, https://pares.cultura.gob. es"
+}

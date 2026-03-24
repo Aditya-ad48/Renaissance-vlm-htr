@@ -1,0 +1,315 @@
+{
+  "page": "source5_p001",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      6300,
+      8400
+    ],
+    "has_marginalia": false,
+    "raw_response": "146 Junio 9 de 1857 342 En una villa de Liraria a nueue de junio de mil ocho cieruos y diec, aue mi el coniauo real y numenol de ella, y Avario publico de"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        984,
+        55,
+        6291,
+        452
+      ],
+      "draft": "Nºluego 146. | 342",
+      "final": "Nºluego 146. | 342",
+      "confidence": 0.99609375,
+      "method": "kept"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        1066,
+        391,
+        2534,
+        822
+      ],
+      "draft": "Junio 9 de 1891.",
+      "final": "Junio 9 de 1891.",
+      "confidence": 0.044677734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        2050,
+        2131,
+        5733,
+        2569
+      ],
+      "draft": "En esta villa de Sieraz a nueue de Junio de mil ocho",
+      "final": "En esta villa de Sieraz a nueue de Junio de mil ocho",
+      "confidence": 0.486328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        1681,
+        2459,
+        5799,
+        2831
+      ],
+      "draft": "cien y Cinquenta y Diec, auie mi el escribano real y numeral",
+      "final": "cien y Cinquenta y Diec, adic mi escribano real y numeral",
+      "confidence": 0.484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        1657,
+        2721,
+        5758,
+        3176
+      ],
+      "draft": "de ella, y Firario publicio de este Obispado de Campiña",
+      "final": "de ella, y Firario publicio de este Obispado de Campiña, y Dependencia siseñora de la iglesia, y Domine",
+      "confidence": 0.345703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        1665,
+        3033,
+        5709,
+        3348
+      ],
+      "draft": "y competerce nueueñ de testigos que al final A erdi nom",
+      "final": "y competerce nueueñ de testigos que al final A erdi nom",
+      "confidence": 0.11767578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        1681,
+        3312,
+        5840,
+        3627
+      ],
+      "draft": "rador, Comparcieron personalmente a la iudgarme D. a lliara",
+      "final": "rador, Comparcieron personalmente a la iudgarme D. a lliara",
+      "confidence": 0.06201171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        1575,
+        3525,
+        5709,
+        3939
+      ],
+      "draft": "Marrida De Ichebemia, viuda de Dr. Miguel prau. Min- teuienda, Con su hijo, Li. M. de Treso. 17",
+      "final": "Marrida De Ichebemia, viuda de Dr. Miguel prau. Min- teuienda, Con su hijo, Lino. M#. 17",
+      "confidence": 0.0201416015625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        1607,
+        3788,
+        5692,
+        4177
+      ],
+      "draft": "te guiaga, con su leg.mo hijo Dr. gōe! Ant. Minse guiaga",
+      "final": "te guiaga, con su leg.mo hijo Dr. gōe Ant. Minse guiaga",
+      "confidence": 0.08349609375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        1566,
+        4058,
+        5709,
+        4382
+      ],
+      "draft": "de estado solero, y de la corma Dr. Juan Francisco de Glin",
+      "final": "de estado solero, y de la corma Dr. Juan Francisco de Glin",
+      "confidence": 0.46875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        1575,
+        4362,
+        5610,
+        4710
+      ],
+      "draft": "reuiage a nudos de Ga Guana Maria de horguechedad",
+      "final": "reuiage a nudos de Ga guana Maria de horguechedad",
+      "confidence": 0.08203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        1583,
+        4575,
+        5701,
+        5030
+      ],
+      "draft": "Com de su hija legitima Dha Alauela jofra de Minseguiaga que hizo su hijo su heredero",
+      "final": "Com de su hija legitima Dha Alauela jofea de Minseguiaga a quien hizo su heredero",
+      "confidence": 0.0118408203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        1533,
+        4879,
+        5733,
+        5284
+      ],
+      "draft": "a uien de estado lollerca, todos ellos na ndos. de esta Orada villa",
+      "final": "a uia bien de estado lobera, todos ellos naindo de esta Priada villa",
+      "confidence": 0.06201171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        1517,
+        5182,
+        5643,
+        5538
+      ],
+      "draft": "y precedidas entre los mismos las venias y licencias maternales!",
+      "final": "y precedidas entre los mismos las venias y licencias maternales!",
+      "confidence": 0.1640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        1771,
+        5502,
+        5651,
+        5826
+      ],
+      "draft": "paternales provenidas por derecho de Cuya querion Con",
+      "final": "paternales provenidas por derecho de Cuya querion Con",
+      "confidence": 0.1005859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        1492,
+        5781,
+        5619,
+        6113
+      ],
+      "draft": "cesion y adaptacion reciopças hizo fei y el escribano y Noranō",
+      "final": "cesion y adaptacion reciopças hago fei y el escribans y Narino",
+      "confidence": 0.1982421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        1517,
+        6027,
+        5520,
+        6351
+      ],
+      "draft": "a digeron. Que el al paso que se Conformaron los expresados Don garº",
+      "final": "a digeron. Que el al paso que se Conformaron los expresados Don garº",
+      "confidence": 0.29296875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        1665,
+        6257,
+        5610,
+        6638
+      ],
+      "draft": "Anronio y Dmauela Jorfa Minetequiaga en Conraher",
+      "final": "Anronio y Dmauela Jorfa Minetequiaga en Conraher",
+      "confidence": 0.54296875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        1451,
+        6577,
+        5504,
+        6958
+      ],
+      "draft": "De matrimonio, y obtuvieron de su Sanctidad la Dispensacion",
+      "final": "De matrimonio, y obtuvieron de su Sanctidad la Dispensacion",
+      "confidence": 0.396484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        1410,
+        6864,
+        5553,
+        7245
+      ],
+      "draft": "del parente ser del tercero Con Quano grado de Chrishauinida dad",
+      "final": "del parente ser del tercero Con Quano grado de Chrishauinida dad",
+      "confidence": 0.038818359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        1435,
+        7102,
+        5463,
+        7458
+      ],
+      "draft": "que media entre ellos, le Dieron nunca palabra y Causare",
+      "final": "que media entre ellos, le Dieron murid palabra y Casarse",
+      "confidence": 0.0235595703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        1443,
+        7389,
+        5496,
+        7802
+      ],
+      "draft": "infacie le dezie, obligandore a que ninguno li Contraenia con",
+      "final": "infacie le die, obligandore a que ninguno li Contraeria con",
+      "confidence": 0.16796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        1509,
+        7668,
+        5610,
+        8057
+      ],
+      "draft": "tra personal Sin Conseilamienro, por escrito de el oro con trayente",
+      "final": "tra personal Sin Conseilamienro por escrito de el oro con trayente",
+      "confidence": 0.0419921875,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "Nºluego 146. | 342\nJunio 9 de 1891.\nEn esta villa de Sieraz a nueue de Junio de mil ocho\ncien y Cinquenta y Diec, adic mi escribano real y numeral\nde ella, y Firario publicio de este Obispado de Campiña, y Dependencia siseñora de la iglesia, y Domine\ny competerce nueueñ de testigos que al final A erdi nom\nrador, Comparcieron personalmente a la iudgarme D. a lliara\nMarrida De Ichebemia, viuda de Dr. Miguel prau. Min- teuienda, Con su hijo, Lino. M#. 17\nte guiaga, con su leg.mo hijo Dr. gōe Ant. Minse guiaga\nde estado solero, y de la corma Dr. Juan Francisco de Glin\nreuiage a nudos de Ga guana Maria de horguechedad\nCom de su hija legitima Dha Alauela jofea de Minseguiaga a quien hizo su heredero\na uia bien de estado lobera, todos ellos naindo de esta Priada villa\ny precedidas entre los mismos las venias y licencias maternales!\npaternales provenidas por derecho de Cuya querion Con\ncesion y adaptacion reciopças hago fei y el escribans y Narino\na digeron. Que el al paso que se Conformaron los expresados Don garº\nAnronio y Dmauela Jorfa Minetequiaga en Conraher\nDe matrimonio, y obtuvieron de su Sanctidad la Dispensacion\ndel parente ser del tercero Con Quano grado de Chrishauinida dad\nque media entre ellos, le Dieron murid palabra y Casarse\ninfacie le die, obligandore a que ninguno li Contraeria con\ntra personal Sin Conseilamienro por escrito de el oro con trayente"
+}

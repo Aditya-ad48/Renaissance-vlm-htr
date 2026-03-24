@@ -1,0 +1,432 @@
+{
+  "page": "source4_p011",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      2470,
+      1858
+    ],
+    "has_marginalia": false,
+    "raw_response": "38 37 141 ¶ Conde Don Antonio y su Soporte como lujo de si"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        475,
+        110,
+        2255,
+        210
+      ],
+      "draft": "Conar Don Alonso y sus sises como luego le dria",
+      "final": "Conar Don Alonso y sus sises como luego le dria",
+      "confidence": 0.07568359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        458,
+        175,
+        2269,
+        251
+      ],
+      "draft": "sepusieron pretender que entregando A ouier",
+      "final": "sepusieron pretender que entregando A ouierō",
+      "confidence": 0.1005859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        410,
+        219,
+        2322,
+        294
+      ],
+      "draft": "103 103 Conde don alonso no tubiera obligacion de",
+      "final": "103 103 Conde don alonso no tubiera obligacion de",
+      "confidence": 0.1748046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        426,
+        267,
+        2289,
+        345
+      ],
+      "draft": "Demis partes que auia de pobardejos Juro confrti",
+      "final": "136 But tus amigos supo probir que no estaua el",
+      "confidence": 0.11767578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        492,
+        318,
+        2209,
+        393
+      ],
+      "draft": "133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 148 149 146 147 148 149 148 149 149 148 149 149 148 149 148 149",
+      "final": "133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 148 149 146 147 148 149 148 149 149 148 149 149 148 149 148 149",
+      "confidence": 0.85546875,
+      "method": "kept"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        417,
+        371,
+        2284,
+        437
+      ],
+      "draft": "yudo (pero bistuuendose a su hijo Don Antonio de 6",
+      "final": "yudo (pero bistuuendose a su hijo Don Antonio de 6",
+      "confidence": 0.8046875,
+      "method": "kept"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        373,
+        405,
+        2281,
+        485
+      ],
+      "draft": "pues de A muerto no corrieramamisma A razon por",
+      "final": "pues de A muerto no corrieramamisma A razon por",
+      "confidence": 0.1923828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        470,
+        462,
+        2250,
+        531
+      ],
+      "draft": "sin oada El o su frei commisso formado. y la igla",
+      "final": "sin oada El o su frei commisso formado. y la de la",
+      "confidence": 0.1376953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        402,
+        503,
+        2098,
+        581
+      ],
+      "draft": "153 ¶ le eses piñauole. Z. anot.",
+      "final": "153 ¶ adbi. Çe num bos jure no processo quando uy. D. anot.",
+      "confidence": 0.0167236328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        373,
+        557,
+        2272,
+        630
+      ],
+      "draft": "ueridad de Cassio o de Daron ut traditribis japon – 139 ouies de e fallescimiento de e Don antonio y",
+      "final": "ueridad de Cassio o de Daron ut traditribis guni",
+      "confidence": 0.004364013671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        431,
+        602,
+        2293,
+        671
+      ],
+      "draft": "67 a dero que la dimanda de los Marguerizeres",
+      "final": "61 a dero que la dimanda de los Marguerizeres",
+      "confidence": 0.126953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        431,
+        641,
+        2272,
+        726
+      ],
+      "draft": "limitada al ojo de lo, y que por tanto no se puebe –",
+      "final": "limitada al ojo de lo, y que por tanto no se puebe / 122 84 86 87 88 89 90 91 92 93 94 95 96 97 100 101 102 103 10",
+      "confidence": 0.013427734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        371,
+        692,
+        2298,
+        765
+      ],
+      "draft": "conocedor del os, y der commisos por Ja ta de reparacion / a que pagare pretiuia a mis partes. y qe nueue ob",
+      "final": "conocedor del os, y der commisso por Ja ta de reparacion 139",
+      "confidence": 0.0712890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        431,
+        738,
+        2293,
+        808
+      ],
+      "draft": "sine que non por vest cadere sententa. l. 4.8 h.c. 140 ¶ por aqella pon de a 140 ¶ similar de si = 150",
+      "final": "sine que non por vest cadere sententa. l.48 hor",
+      "confidence": 0.0712890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        436,
+        788,
+        2281,
+        856
+      ],
+      "draft": "tem yudíbium ss. de damno infecto. quia de bes",
+      "final": "tem yudíbium assi de dauros infecto. quisosebes",
+      "confidence": 0.498046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        530,
+        820,
+        2289,
+        917
+      ],
+      "draft": "113 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 148 149 150 151 152 153 154 155 156 157 158 159 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188",
+      "final": "112 100 101 102 103 104 105 106 107 108 109 106 111 112 113 114 115 116 117 118",
+      "confidence": 0.6328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        371,
+        882,
+        2274,
+        951
+      ],
+      "draft": "liber cum Somitic gno. es necesario anfils pronuncias. Su melomuien",
+      "final": "liber cum Somiligo. es necesario anfils pronuncias. Su melomuien",
+      "confidence": 0.14453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        598,
+        923,
+        2296,
+        996
+      ],
+      "draft": "que el predicimiento de lço su mandado - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+      "final": "que el predimiento de Loo Bermando – Lesiemas en Daran de lo suyo y la da",
+      "confidence": 0.1591796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        670,
+        969,
+        2301,
+        1045
+      ],
+      "draft": "Marquer don Pedzopimientel",
+      "final": "Marquier don Pedzopimientel",
+      "confidence": 0.64453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        397,
+        1020,
+        2330,
+        1095
+      ],
+      "draft": "ço de auer Los Juno por su y tu muerte de Lofs conve",
+      "final": "ço de auer Lofs Juno por su y muerte de Lofs conve",
+      "confidence": 0.041259765625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        472,
+        1068,
+        1823,
+        1141
+      ],
+      "draft": "cobdouio conforme al preruglegio De Los Juzos",
+      "final": "obdouio conforme al preruglegio De Los Juzg",
+      "confidence": 0.09033203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        588,
+        1102,
+        2315,
+        1192
+      ],
+      "draft": "das y fue con dios dellos conor ses",
+      "final": "das y fue con dios dellos conor ses 131 ¶ cumplimiento de pie = ¶ Claramente contrar por la Conklision deazar = costar duro",
+      "confidence": 0.009521484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        962,
+        1162,
+        2045,
+        1233
+      ],
+      "draft": "demanda en – constituro – manda que el ojo humano pis",
+      "final": "demanda en – constituro – manda que el ojo humano pis",
+      "confidence": 0.22265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        410,
+        1210,
+        2199,
+        1276
+      ],
+      "draft": "Campanera. 138 tenesce por espruigulegio de sojo juristos",
+      "final": "Campanera. 138 ¶ en esce por esprueuilegio de sfo. juristas",
+      "confidence": 0.18359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        508,
+        1242,
+        2269,
+        1317
+      ],
+      "draft": "mande Remedian A daño y agrauios que",
+      "final": "mande Remedian A daño y agrauios que",
+      "confidence": 0.625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        615,
+        1295,
+        2269,
+        1385
+      ],
+      "draft": "a mi parter en aver pamido el",
+      "final": "a mi partor en averamortido el",
+      "confidence": 0.09765625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        496,
+        1346,
+        1987,
+        1426
+      ],
+      "draft": "de Four pleitegis con que se le quito su trrā",
+      "final": "de Four pleitегis con que se le quito su rō - 113 123 124 125 126 127 128 129 129a 128b 129c 128 129 127 128",
+      "confidence": 0.310546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        451,
+        1384,
+        2296,
+        1462
+      ],
+      "draft": "136 ¶ que se portara la iglesia de gijon. ¶ que se pomerara la iglesia de gijon. ¶ que se pomerara la iglesia de gijon.",
+      "final": "136 ¶ que se portara la iglesia de gijon. ¶ que se pomerara la iglesia de gijon. ¶ que se pomerara la iglesia de gijon.",
+      "confidence": 0.85546875,
+      "method": "kept"
+    },
+    {
+      "index": 28,
+      "bbox": [
+        487,
+        1437,
+        2293,
+        1518
+      ],
+      "draft": "Padre de mor partes y mance. O. A condes",
+      "final": "Padre de mor partes y mance. O. A condes",
+      "confidence": 0.2451171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 29,
+      "bbox": [
+        451,
+        1481,
+        1963,
+        1559
+      ],
+      "draft": "condene a Don julio Lumentes conde de Benue",
+      "final": "condene a Don julio Lumentes conde de Benue",
+      "confidence": 0.298828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 30,
+      "bbox": [
+        448,
+        1524,
+        2337,
+        1609
+      ],
+      "draft": "servedos que es de lo // Conse dnankoniske // A najeje a los ojos que la Conclusion de la // qe de manda",
+      "final": "serreros que es de lo // Conse dnanonios // Añadeje a los ojos la Conclusion de la // qe se manda",
+      "confidence": 0.035888671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 31,
+      "bbox": [
+        463,
+        1565,
+        2296,
+        1650
+      ],
+      "draft": "buelia astraualgar.17.9.35.Obis.26=",
+      "final": "buelia astraualia a mis pares.179.35.Obis.262",
+      "confidence": 0.38671875,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "Conar Don Alonso y sus sises como luego le dria\nsepusieron pretender que entregando A ouierō\n103 103 Conde don alonso no tubiera obligacion de\n136 But tus amigos supo probir que no estaua el\n133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 148 149 146 147 148 149 148 149 149 148 149 149 148 149 148 149\nyudo (pero bistuuendose a su hijo Don Antonio de 6\npues de A muerto no corrieramamisma A razon por\nsin oada El o su frei commisso formado. y la de la\n153 ¶ adbi. Çe num bos jure no processo quando uy. D. anot.\nueridad de Cassio o de Daron ut traditribis guni\n61 a dero que la dimanda de los Marguerizeres\nlimitada al ojo de lo, y que por tanto no se puebe / 122 84 86 87 88 89 90 91 92 93 94 95 96 97 100 101 102 103 10\nconocedor del os, y der commisso por Ja ta de reparacion 139\nsine que non por vest cadere sententa. l.48 hor\ntem yudíbium assi de dauros infecto. quisosebes\n112 100 101 102 103 104 105 106 107 108 109 106 111 112 113 114 115 116 117 118\nliber cum Somiligo. es necesario anfils pronuncias. Su melomuien\nque el predimiento de Loo Bermando – Lesiemas en Daran de lo suyo y la da\nMarquier don Pedzopimientel\nço de auer Lofs Juno por su y muerte de Lofs conve\nobdouio conforme al preruglegio De Los Juzg\ndas y fue con dios dellos conor ses 131 ¶ cumplimiento de pie = ¶ Claramente contrar por la Conklision deazar = costar duro\ndemanda en – constituro – manda que el ojo humano pis\nCampanera. 138 ¶ en esce por esprueuilegio de sfo. juristas\nmande Remedian A daño y agrauios que\na mi partor en averamortido el\nde Four pleitегis con que se le quito su rō - 113 123 124 125 126 127 128 129 129a 128b 129c 128 129 127 128\n136 ¶ que se portara la iglesia de gijon. ¶ que se pomerara la iglesia de gijon. ¶ que se pomerara la iglesia de gijon.\nPadre de mor partes y mance. O. A condes\ncondene a Don julio Lumentes conde de Benue\nserreros que es de lo // Conse dnanonios // Añadeje a los ojos la Conclusion de la // qe se manda\nbuelia astraualia a mis pares.179.35.Obis.262"
+}

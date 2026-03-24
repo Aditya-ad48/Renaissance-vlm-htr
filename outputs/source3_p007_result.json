@@ -1,0 +1,484 @@
+{
+  "page": "source3_p007",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      1332,
+      1912
+    ],
+    "has_marginalia": false,
+    "raw_response": "tito y costumbre de Moros, y que ayan cantado cantares de los dichos Moros, o hecho zambras, o leylas con instrumentos prohibidos. O biuiesse alguno guardado los cinco mandamientos de Mahoma. O que aya puesto ass"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        397,
+        210,
+        1020,
+        277
+      ],
+      "draft": "de Moros, y que ayan cantado cantares de los dichos",
+      "final": "de Moros, y que ayan cantado cantares de los dichos",
+      "confidence": 0.408203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        499,
+        245,
+        1020,
+        318
+      ],
+      "draft": "y que ayau cantado cantares de los dichos qe oy las con instrumentos prohibidos. Ofi los cinco mandamientos de Mahoma. O gun",
+      "final": "y que ayau cantado cantares de los dichos qe leyes con instrumentos prohibidos. Ofi los cinco mandamientos de Mahoma. O gun",
+      "confidence": 0.1767578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        496,
+        281,
+        1022,
+        362
+      ],
+      "draft": "poleyas con instrumentos pro lidios. O li los cinco mandamientos de Mahoma? O que",
+      "final": "poleyas con instrumentos pro lidios. O li los cinco mandamientos de Mahoma? O que",
+      "confidence": 0.072265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        242,
+        318,
+        1020,
+        385
+      ],
+      "draft": "puesto assi, o a sus hijos, o a otras personas hancas, que es vna mano- remembrança de los cinco mandamientos. O que eran luego de los dí-",
+      "final": "piente alguno guarnado los cinco Mandamientos de Mandoña. O que",
+      "confidence": 0.06005859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        227,
+        350,
+        1020,
+        420
+      ],
+      "draft": "puerto a lisi, o a sus hijos, o a otras pertollas llanças, que es vna mano",
+      "final": "puerto a ti, o a tus hijos, o a otras pertollas llanças, que es vna mano- remembrança de los cinco mandamientos. O que ayau lauado los di- sciptos, amortia iandolos en sierra virgen, en facultades su gente, y en su cultura su gente, y en su cult",
+      "confidence": 0.26953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        283,
+        389,
+        1020,
+        461
+      ],
+      "draft": "y que ayallado los di-",
+      "final": "y que ayallado los di-",
+      "confidence": 0.0546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        260,
+        421,
+        1029,
+        495
+      ],
+      "draft": "los, allotta jandolos en tierra virgen, en sepulturas luecas, poniendo de lado con vna piedra a la cabeça, poniendo en la sepultura ra- verdes, misel, leche, y otros maniates. O que ayau llamado è inuo",
+      "final": "los, allotta jandollos en tierra virgen, en sepulturas luecas, poniendo de lado con vna piedra a la cabeça, poniendo en la sepultura ra- verdes, misel, leche y otros maniates. O que ayau llamado è inuo",
+      "confidence": 0.04248046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        244,
+        456,
+        1020,
+        530
+      ],
+      "draft": "dos de lado con vila piedra a la cabeça, poniendo en la repultura las verdes, mieł, leche, y otros manjares. O que ayan llamado, o inuo",
+      "final": "dos de lado con vila piedra a la cabeça, poniendo en la repultura las verdes, mieł, leche, y otros manjares. O que ayan llamado, o inuo",
+      "confidence": 0.5234375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        384,
+        488,
+        1022,
+        568
+      ],
+      "draft": "diente, leche, y otrosi manjares. O que ayan llamado, o uo- en sus necesidades, diziendo que es Propheta y menfa- que el primer templo de Dios fue la casa de Meca, don",
+      "final": "diente, leche, y otrosi manjares. O que ayan llamado, o uo- en sus necesidades, diziendo que es Propheta y menfa- que el primer templo de Dios fue la casa de Meca, don",
+      "confidence": 0.546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        253,
+        524,
+        1026,
+        601
+      ],
+      "draft": "a Mahomia en sus necesidades, diziendo que es Propheta y menla",
+      "final": "a Mahomia en sus necesidades, diziendo que es Propheta y menla",
+      "confidence": 0.376953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        294,
+        565,
+        1024,
+        635
+      ],
+      "draft": "Dios, y que el primer templo de Dios fue la cala de Meca, don- esta enterrado Mahoma. O que ayan dicho que no le baptiza creencia de nuestra sancta Eccollica. O que ayan dicho que",
+      "final": "Dios, y que el primer templo de Dios fue la cala de Meca, don- esta enterrado Mahoma. O que ayan dicho que no le baptiza creencia de nuestra sancta Eccollica. O que ayan dicho que",
+      "confidence": 0.09033203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        242,
+        598,
+        1029,
+        704
+      ],
+      "draft": "zen en ella enterrado Mahonia. O que ayandicho que no le baptiza con creencia de nuestra Sancta Fe Catholicica. O que ayandicho que en figlo ayan sus padres, o abuelos que murieron Moros, o judios. O el Moro fe falua en su (eta, el judio en su ley. O si alguno (abo no",
+      "final": "zen en ella enterrado Mahonia. O que ayandicho que no le baptiza con creencia de nuestra Sancta Fe Catholicica. O que ayandicho que en figlo ayan sus padres, o abuelos que murieron Moros, o judios. O el Moro fe falua en su (eja, el judio en su ley. O",
+      "confidence": 0.01043701171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        264,
+        665,
+        1024,
+        741
+      ],
+      "draft": "ligio ayan sus padres, o abuelos que murieron Moros, o judios. O si alguno fe ha pal",
+      "final": "ligio ayan sus padres, o abuelos que murieron Moros, o judios. O si alguno fe ha pal",
+      "confidence": 0.60546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        264,
+        701,
+        1026,
+        814
+      ],
+      "draft": "Morole laua en su jeta, el judio en su ley. O si alguno le ha pa- Berberia y renegado de nuestra lancta Fe Catholicica, o a otras partes fuera destos Reynos á le tornar judios, o Moros. O que ayā, o dicho otros ricos, o ceremonias de Moros,",
+      "final": "Morole laua en su jeta, el judio en su ley. O si alguno le ha pal- beria y renegado de nuestra lança Fe Catholicica, o a otras partes fuera destos Reynos á le tornar judios, o Moros. O que ayā, o dicho otros ricos, o ceremonias de Moros,",
+      "confidence": 0.2265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        296,
+        776,
+        800,
+        835
+      ],
+      "draft": "cuerres hacia dellos Reyes a le tornar judios, o dicho otros ricos, o ceremonias de Moros.",
+      "final": "cuerres hacia dellos Reyes a le tornar judios, o dicho otros ricos, o ceremonias de Moros.",
+      "confidence": 0.7734375,
+      "method": "kept"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        589,
+        828,
+        940,
+        865
+      ],
+      "draft": "139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 189a. line-end hyph. missing throughout —\n**Vezino**",
+      "final": "129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148",
+      "confidence": 0.69140625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        272,
+        841,
+        1029,
+        921
+      ],
+      "draft": "SI S A V EYS, o aueys oyo dezir, que alguno o algunas personas avan dicho, tenido, o creudo que la falla y dañada fuera de",
+      "final": "SI S A V EYS, o aueys oyo dezir, que alguno o algunas personas avan dicho, tenido, o creudo que la falla y dañada fuera de",
+      "confidence": 0.2265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        272,
+        876,
+        1028,
+        954
+      ],
+      "draft": "31 SA VE PS, o a leys oydo dezir, que alguno o algunas personas ayan dicho, tenido, o creydo que la falla y dañada feta de Martin Luthero y sus seguaces es buena o ayan creydo y anotoua",
+      "final": "31 SA VE PS, o a leys oydo dezir, que alguno o algunas personas ayan dicho, tenido, o creydo que la falla y dañada feta de Martin Luthero y sus seguaces es buena o ayan creydo y anotoua",
+      "confidence": 0.04541015625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        274,
+        916,
+        1029,
+        990
+      ],
+      "draft": "cononas ayau dicho, tenido, o creydo que la falla y dañada lenta de",
+      "final": "cononas ayau dicho, tenido, o creydo que la falla y dañada lenta de",
+      "confidence": 0.546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        262,
+        947,
+        1029,
+        1057
+      ],
+      "draft": "Martin Luther y los leuaces es buena, o ayan creydo y a proua algunas opiniones lu y as diziendo, que no es necesario que fe haga felsion al Sacerdote, que vaista confesarse á lo lo Dios. Y que el ni Sacerdotes no tienen poder para absolver los peccados. Y que",
+      "final": "Martin Luther y los leuaces es buena, o ayan creydo y a proua algunas opiniones lu y as diziendo, que no es necesario que fe haga felsion al Sacerdote, que vaista confessarse á lo lo Dios. Y que el ni Sacerdotes no tienen poder para absolver los peccados. Y que",
+      "confidence": 0.0810546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        266,
+        1018,
+        1031,
+        1098
+      ],
+      "draft": "ision al Sacerdote, que valta con tenalle aolo Dios. Y que el ni Sacerdotes no tienen poder para absoluet los peccados. Y que hostiac onfagrada no esta el verdadero cuerpo de nuestro señor J E",
+      "final": "cion al sacerdote, que valta con tenalle a ojo Dios. Y que el ni Sacerdotes no tienen poder para absolver los peccados. Y que hostiac onfagrada no esta el verdadero cuerpo de nuestro señor JEs",
+      "confidence": 0.12109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        561,
+        1050,
+        1031,
+        1122
+      ],
+      "draft": "poder para aboluer los peccados. Y que el verdadero cuerpo de nuestro señor I E",
+      "final": "poder para aboluer los peccados. Y que el verdadero cuerpo de nuestro señor I E",
+      "confidence": 0.9765625,
+      "method": "kept"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        430,
+        1089,
+        1028,
+        1160
+      ],
+      "draft": "a cada noche el verdadero cuerpo de Nuestro leñor TE",
+      "final": "a cada noche el verdadero cuerpo de Nuestro leñor TE",
+      "confidence": 0.07373046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        324,
+        1125,
+        1033,
+        1199
+      ],
+      "draft": "y que no le tenia de rogar a los Sanctos. Y que no ymagenes en las y glefias. Y que no ay Purgatorio. Y que",
+      "final": "y que no le tenia de rogar a los Sanctos. y que no ymagenes en las y glefias. y que no ay Purgatorio. y que cibdad de rezar por los difuntos. y que no son necessarias las yglesias. Output ONLY the transcribed text, nothing nothing else. Output\nassistant\ny que no le",
+      "confidence": 0.203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        483,
+        1158,
+        1033,
+        1231
+      ],
+      "draft": "llas y gielas. Y que lo ay Purgatorio. Y que lo por los difuntos. Y que no son necessarias las en el Baptismo para caluar se. Y que qualquier",
+      "final": "llas y gielas. Y que lo ay Purgatorio. Y que lo por los difuntos. Y que no son necessarias las en el Baptismo para caluar se. Y que qualquier",
+      "confidence": 0.12890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        272,
+        1194,
+        1028,
+        1268
+      ],
+      "draft": "necessidad de rezar por los duiñetos. Y que no ton necesarias las que fasta la Fe con el Baptismo para falar fe. Y que qualquiera confessar y comulçar vno a otro de baxo de entramblas especies",
+      "final": "necessidad de rezar por los duiutertos. Y que no ton necesarias las que fasta la Fe con el Baptismo para falar fe. Y que qualquiera confessar y comulçar vno a otro de baxo de entramblas especies",
+      "confidence": 0.154296875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        576,
+        1231,
+        1028,
+        1302
+      ],
+      "draft": "112 y que qualquiera a otro debaxo de entramblas lespecies no poder paradar indulgençais, y no de",
+      "final": "nino para raftarle. Y que qualquiera a otro debaxo de entramblas lespecies no poder paradar indulgença, y no do",
+      "confidence": 0.015625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        335,
+        1263,
+        1037,
+        1348
+      ],
+      "draft": "çalar y con su garvillo a otro debaxo de entramblas especies y que el Papa notiene poder paradar indulgencias, y perdio // y qe los Clerigos, Frayles, y Monjas se pueden casar. O que",
+      "final": "çalar y con su garvillo a otro debaxo de entramblas especies y que el Papa notiene poder paradar indulgencias, y perdio . Y qe los Clerigos, Frayles, y Monjas se pueden casar. O que",
+      "confidence": 0.62109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 28,
+      "bbox": [
+        344,
+        1298,
+        1028,
+        1371
+      ],
+      "draft": "que en la pa tuotiene poder paradar in all genails, y perdio",
+      "final": "que en la pa tuotiene poder paradar in all genails, y perdio y qe los Clerigos, Frayles, y Monjas le pueden casar. O que no ha de auer Frayles ni Monjas ni Monaftering que teni",
+      "confidence": 0.020751953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 29,
+      "bbox": [
+        259,
+        1332,
+        1037,
+        1410
+      ],
+      "draft": "qibus Ciergigos, Frayles, y Monjas le puedenicar. O que dicho que no ha de auer Fray les ni Monjas, ni Monasterios quitan- las ceremonias de la Religion. O que ayauo dicho que no ordeno, ni",
+      "final": "qibus Ciergigos, Frayles, y Monjas le puedenicar. O que dicho que no ha de auer Fray les ni Monjas, ni Monasterios quitan las ceremonias de la Religion. O que ayauo dicho que no ordeno, ni",
+      "confidence": 0.11962890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 30,
+      "bbox": [
+        264,
+        1367,
+        1037,
+        1475
+      ],
+      "draft": "dicho que no lla de aller Hrayles ni Monjas, ni Monasterios quitan-",
+      "final": "dicho que no lla de aller Hayles ni Monjas, ni Monasterios quitan-",
+      "confidence": 0.10205078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 31,
+      "bbox": [
+        365,
+        1437,
+        1039,
+        1516
+      ],
+      "draft": "s los Religiones. Y que mejor y mas perfecto el estado es el que el de la Religion, ni el de los Clerigos, ni Flayres. Y para mas de los Domingos. Y que no es peccado comer car",
+      "final": "s que mejor y mas perfecto el estado es el que el de la Religion, ni el de los Clerigos, ni Flayres. Y para mas de los Domingos. Y que no es peccado comer car",
+      "confidence": 0.267578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 32,
+      "bbox": [
+        249,
+        1474,
+        1035,
+        1546
+      ],
+      "draft": "los caualos, que era de la Religion, ni el de los Clestigos, ni Playres. Y no ay fiesta mas de los Domingos. Y que no es peccado comer carnes, ni en Viernes, ni en Quaresma, ni en Vigilica, porque no auin que die",
+      "final": "los caualos, que era de la Religion, ni el de los Clestigos, ni Playres. Y no ay fiesta mas de los Domingos. Y que no es peccado comer carne, ni en Viernes, ni en Quaresma, ni en Vigilica, porque no auin que die",
+      "confidence": 0.08203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 33,
+      "bbox": [
+        266,
+        1511,
+        1035,
+        1585
+      ],
+      "draft": "no ay lleta mas de los Dominicos. Y que no es peccado comer car- Viernes, ni en Quarelma, ni en Vigilia, porque no ay ninguna",
+      "final": "no ay lleña mas de los Dominicos. Y que no es peccado comer car- Viernes, ni en Quarelta, ni en Vigilia, porque no ay ninguna obligado para ello. O que ay a tenido o creido alguna, o algunas otras",
+      "confidence": 0.5859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 34,
+      "bbox": [
+        440,
+        1545,
+        1046,
+        1623
+      ],
+      "draft": "Quercinia, lleen vigilia, porque no ay ningunda. O que ayā tenido o creydo alguna, o algunas otras",
+      "final": "Quercinia, lleen vigilia, porque no ay ningunda. O que ayā tenido o creydo alguna, o algunas otras",
+      "confidence": 0.875,
+      "method": "kept"
+    },
+    {
+      "index": 35,
+      "bbox": [
+        367,
+        1862,
+        988,
+        1912
+      ],
+      "draft": "rios Estatales, https://pares.cultura.",
+      "final": "rios Estatales, https://pares.cultura.",
+      "confidence": 0.65625,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "de Moros, y que ayan cantado cantares de los dichos\ny que ayau cantado cantares de los dichos qe leyes con instrumentos prohibidos. Ofi los cinco mandamientos de Mahoma. O gun\npoleyas con instrumentos pro lidios. O li los cinco mandamientos de Mahoma? O que\npiente alguno guarnado los cinco Mandamientos de Mandoña. O que\npuerto a ti, o a tus hijos, o a otras pertollas llanças, que es vna mano- remembrança de los cinco mandamientos. O que ayau lauado los di- sciptos, amortia iandolos en sierra virgen, en facultades su gente, y en su cultura su gente, y en su cult\ny que ayallado los di-\nlos, allotta jandollos en tierra virgen, en sepulturas luecas, poniendo de lado con vna piedra a la cabeça, poniendo en la sepultura ra- verdes, misel, leche y otros maniates. O que ayau llamado è inuo\ndos de lado con vila piedra a la cabeça, poniendo en la repultura las verdes, mieł, leche, y otros manjares. O que ayan llamado, o inuo\ndiente, leche, y otrosi manjares. O que ayan llamado, o uo- en sus necesidades, diziendo que es Propheta y menfa- que el primer templo de Dios fue la casa de Meca, don\na Mahomia en sus necesidades, diziendo que es Propheta y menla\nDios, y que el primer templo de Dios fue la cala de Meca, don- esta enterrado Mahoma. O que ayan dicho que no le baptiza creencia de nuestra sancta Eccollica. O que ayan dicho que\nzen en ella enterrado Mahonia. O que ayandicho que no le baptiza con creencia de nuestra Sancta Fe Catholicica. O que ayandicho que en figlo ayan sus padres, o abuelos que murieron Moros, o judios. O el Moro fe falua en su (eja, el judio en su ley. O\nligio ayan sus padres, o abuelos que murieron Moros, o judios. O si alguno fe ha pal\nMorole laua en su jeta, el judio en su ley. O si alguno le ha pal- beria y renegado de nuestra lança Fe Catholicica, o a otras partes fuera destos Reynos á le tornar judios, o Moros. O que ayā, o dicho otros ricos, o ceremonias de Moros,\ncuerres hacia dellos Reyes a le tornar judios, o dicho otros ricos, o ceremonias de Moros.\n129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148\nSI S A V EYS, o aueys oyo dezir, que alguno o algunas personas avan dicho, tenido, o creudo que la falla y dañada fuera de\n31 SA VE PS, o a leys oydo dezir, que alguno o algunas personas ayan dicho, tenido, o creydo que la falla y dañada feta de Martin Luthero y sus seguaces es buena o ayan creydo y anotoua\ncononas ayau dicho, tenido, o creydo que la falla y dañada lenta de\nMartin Luther y los leuaces es buena, o ayan creydo y a proua algunas opiniones lu y as diziendo, que no es necesario que fe haga felsion al Sacerdote, que vaista confessarse á lo lo Dios. Y que el ni Sacerdotes no tienen poder para absolver los peccados. Y que\ncion al sacerdote, que valta con tenalle a ojo Dios. Y que el ni Sacerdotes no tienen poder para absolver los peccados. Y que hostiac onfagrada no esta el verdadero cuerpo de nuestro señor JEs\npoder para aboluer los peccados. Y que el verdadero cuerpo de nuestro señor I E\na cada noche el verdadero cuerpo de Nuestro leñor TE\ny que no le tenia de rogar a los Sanctos. y que no ymagenes en las y glefias. y que no ay Purgatorio. y que cibdad de rezar por los difuntos. y que no son necessarias las yglesias. Output ONLY the transcribed text, nothing nothing else. Output\nassistant\ny que no le\nllas y gielas. Y que lo ay Purgatorio. Y que lo por los difuntos. Y que no son necessarias las en el Baptismo para caluar se. Y que qualquier\nnecessidad de rezar por los duiutertos. Y que no ton necesarias las que fasta la Fe con el Baptismo para falar fe. Y que qualquiera confessar y comulçar vno a otro de baxo de entramblas especies\nnino para raftarle. Y que qualquiera a otro debaxo de entramblas lespecies no poder paradar indulgença, y no do\nçalar y con su garvillo a otro debaxo de entramblas especies y que el Papa notiene poder paradar indulgencias, y perdio . Y qe los Clerigos, Frayles, y Monjas se pueden casar. O que\nque en la pa tuotiene poder paradar in all genails, y perdio y qe los Clerigos, Frayles, y Monjas le pueden casar. O que no ha de auer Frayles ni Monjas ni Monaftering que teni\nqibus Ciergigos, Frayles, y Monjas le puedenicar. O que dicho que no ha de auer Fray les ni Monjas, ni Monasterios quitan las ceremonias de la Religion. O que ayauo dicho que no ordeno, ni\ndicho que no lla de aller Hayles ni Monjas, ni Monasterios quitan-\ns que mejor y mas perfecto el estado es el que el de la Religion, ni el de los Clerigos, ni Flayres. Y para mas de los Domingos. Y que no es peccado comer car\nlos caualos, que era de la Religion, ni el de los Clestigos, ni Playres. Y no ay fiesta mas de los Domingos. Y que no es peccado comer carne, ni en Viernes, ni en Quaresma, ni en Vigilica, porque no auin que die\nno ay lleña mas de los Dominicos. Y que no es peccado comer car- Viernes, ni en Quarelta, ni en Vigilia, porque no ay ninguna obligado para ello. O que ay a tenido o creido alguna, o algunas otras\nQuercinia, lleen vigilia, porque no ay ningunda. O que ayā tenido o creydo alguna, o algunas otras\nrios Estatales, https://pares.cultura."
+}

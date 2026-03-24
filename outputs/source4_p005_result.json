@@ -1,0 +1,419 @@
+{
+  "page": "source4_p005",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      2484,
+      1852
+    ],
+    "has_marginalia": false,
+    "raw_response": "152 152 ¶ su ynterno en su propio texto uio, si que quiso en loco publique. Cappixt alley er qe se seguio ¶ propoxi projectos conf. en 153 e esq lo quan oni uos"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        429,
+        120,
+        2328,
+        210
+      ],
+      "draft": "E. Sigureta en su portextum ib. Illeneged",
+      "final": "E. Sigureta en su portextum ib. Ill nequeid",
+      "confidence": 0.0703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        407,
+        178,
+        2314,
+        259
+      ],
+      "draft": "locopublico. Cappus alleg. 123. nr. 3. se quiti.",
+      "final": "locopublico. Cappus alleg. nrō. e se quinu.",
+      "confidence": 0.1669921875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        395,
+        222,
+        2306,
+        300
+      ],
+      "draft": "112 lib. vii. 109 ¶ de primog. c. s. nrō. 48. agotetu en ella avia el ojo Con ai de dobir que no",
+      "final": "119 lib. & 120 bibimittere citat lib. & de primog. c. s. nrō. 48. agotetu en ella avia el ojo Con ai de dobir que no",
+      "confidence": 0.0380859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        400,
+        265,
+        2323,
+        351
+      ],
+      "draft": "131 ¶ pagosse con su 123 nr. 143. E es glos. quam",
+      "final": "131 ¶ le pascetas con su 103 nr. 7. E es glos. quam",
+      "confidence": 0.3046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        456,
+        319,
+        2306,
+        392
+      ],
+      "draft": "96 Seguntur inc. cum a s sedem de c. rehıt 97 Os Juro astra persona. y Esto no lo dixo. Y como lo",
+      "final": "96 So Juro astra persona. y dno lo dixo. Y como lo",
+      "confidence": 0.2734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        485,
+        365,
+        2323,
+        455
+      ],
+      "draft": "es sans probate xind. e. z. Siguritas",
+      "final": "es sans probatex.ind. e. z. Siguritas",
+      "confidence": 0.6484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        456,
+        416,
+        2338,
+        492
+      ],
+      "draft": "a donce avienlo prohibieron que nada sagues, con ellos Juno subie como se qued E x que convinuaria",
+      "final": "a donc avienlo prohiбирieron que nada sagues, con ellos Juno subie como se qued E x que convinuaria",
+      "confidence": 0.1103515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        451,
+        445,
+        1819,
+        542
+      ],
+      "draft": "adonde aviendo prohibicion que nadie jagule // de tal parte si se halla regada la tierra de vn",
+      "final": "adonde aviendo prohibicion que nadie jaguesçe de tal parte si se halla regada la tierra de vn",
+      "confidence": 0.2001953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        477,
+        496,
+        2331,
+        593
+      ],
+      "draft": "y alçarlti si se hallaua regada a corriente de E",
+      "final": "y al quarto si se hallaua regada acciona de e",
+      "confidence": 0.00787353515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        431,
+        554,
+        2336,
+        683
+      ],
+      "draft": "go que nunca no se pudo encontrar por la forma en que lo escribiera, o no conste, o tenetur a ponem prohibicion, o",
+      "final": "go que nunca no se pudo encontrar por la forma en que se escribió. e tenetur a ponam prohibicion i 100 verbate x. como nin videns factum sabere",
+      "confidence": 0.019775390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        504,
+        641,
+        2316,
+        722
+      ],
+      "draft": "gios a que saberat. Sin nueua Orden lo qual va con el trato precediente =",
+      "final": "gios a que saberat. Sin nueua Orden lo qual va con el trato precediente =",
+      "confidence": 0.2431640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        434,
+        685,
+        2345,
+        780
+      ],
+      "draft": "de Bir que el y Conde Don Antonio suplies de",
+      "final": "de Bir que el y Conde Don Antonio suplies de",
+      "confidence": 0.232421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        373,
+        734,
+        2309,
+        826
+      ],
+      "draft": "132 ¶ de qual todo esto lo obra de por encaubrimiento quisiendo",
+      "final": "Ca se le noti A caua carcerenaje – avia de pagar洛P conde lo demas quier qe",
+      "confidence": 0.0034942626953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        502,
+        780,
+        2214,
+        860
+      ],
+      "draft": "despodos vidas porque antes con esto se ve",
+      "final": "despodos vidas porque antes con esto se ve",
+      "confidence": 0.64453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        373,
+        831,
+        2314,
+        911
+      ],
+      "draft": "y dcamas el so do y su simulacion. todo fue a ferce",
+      "final": "y dica mas el so do y su simulacion. Todo fue a tte",
+      "confidence": 0.0712890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        426,
+        872,
+        2292,
+        955
+      ],
+      "draft": "11 ¶ avien sepues porque el avia de entregar primero el",
+      "final": "11 ¶ avien sepues porque el avia de entregar primero el",
+      "confidence": 0.5390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        604,
+        928,
+        2246,
+        1011
+      ],
+      "draft": "causam iltam manifiestamus E preulegio original de por do Ovidas para que",
+      "final": "causam iltam manifiestamus E preulegio original de por do vidas para que",
+      "confidence": 0.2060546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        468,
+        971,
+        2297,
+        1052
+      ],
+      "draft": "taite a liqier Ulicium pretendiuus, et cum",
+      "final": "taite a al que ll.icitum pretendiuos, u & cum",
+      "confidence": 0.1484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        511,
+        1020,
+        2161,
+        1100
+      ],
+      "draft": "quod pignoris causa aceptum est emisse,",
+      "final": "quod pignoris causa aceptum est emisse,",
+      "confidence": 0.427734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        526,
+        1049,
+        2302,
+        1159
+      ],
+      "draft": "guo dognonx causa aceptum est emisses . & a dnos trax xempr. & vencionen",
+      "final": "guo dognonx causa aceptum est emisses . C. a dnos trax xempi. E vencitore",
+      "confidence": 0.0026397705078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        439,
+        1110,
+        2302,
+        1193
+      ],
+      "draft": "C. plus valere quod agitur, resolut Alciatu &",
+      "final": "C. plus valere quod agitur, resolut Alciatu &",
+      "confidence": 0.11572265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        405,
+        1158,
+        1748,
+        1244
+      ],
+      "draft": "1. cum era a nrō 4. E de transaktionēg, y en Masso",
+      "final": "1. cum era a nrō 4. E de transctioniēg, y en casso",
+      "confidence": 0.15234375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        405,
+        1199,
+        2331,
+        1304
+      ],
+      "draft": "4. ¶ es conangustiumnigo, zeruā Can",
+      "final": "4. ¶ es conangustiumnable, porque Ca",
+      "confidence": 6.628036499023438e-05,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        487,
+        1250,
+        2297,
+        1329
+      ],
+      "draft": "151 151 151 151 151 151 151 151 151 Output\n151 151 151 151 151 151 151 151 151",
+      "final": "151 151 151 151 151 151 151 151 151 Output\n151 151 151 151 151 151 151 151 151",
+      "confidence": 0.95703125,
+      "method": "kept"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        594,
+        1296,
+        2306,
+        1379
+      ],
+      "draft": "juramento doce g lo se ng. en. Lemtione",
+      "final": "juramento doce g lo sing. en. Le monte",
+      "confidence": 0.12890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        443,
+        1328,
+        2304,
+        1433
+      ],
+      "draft": "vimantur iuramento docit gis jong. l. emبورne .enfine. C plus valere quod agitus. Casson - C cum era nueue? la descubriendeste id que o qe",
+      "final": "vimantur iuramento docit gis jong. l. & embone .enfine. & plus valare quod agitus. Casson -",
+      "confidence": 0.0031890869140625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        439,
+        1384,
+        2289,
+        1472
+      ],
+      "draft": "1.80 Or plice osca que no aguada tam, E 1.81 descubriendole id quod 82",
+      "final": "1.80 Orpina la laca que oq.e quier. E 1.81 descubriendole id quod.82",
+      "confidence": 0.228515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        509,
+        1437,
+        2263,
+        1523
+      ],
+      "draft": "como el en el caso presente quedarse el sos",
+      "final": "como es el en el caso presente quedarse el sos",
+      "confidence": 0.0498046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 28,
+      "bbox": [
+        688,
+        1476,
+        2311,
+        1561
+      ],
+      "draft": "casso pazendo que ouo El que se orgiose que no fue la causa con el, & juro subi.do se entenderō",
+      "final": "casso pazendo que ouoje a / Caualdoni. E que se orgiose que no fue la causa con ellos Juro subi.do y entendio // Ca que para evasión se viventa sino que se pus con",
+      "confidence": 0.0220947265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 29,
+      "bbox": [
+        417,
+        1527,
+        2059,
+        1603
+      ],
+      "draft": "Ca sa su supplicacion fue simulada, y cito su tute, y cito su tute, y cito su tute, y cito su tute, y cito su tute, y cito su tute, y cito su tute, y cito su tute, y cito su tute, y cito su supervencion entre",
+      "final": "CaDSA su supplicacion fue simulada y",
+      "confidence": 0.31640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 30,
+      "bbox": [
+        373,
+        1563,
+        1700,
+        1666
+      ],
+      "draft": "que la oja suippacion que simulara // Le convenciamas porque la qe ha suPLICacion no tiene",
+      "final": "le la oja su supplicacion que simulara / Le convenciamas porque la qe ha su supplicacion no tiene",
+      "confidence": 0.10693359375,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "E. Sigureta en su portextum ib. Ill nequeid\nlocopublico. Cappus alleg. nrō. e se quinu.\n119 lib. & 120 bibimittere citat lib. & de primog. c. s. nrō. 48. agotetu en ella avia el ojo Con ai de dobir que no\n131 ¶ le pascetas con su 103 nr. 7. E es glos. quam\n96 So Juro astra persona. y dno lo dixo. Y como lo\nes sans probatex.ind. e. z. Siguritas\na donc avienlo prohiбирieron que nada sagues, con ellos Juno subie como se qued E x que convinuaria\nadonde aviendo prohibicion que nadie jaguesçe de tal parte si se halla regada la tierra de vn\ny al quarto si se hallaua regada acciona de e\ngo que nunca no se pudo encontrar por la forma en que se escribió. e tenetur a ponam prohibicion i 100 verbate x. como nin videns factum sabere\ngios a que saberat. Sin nueua Orden lo qual va con el trato precediente =\nde Bir que el y Conde Don Antonio suplies de\nCa se le noti A caua carcerenaje – avia de pagar洛P conde lo demas quier qe\ndespodos vidas porque antes con esto se ve\ny dica mas el so do y su simulacion. Todo fue a tte\n11 ¶ avien sepues porque el avia de entregar primero el\ncausam iltam manifiestamus E preulegio original de por do vidas para que\ntaite a al que ll.icitum pretendiuos, u & cum\nquod pignoris causa aceptum est emisse,\nguo dognonx causa aceptum est emisses . C. a dnos trax xempi. E vencitore\nC. plus valere quod agitur, resolut Alciatu &\n1. cum era a nrō 4. E de transctioniēg, y en casso\n4. ¶ es conangustiumnable, porque Ca\n151 151 151 151 151 151 151 151 151 Output\n151 151 151 151 151 151 151 151 151\njuramento doce g lo sing. en. Le monte\nvimantur iuramento docit gis jong. l. & embone .enfine. & plus valare quod agitus. Casson -\n1.80 Orpina la laca que oq.e quier. E 1.81 descubriendole id quod.82\ncomo es el en el caso presente quedarse el sos\ncasso pazendo que ouoje a / Caualdoni. E que se orgiose que no fue la causa con ellos Juro subi.do y entendio // Ca que para evasión se viventa sino que se pus con\nCaDSA su supplicacion fue simulada y\nle la oja su supplicacion que simulara / Le convenciamas porque la qe ha su supplicacion no tiene"
+}

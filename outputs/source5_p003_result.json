@@ -1,0 +1,107 @@
+{
+  "page": "source5_p003",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      6300,
+      8400
+    ],
+    "has_marginalia": false,
+    "raw_response": "543 Los personas y bienes, derechos y acciones habladas y por haber, le homiuten a los mismos Derechos Complementel, y al su jurisdiccion, Con reuniacion de todas las leges, derechos y privilegio de su labor, y la"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        2493,
+        55,
+        5799,
+        863
+      ],
+      "draft": "Las gentias y bienes, derechue y acciones hablides Le ymmian a los mismos. Si non Comprehenion, Communication est la key of the field. Output ONLY the transcribed text, nothing else.",
+      "final": "las gentias y bienes, derechue y acciones hablidas, Le ymmian a los mismos de quien Comprehenion, Communicacion y",
+      "confidence": 0.0927734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        2305,
+        441,
+        6234,
+        1954
+      ],
+      "draft": "la faba y la granuel la leon la trrā, la cebada, la trrā, la cebada, la trrā, la cebada, la trrā, la cebada, la trrā, la cebada, la trrā, la cebada, la trrā, the line is missing, words may be split across lines. (Vezino, Trrā, or 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo', 'Leg.mo",
+      "final": "la faba y la granuel la leon la trrā, la cipresso, la trrā, la cipresso, la trrā, la cipresso, la trrā, la cipresso, la trrā, la cipresso, la trrā, la cipresso, la trrā",
+      "confidence": 0.40234375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        2042,
+        1729,
+        6258,
+        3102
+      ],
+      "draft": "honriacion de Miguaspan, / millioles de Deudores / en P / eStille, y por Conimissioino de la tierra",
+      "final": "honriacion de Miguas, / millones de Nobleza y Don / Millones de Magno, y Mil millones de la / magno / criatura, y por Conimissio de la magno / criatura, y por Conimissio de la magno / criatura, y por Conimissio de la magno / criatura, y por Con",
+      "confidence": 0.003387451171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        2723,
+        2885,
+        5980,
+        3299
+      ],
+      "draft": "y Notariz.",
+      "final": "y Notariz.",
+      "confidence": 0.9921875,
+      "method": "kept"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        3445,
+        3230,
+        5373,
+        3668
+      ],
+      "draft": "Juan Francisco Muñizamin",
+      "final": "Juan Francisco Muñizamin",
+      "confidence": 0.33203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        1853,
+        4083,
+        3387,
+        4415
+      ],
+      "draft": "100 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 299 299a 298b 299b 298c 299c 298e 299e 298a 299e 298a 299e 298a 299e 298a 299e 298a 299e 298a 299e 298a 299e 298a 299e 298a 299e 298a 299e 298a 299e 298a 299e 298a 299e 298a 299e 2",
+      "final": "100 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 299",
+      "confidence": 0.267578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        2657,
+        5379,
+        4035,
+        5842
+      ],
+      "draft": "Ignacio de Mrigyren -",
+      "final": "Ignacio de Mrigyren -",
+      "confidence": 0.04833984375,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "las gentias y bienes, derechue y acciones hablidas, Le ymmian a los mismos de quien Comprehenion, Communicacion y\nla faba y la granuel la leon la trrā, la cipresso, la trrā, la cipresso, la trrā, la cipresso, la trrā, la cipresso, la trrā, la cipresso, la trrā, la cipresso, la trrā\nhonriacion de Miguas, / millones de Nobleza y Don / Millones de Magno, y Mil millones de la / magno / criatura, y por Conimissio de la magno / criatura, y por Conimissio de la magno / criatura, y por Conimissio de la magno / criatura, y por Con\ny Notariz.\nJuan Francisco Muñizamin\n100 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 299\nIgnacio de Mrigyren -"
+}

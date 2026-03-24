@@ -1,0 +1,341 @@
+{
+  "page": "source1_p002",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      6300,
+      8400
+    ],
+    "has_marginalia": false,
+    "raw_response": "en la Villa de Jerian, todas guarnxo en su ferida Prouinzia llenidas y & puruadas por uala, Ca sa'so las primeras y distinguidas familias de Pobladores de ella, y Como tales mis Ladres Abullos, y de mas"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        2050,
+        0,
+        5816,
+        822
+      ],
+      "draft": "onta Villa de zerain, todas quanto enterrare ferida Prouincia tenidas y & puradas por auia. E las mas y de la dezendencia de la pis",
+      "final": "onta Villa de zerain, todas quanto enterrare ferida Prouincia tenidas y & puradas por auia. E las mas y de la dezendencia de la pis",
+      "confidence": 0.0021209716796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        1919,
+        342,
+        5709,
+        1035
+      ],
+      "draft": "ferida Lourinza tenidas y Nputadas por ual Casas Solaxigas, y de la dezendencia de las pri",
+      "final": "ferida Lourinza tenidas y Nputadas por ual Casas Solaxigas, y de la dezendencia de las pri",
+      "confidence": 0.035400390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        2518,
+        720,
+        5692,
+        1461
+      ],
+      "draft": "solarigos, y de la currendia de las pie y dinuouidas familias de Pobladores y de la luy mi Ladus Julio, y de mō",
+      "final": "solarigos, y de la currendia de las pie y distuuuidas familias de Pobladores y de la luy mi Ladus Abulos, y de mo",
+      "confidence": 0.0242919921875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        2017,
+        1138,
+        5709,
+        1724
+      ],
+      "draft": "mexar y estrañudella parte. y como talu mis Padres Abuelos, y de ma",
+      "final": "mexar y estrauidularla para / como a ella, y Como talu mis Padres Abuelos, y de ma // y biueriouado qe un memori",
+      "confidence": 0.10546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        1976,
+        1458,
+        5668,
+        1986
+      ],
+      "draft": "della, y Como uia mas a czerendiuue y lo hemor estrado dyn memorii en pazificia (porion de)",
+      "final": "della, y Como uia mas a czerenda, y lo hemos escudodyn memoriz |",
+      "confidence": 0.0020599365234375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        2001,
+        1770,
+        5610,
+        2233
+      ],
+      "draft": "a cendentaudas que nueue // al tpō a erua parte en pazifica poresion de",
+      "final": "a cendentaudas que nueue // al tpō a erua parte en pazifica poresion de",
+      "confidence": 0.0439453125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        1944,
+        1999,
+        5692,
+        2544
+      ],
+      "draft": "altipo a entia patee en paz y free por don oco tales nobles hijo,daloo de sangre Christiano,",
+      "final": "altipo a entia patee en paz y free por don oco tales nobles hijo,daloo de sangre Christiano,",
+      "confidence": 0.0322265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        1968,
+        2327,
+        5709,
+        2938
+      ],
+      "draft": "tales nobles hipotativos e eugonge Enmiua uero. Viefor yano tenido los empleos de ofizio honori ligo, y cumican al par",
+      "final": "talles nobles hipotativos e eangxe Euarxianos. Viefor yano tenido los empleos de officio honori fijo y munican al par",
+      "confidence": 0.0191650390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        1993,
+        2680,
+        5824,
+        3250
+      ],
+      "draft": "Cajor gano leualos con su ficos que en paz y Guerra se comunican a los // (161 libro de Sejori)",
+      "final": "Cajor gano leualos en su ficos que en paz y Guerra se comunican a los // (118 libro de Sejori)",
+      "confidence": 0.01519775390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        1903,
+        3033,
+        5676,
+        3479
+      ],
+      "draft": "y el que comparto qe eran con Caualleros nobles hijo dalgo de sangre y ysmo y qe eran",
+      "final": "y el que comparto qe eran con Caualleros nobles hijo dalgo de sangre y ysmo y qe eran",
+      "confidence": 0.044677734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        1952,
+        3222,
+        5684,
+        3849
+      ],
+      "draft": "con Caualleros nobles hipodalgo del angel y paralelo efectos que me Conuuoan atento este",
+      "final": "con Caualleros nobles hipodalgo del angel y paralelo efectos que me Conuuoan atento este",
+      "confidence": 0.047607421875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        1944,
+        3599,
+        5643,
+        4177
+      ],
+      "draft": "y proximo qe hazex Viafe al Reyno del Pe auia 15 Ziiedad de Girona.",
+      "final": "y proximo qe hazex Viafe al Reyno del Pe auia 15 Ziiedad de Girona",
+      "confidence": 0.036376953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        1985,
+        3911,
+        3978,
+        4357
+      ],
+      "draft": "yprokoito a moroz E la axi y Ziudad de Lima.",
+      "final": "yprokoito a moroz E da lu y Ziudad de Lima.",
+      "confidence": 0.07470703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        2928,
+        4247,
+        5692,
+        4743
+      ],
+      "draft": "pido gruplico se uia mandaxe la informacion que Jo contintiasti duero",
+      "final": "pido gruplico se auia mandaxe la informacion que y concontiosperi idua",
+      "confidence": 0.01953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        1911,
+        4493,
+        5799,
+        4964
+      ],
+      "draft": "e Omgorodis qe raptece venia. Aun me veziua Informacion que Incontinente ofrez",
+      "final": "e Omgoraldos qe graplescs venian. llamar me Nziua Informacion que Incontinente ofrez",
+      "confidence": 0.173828125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        1935,
+        4813,
+        5733,
+        5169
+      ],
+      "draft": "co althenor de este pedimenuo Con Juazion",
+      "final": "co althenor de este pedimenuo Con Juazion",
+      "confidence": 0.8828125,
+      "method": "kept"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        1927,
+        5075,
+        5684,
+        5596
+      ],
+      "draft": "del fiel Sindicico y Midox deerta villa en nom",
+      "final": "del fiel Sindicico y Midox deerta villa en nom",
+      "confidence": 0.041259765625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        1927,
+        5346,
+        5791,
+        5850
+      ],
+      "draft": "bre della su concejo, y recompuliren la partida",
+      "final": "bre de ella y su concepto, y recompuliren la partida lacerada de su vida y de su obra, y componen la partida de su vida y de su obra, y recompuliren la partida de su vida y de su obra, y recompuliren la partida de su vida y de su obra, y recompuliren la partida de su vida",
+      "confidence": 0.3046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        1870,
+        5682,
+        5775,
+        6203
+      ],
+      "draft": "de Bauprimo y Carados que yo Señallare Con",
+      "final": "de Bauprimo y Carados que yo Señallare Con / F. L. I. el hijo de Pauigual",
+      "confidence": 0.353515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        1911,
+        5986,
+        5799,
+        6449
+      ],
+      "draft": "la misma Juracion de los libros de las Parroquias y diestros de los arçobispos dellos –",
+      "final": "la misma Jitazion de los libros de las Parroquias y de los Glosarios que es en la actualidad, la misma Jitazion de los libros de las Parroquias y de los Glosarios que es en la actualidad,",
+      "confidence": 0.046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        1648,
+        6347,
+        5578,
+        6728
+      ],
+      "draft": "le Vn idas dierta uilla Despachandose el",
+      "final": "le Vn idas dierta uilla Despachandose el",
+      "confidence": 0.322265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        1870,
+        6675,
+        5602,
+        7146
+      ],
+      "draft": "enionto nezerarino y echo que era todo seme",
+      "final": "enionto nezerarino y echo que era todo seme",
+      "confidence": 0.9765625,
+      "method": "kept"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        1845,
+        6897,
+        5816,
+        7876
+      ],
+      "draft": "don los traslados que pidiera se gado, y autentica forma Interponiendo vn ue",
+      "final": "den los traslados que pidiera Señado, y autentica forma Interponiendo vn ue",
+      "confidence": 0.0228271484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        1821,
+        7397,
+        4905,
+        7802
+      ],
+      "draft": "authentica forma Interponiendo //",
+      "final": "authentica forma Interponiendo",
+      "confidence": 0.091796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        1763,
+        7659,
+        5742,
+        8114
+      ],
+      "draft": "(Autoridad y Judizial de cetto, median a //",
+      "final": "(Autoridad y Judizial de cetto, median a //",
+      "confidence": 0.047607421875,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "onta Villa de zerain, todas quanto enterrare ferida Prouincia tenidas y & puradas por auia. E las mas y de la dezendencia de la pis\nferida Lourinza tenidas y Nputadas por ual Casas Solaxigas, y de la dezendencia de las pri\nsolarigos, y de la currendia de las pie y distuuuidas familias de Pobladores y de la luy mi Ladus Abulos, y de mo\nmexar y estrauidularla para / como a ella, y Como talu mis Padres Abuelos, y de ma // y biueriouado qe un memori\ndella, y Como uia mas a czerenda, y lo hemos escudodyn memoriz |\na cendentaudas que nueue // al tpō a erua parte en pazifica poresion de\naltipo a entia patee en paz y free por don oco tales nobles hijo,daloo de sangre Christiano,\ntalles nobles hipotativos e eangxe Euarxianos. Viefor yano tenido los empleos de officio honori fijo y munican al par\nCajor gano leualos en su ficos que en paz y Guerra se comunican a los // (118 libro de Sejori)\ny el que comparto qe eran con Caualleros nobles hijo dalgo de sangre y ysmo y qe eran\ncon Caualleros nobles hipodalgo del angel y paralelo efectos que me Conuuoan atento este\ny proximo qe hazex Viafe al Reyno del Pe auia 15 Ziiedad de Girona\nyprokoito a moroz E da lu y Ziudad de Lima.\npido gruplico se auia mandaxe la informacion que y concontiosperi idua\ne Omgoraldos qe graplescs venian. llamar me Nziua Informacion que Incontinente ofrez\nco althenor de este pedimenuo Con Juazion\ndel fiel Sindicico y Midox deerta villa en nom\nbre de ella y su concepto, y recompuliren la partida lacerada de su vida y de su obra, y componen la partida de su vida y de su obra, y recompuliren la partida de su vida y de su obra, y recompuliren la partida de su vida y de su obra, y recompuliren la partida de su vida\nde Bauprimo y Carados que yo Señallare Con / F. L. I. el hijo de Pauigual\nla misma Jitazion de los libros de las Parroquias y de los Glosarios que es en la actualidad, la misma Jitazion de los libros de las Parroquias y de los Glosarios que es en la actualidad,\nle Vn idas dierta uilla Despachandose el\nenionto nezerarino y echo que era todo seme\nden los traslados que pidiera Señado, y autentica forma Interponiendo vn ue\nauthentica forma Interponiendo\n(Autoridad y Judizial de cetto, median a //"
+}

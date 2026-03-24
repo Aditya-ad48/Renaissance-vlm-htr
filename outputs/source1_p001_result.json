@@ -1,0 +1,328 @@
+{
+  "page": "source1_p001",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      6300,
+      8400
+    ],
+    "has_marginalia": false,
+    "raw_response": "124 Annes de Muquiuza nial y vezino de esta Villa Anue Vn pauco Como mas aia Sugar, I dico que Soy hijo, Lexmo de Domingo de Muquiuza y qe Quinto de Sagartecuitta ya Difuntos Haz"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        1123,
+        22,
+        5898,
+        395
+      ],
+      "draft": "1744-1745 11-15 35? Co 24 Rbkrezço a (Vezino",
+      "final": "1744-1761 = . / . - . 1744-1761",
+      "confidence": 0.06103515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        1164,
+        318,
+        5873,
+        1010
+      ],
+      "draft": "informacion de fluiacion hidalguia y lampera de Dagrera,",
+      "final": "informacion de fliuion hidalguia y lampera de Dagrera,",
+      "confidence": 0.02978515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        2050,
+        933,
+        5840,
+        1388
+      ],
+      "draft": "de Muguerioza y saca departidas qe Bravo. Casa",
+      "final": "de Muguerioza y saca departidas qe Bravo Casa",
+      "confidence": 0.10205078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        1008,
+        1220,
+        2346,
+        1617
+      ],
+      "draft": "los y Confragua",
+      "final": "lles y Confragua",
+      "confidence": 0.0419921875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        1960,
+        1523,
+        5980,
+        2134
+      ],
+      "draft": "Nandres de Mugueruza nial y dezino de enta Villa Aue loq passe // Como mu era su cara. y dio que",
+      "final": "Nandres de Mugueruza nial y dezino de enta Villa Aue loq passe // Como mu era su cara. y dio que",
+      "confidence": 0.00164794921875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        1780,
+        1860,
+        6037,
+        2347
+      ],
+      "draft": "Anue Etm pauzco Como mas aia Sugar, y digo que",
+      "final": "Anue Om prauco Como mas a ia Sugar, I digo que cō de Mi. 86",
+      "confidence": 0.041259765625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        1714,
+        2065,
+        6053,
+        2667
+      ],
+      "draft": "Antue Om paucro Como mas auia Sugar, E dio que soy hijo. Le ximo de Domingo de Muguruza y Antuari",
+      "final": "Antue Om paucro Como mas auia Sugar, E dio que soy hijo. Le ximo de Domingo de Muguruza y Antuari",
+      "confidence": 0.04833984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        1780,
+        2393,
+        6062,
+        3036
+      ],
+      "draft": "eL vno. Lezito ni Domino da Miuiira francesa de Darauesouilla y a Difuntur Hazido y procreado // C. - Alaric. Vintero por quart",
+      "final": "eL nçe. Lezito ni Domino da Miuiira francesa de Darauesouilla y a Difuntur. Hazido y procreado // C. M. Vezino por la part",
+      "confidence": 0.0031890869140625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        1763,
+        2828,
+        6062,
+        3266
+      ],
+      "draft": "en el Màximonio Se como de ellos Nieuo por parte",
+      "final": "en el Màximonio Como de ellos Nieuo por parte",
+      "confidence": 0.06005859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        1681,
+        3016,
+        6103,
+        3594
+      ],
+      "draft": "en el Matrimonio de Como de ellos, A lutto por la pa",
+      "final": "en el Matrimonio de Como de ellos, A lutto por la lla",
+      "confidence": 0.00787353515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        1804,
+        3402,
+        5963,
+        3890
+      ],
+      "draft": "uairuzegui su Lemma no dex y por la Materia de",
+      "final": "uairuzegui su Lemma mufex y por la Materia de / 122 Rostro y vestimenta de",
+      "confidence": 0.026611328125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        1706,
+        3689,
+        6062,
+        4275
+      ],
+      "draft": "llaizierolaña la Zumba majek urozeria, Batle de Sagauecouitta y Josepha de La nauegui",
+      "final": "llaizierolaña la Zumba majek urozeria, Batle de Sagauecouitta y Josepha de La naucoui",
+      "confidence": 0.020751953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        1812,
+        4001,
+        5996,
+        4603
+      ],
+      "draft": "uallt. de Cachilecualta y Conierto en",
+      "final": "Batti. de Jafalcdadual y Contra en",
+      "confidence": 0.00653076171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        1812,
+        4362,
+        6053,
+        4899
+      ],
+      "draft": "Villa guener y Lo somor Nobles hijo dalgo de San Pau, y Qe ysla ysla de Moros //",
+      "final": "Villa guener y Lo somor Nobles hijo dalgo de San Pau, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, Output ONLY the transcribed",
+      "confidence": 0.0111083984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        1804,
+        4395,
+        5898,
+        5268
+      ],
+      "draft": "Villa guines y lo como Robles hijo del os de guisago, Cufor sin vaza alguna de Moros y A nueueñador para la Sancta",
+      "final": "Villa guines y lo como Robles hijo del os de guisago que Churuano; Eufor vna vaza alguna de Moros y A nueueñerado para la Sancta",
+      "confidence": 0.01385498046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        1739,
+        4895,
+        6053,
+        5473
+      ],
+      "draft": "que Chustrianos. Oufor sin vaza a alguna diosmoko Judio: Haoger, Peniuenziado por la Sancta lin",
+      "final": "que Christianos. Oufor sin vaza a alguna diosmoko Judios: Haoger, Peniuenziado por la Sancta lin",
+      "confidence": 0.0228271484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        1747,
+        5289,
+        6045,
+        5850
+      ],
+      "draft": "Cautior Glabores, & endudenzzios. prius quisicion ni de otra Sectta Nprouada, y anttes ven",
+      "final": "Cautior Glabor, E en dizenzerio. prouiazion ni de otra Sectta Nprouada, santes Vien",
+      "confidence": 0.00384521484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        1780,
+        5551,
+        5980,
+        6088
+      ],
+      "draft": "quizion Ni la buka Seeda Avpaladain, ypxr. y dezendunues Lexuimos de lo Primaros Poblado Hijo del M. C. P. y. E.",
+      "final": "quizion Ni la buka Seeda & posladiz, ypxr. & dezendunues Lexuimos dilo Primarios Poblado Hijo Del M. C.P. & E",
+      "confidence": 0.00738525390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        1812,
+        5871,
+        5947,
+        6383
+      ],
+      "draft": "xer die sua M.H. Y M.S. Prouinzia de Guipuz",
+      "final": "xer dieua M.H. Y M.S. Prouinzia de Guipuz",
+      "confidence": 0.392578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        1517,
+        6199,
+        6070,
+        6851
+      ],
+      "draft": "80 Coa goroixinios y dependuentes de las Casas Sola / 81 e era ymotto",
+      "final": "90 Coa goroixinarios y dependientes de las Casas Sola / 86 Riera gonette",
+      "confidence": 0.005950927734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        1804,
+        6626,
+        6029,
+        7163
+      ],
+      "draft": "xer ymfonzonas de Muuruza Reyna, suia ynotto a su Cuerpo y cuyier a Cita en",
+      "final": "xer ymfonzonas de Muuruza Reyna, suia ynotto https://www.leg.mo/muuruza reyna, lira en",
+      "confidence": 0.0224609375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        1812,
+        6987,
+        6053,
+        7450
+      ],
+      "draft": "xia enerta Villa de la de Sagartegouetta, Sua en",
+      "final": "xia enerta Villa de la de Sagartegouetta, Sua en",
+      "confidence": 0.050537109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        1796,
+        7249,
+        6300,
+        7819
+      ],
+      "draft": "xia en la Villa de la de Galliaruegici, Sira",
+      "final": "xia en la Villa de la de Galliaruegici, Sira",
+      "confidence": 0.0311279296875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        1747,
+        7692,
+        6053,
+        8196
+      ],
+      "draft": "en la Villa de Beroara y de la de Cauuetegui villa",
+      "final": "en la Villa de Beroara y de la de Cauuetegui villa",
+      "confidence": 0.1748046875,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "1744-1761 = . / . - . 1744-1761\ninformacion de fliuion hidalguia y lampera de Dagrera,\nde Muguerioza y saca departidas qe Bravo Casa\nlles y Confragua\nNandres de Mugueruza nial y dezino de enta Villa Aue loq passe // Como mu era su cara. y dio que\nAnue Om prauco Como mas a ia Sugar, I digo que cō de Mi. 86\nAntue Om paucro Como mas auia Sugar, E dio que soy hijo. Le ximo de Domingo de Muguruza y Antuari\neL nçe. Lezito ni Domino da Miuiira francesa de Darauesouilla y a Difuntur. Hazido y procreado // C. M. Vezino por la part\nen el Màximonio Como de ellos Nieuo por parte\nen el Matrimonio de Como de ellos, A lutto por la lla\nuairuzegui su Lemma mufex y por la Materia de / 122 Rostro y vestimenta de\nllaizierolaña la Zumba majek urozeria, Batle de Sagauecouitta y Josepha de La naucoui\nBatti. de Jafalcdadual y Contra en\nVilla guener y Lo somor Nobles hijo dalgo de San Pau, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, y la, Output ONLY the transcribed\nVilla guines y lo como Robles hijo del os de guisago que Churuano; Eufor vna vaza alguna de Moros y A nueueñerado para la Sancta\nque Christianos. Oufor sin vaza a alguna diosmoko Judios: Haoger, Peniuenziado por la Sancta lin\nCautior Glabor, E en dizenzerio. prouiazion ni de otra Sectta Nprouada, santes Vien\nquizion Ni la buka Seeda & posladiz, ypxr. & dezendunues Lexuimos dilo Primarios Poblado Hijo Del M. C.P. & E\nxer dieua M.H. Y M.S. Prouinzia de Guipuz\n90 Coa goroixinarios y dependientes de las Casas Sola / 86 Riera gonette\nxer ymfonzonas de Muuruza Reyna, suia ynotto https://www.leg.mo/muuruza reyna, lira en\nxia enerta Villa de la de Sagartegouetta, Sua en\nxia en la Villa de la de Galliaruegici, Sira\nen la Villa de Beroara y de la de Cauuetegui villa"
+}

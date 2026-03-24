@@ -1,0 +1,510 @@
+{
+  "page": "source3_p004",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      1338,
+      1834
+    ],
+    "has_marginalia": false,
+    "raw_response": "118 Con viene A la ver, si laveis, o aveys oyo dezir, que alguna, algunas personas ayan guardado algunos Sabados por honrra, guarda, i observancia de la ley de Moyfen, vitiando en ellos camilas limpias"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        294,
+        199,
+        1129,
+        264
+      ],
+      "draft": "van por pugnit, y castigar: y que de ello le leguia defferuicio a Dios nuāt, Fro Señor, y gran daño, y perjuugio de Religion y Cristiana, e nrō",
+      "final": "van por pugnit, y castigar: y que de ello le leguia defferuicio a Dios nuāt, Fro Señor, y gran daño, y perjuicio de la Religion y Cristiana, e nrō",
+      "confidence": 0.123046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        291,
+        229,
+        1129,
+        303
+      ],
+      "draft": "uan por puguir, y catiglar: y que de ello le leguita del efuicho a Dios nuā, fijo señor, y gran daño, y perjuyzio a la Religion Cristiana, que Nos mandassemos à hiziessemosla dicha inquiscion, y visca general, levar",
+      "final": "uan por puguir, y catiglar: y que de ello le legilia de su fuero a Dios nuā, fijo señor, y gran daño, y perjuizio a la Religion Cristiana, que Nos mandassemos à hiziessemosla dicha inquiscion, y visca general, levar",
+      "confidence": 0.259765625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        296,
+        265,
+        1130,
+        341
+      ],
+      "draft": "ntrio señor, y guardauo, y perjuizio a la Religion Christiana, que Nos mandassemos, é hiziessemos la dicha inquisicion, y visita general, leyer do para ello Editos publicos, y castigando los que le hallassen culpados",
+      "final": "ntrio señor, y guardauo, y perjuizio a la Religion Christiana, que Nos mandassemos, é hiziessemos la dicha inquisicion, y visita general, leyerdo para ello Editos publicos, y castigando los que le hallassen culpados",
+      "confidence": 0.279296875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        294,
+        298,
+        1127,
+        375
+      ],
+      "draft": "Manuascriptos, e hizienlos la dicha inquilicion, y visita general, leyer do para ello Editos publicos, y castigando los que le hallassen culpados, de manera que nuestra fansta E Catholica siempre fuesse en escada, y castigando los que le hallassen culpados, de manera que nuestra fansta E Catholica siempre fuesse en escada,",
+      "final": "Manuascriptos, e hizienlos la dicha inquilicion, y visita general, leyer do para ello Editos publicos, y castigando los que le hallassen culpados, de manera que nuestra fansta E Catholica siempre fuesse en escada, y castigando los que le hallassen culpados, de manera que nuestra fansta E Catholica siempre fuesse en escada,",
+      "confidence": 0.9609375,
+      "method": "kept"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        291,
+        333,
+        1136,
+        414
+      ],
+      "draft": "do para ello Editos publicos, y castigando los que le hallalen culpados, de manera que nuestra sancta Fe Catholica siempre fuesse en falçada, y aumentada. Y nos visto su pedimiento ser tuuio, queriendo proveėt",
+      "final": "do para ello Editos publicos, y castigando los que le hallalen culpados, de manera que nuestra sancta Fe Catholica siempre fuesse en falçada, y aumentada. Y nos visto su pedimiento feriuillo, queriendo proveçet",
+      "confidence": 0.0703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        291,
+        367,
+        1127,
+        445
+      ],
+      "draft": "de manera que nueue la sancta Fe Catholicica siempre fuesse en lalçada, y aumentada. Y nos vilto su pedimiento fer justo, queriendo proveçer cerca dello lo que conviene al seruicio de Dios nuestro señor, Manda",
+      "final": "de manera que nueue la sancta Fe Catholicica siempre fuesse en lalçada, y aumentada. Y nos vilto su pedimiento fer justo, queriendo proveçer cerca dello lo que conviene al seruicio de Dios nuestro señor Manda",
+      "confidence": 0.43359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        296,
+        401,
+        1123,
+        473
+      ],
+      "draft": "augumentada. Y nos vitto lo pedimiento ferjullo, queriendo proveçer cerca dello lo que conviene al servicio de Dios nuestro señor Manda- mos dar, i dimoslo profondo para vna ycedauo de uos con la diestra",
+      "final": "augumentada. Y nos vitto lo pedimiento ferjullo, queriendo proveçer cerca dello lo que conviene al servicio de Dios nuestro señor Manda- mos dar, i dimoslo profondo para vna ycedauo de uos con la diestra",
+      "confidence": 0.03466796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        291,
+        439,
+        1127,
+        513
+      ],
+      "draft": "cerca de no lo que conviene al seruicio de Dios nuestro señor Manda mos dar, i dimos la prensente para vos, y cada vno de vos en la dicha razon, para que liuiieredes, d entendieredes, o viuieredes visto, o oyo dauia",
+      "final": "cerca de no lo que conviene al seruicio de Dios nuestro señor Manda mos dar, i dimos la prensente para vos, y cada vno de vos en la dicha razon, para que si suyieredes, d entendieredes, o viuieredes visto, o oyo dauia",
+      "confidence": 0.11572265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        296,
+        473,
+        1123,
+        547
+      ],
+      "draft": "mos dar, i dimlos la preiente para vos, y cada villo de vos en la dicha razon, para que li lupieredes, o entendieredes, o uvieredes visco, o oyo dezir, que alguna o algunas personas, vivos presentes, o aufentes, o difuntos",
+      "final": "mos dar, i a diillos la preiente para vos, y cada villo de vos en la dicha razon, para que li lupieredes, o entendieredes, o uvieredes visco, o oyo dezir, que alguna o algunas personas, vivos presentes, o aufentes, o difuntos",
+      "confidence": 0.1533203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        292,
+        505,
+        1125,
+        588
+      ],
+      "draft": "para que ni lupieredes, o entendieredes, o uvieredes villo, o oyo dezir, que alguna o algunas perioles, vivos, preentes, daufentes, o difuntos ayan hecho, o dicho, o creado algunas opiniones, o palabras cericas, o formę of split across line. Output ONLY the transcribed text, nothing else.",
+      "final": "para que ni lupieredes, o entendieredes, o uvieredes villo, o oyo dezir, que alguna o algunas perioles, vivos, preentes, daufentes, o difuntos ayan hecho, o dicho, o creado algunas opiniones, o palabras cericas, o formę of split. Output ONLY the transcribed text, nothing else",
+      "confidence": 0.27734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        292,
+        545,
+        1127,
+        618
+      ],
+      "draft": "que alguna o algunas perteneces, vivos, preentes, o auientes, o difuntos ayan hecho, o dicho, o creido algunas opiniones, o palabras ereticas, los (o los chilotes, erroneas, temerarias, 'Vezino', 'Leg.mo', 'dha', 'Vm', 'Leg', 'Leg.mo', 'Vezino', 'Leg.mo', 'Leg.mo', 'Vm'). Output ONLY the transcribed text, nothing else.",
+      "final": "que alguna o algunas perteneces, vivos, preentes, o auientes, o difuntos ayan hecho, o dicho, o creido algunas opiniones, o palabras ereticas, los (o los chilotes, erroneas, temerarias, 'Vezino', 'Leg.mo', 'dha', 'Vm', 'Leg', 'Leg.mo', 'Vezino', 'Leg.mo', 'Leg.mo', 'Vm'). Output ONLY the transcribed text, nothing else.",
+      "confidence": 0.94140625,
+      "method": "kept"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        292,
+        581,
+        1125,
+        651
+      ],
+      "draft": "ayatimecho, o echo, o creido algunas opiniones, o palabras ereticas, solpecholas, erroneas, temerarias, millonantes, escandalolas, o blaf- femia eretical contra Dios nuestro señor, i su santa Fō Catalica i con",
+      "final": "ayatimecho, o echo, o creido algunas opiniones, o palabras ereticas, solpecholas, erroneas, temerarias, millonantes, escandalolas, o blafmia eretical contra Dios nuestro señor. i su santa Fō Catalica i con",
+      "confidence": 0.005950927734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        287,
+        615,
+        1122,
+        688
+      ],
+      "draft": "torpecholias, erroneas, terciarías, milliollantes, etc. en calolias, o blar- femia eretical contra Dios nuestro señor, i su fanta fe Catholica, i contra lo que tiene, predica y enseña nuestra fanta madre yglesia Romanica",
+      "final": "torpecholias, erroneas, terciarías, milliollantes, etc. en calizolias, o blar- femia eretical contra Dios nuestro señor, i su fanta fe Catholica, i contra lo que tiene, predica y enseña nuestra fanta madre yglesia Romanica",
+      "confidence": 0.10888671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        289,
+        652,
+        1122,
+        724
+      ],
+      "draft": "zenilla crética contra Dios nuestro señor, llida fanta fe Catholicca, le con tra lo que tiene, predica, y enseña nueuestra fanta madre y glesia Romana, lo digave y manifiestres ante nos",
+      "final": "zenilla crética contra Dios nuestro señor, llida fanta fe Catholica, le con tra lo que tiene, predica, y enseña nuestra fanta madre y glefia Romana, lo digas y manifiestres ante nos",
+      "confidence": 0.27734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        284,
+        683,
+        676,
+        760
+      ],
+      "draft": "tra lo que tiene, pradica, y embela, lo digays y manifesleys ante nos.",
+      "final": "tra lo que tiene, pradica, y embela, lo digays y manifesleys ante nos.",
+      "confidence": 0.734375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        287,
+        726,
+        1123,
+        891
+      ],
+      "draft": "120 CON VIENE A la ver, ni laveis, ni aeyes oyo dezir, que alguna, o algunas personas ayan guardado algunos Sabados por honra, guarda, i observancia de la ley de Moysen, vitiendole en ellos 16 de Octubre 120",
+      "final": "120 CON VIENE A la ver, ni laveis, ni aeyes oyo dezir, que alguna, o algunas personas ayan guardado algunos Sabados por honra, guarda, i observancia de la ley de Moysen, vitiendole en ellos 16 de Octubre 120",
+      "confidence": 0.06201171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        362,
+        828,
+        1130,
+        898
+      ],
+      "draft": "lia, o algunas personas ay al guardado algunos sabados por non- ra, guarda, i observancia de la ley de Moylen, viliendole en ellos i los linuias i otras ropas mas grandes i de sabdo, guarnindo en la mu",
+      "final": "lia, o algunas personas ay al guardado algunos sabados por non- ra, guarda, i observancia de la ley de Moylen, viliendole en ellos los linuias i otras ropas maiotadas, i de Sabdo, paniendo en la mu",
+      "confidence": 0.03759765625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        289,
+        865,
+        1122,
+        932
+      ],
+      "draft": "20 JAFAZ + ORDEN",
+      "final": "20 JAFAZ + ORDEN",
+      "confidence": 0.0021209716796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        287,
+        899,
+        1122,
+        969
+      ],
+      "draft": "camas limpias, otras ropas mejoradas, y de nieltas, poniendolas en las fas manteles limpias, i echando en las camas lauas limpias por honra del dicho Sabado, no haziendo lumbre ni otra cosa alguna en ello, puncto",
+      "final": "camas limpias, otras ropas mejoradas, y de nieltas, poniendolas en las fas manteles limpias, i echando en las camas lauas limpias por honra del dicho Sabado, no haziendo lumbre ni otra cosa alguna en ello, puncte",
+      "confidence": 0.205078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        291,
+        933,
+        1118,
+        1004
+      ],
+      "draft": "del dicho Sabado, no haziendo lumbre ni otra cosa alguna en ello, guar",
+      "final": "del dicho Sabado, no haziendo lumbre ni otra cosa alguna en ello, guar-",
+      "confidence": 0.7265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        289,
+        969,
+        1122,
+        1039
+      ],
+      "draft": "del dicho Sabado, no haziendo ilumbre ni otra con la alguna en eno, guardandolos desde el Viernes en la tarde. O que ayan purgado, o dellesado la carne que han de comer, e habdola en agua para la deffançar. O que ayan purgado, o dellesado la carne que han de comer, e habdola en agua para la deffançar. O que ayan purgado, o dellesado la carne que han de comer, e habdola en agua para la deffançar.",
+      "final": "del dicho Sabado, no haziendo ilumbre ni otra con la alguna en eno, guardandolos desde el Viernes en la tarde. O que ayan purgado, o dellesado la carne que han de comer, e habdola en agua para la deffançar. O que ayan purgado, o dellesado la carne que han de comer, e habdola en agua para la deffançar. O que ayan purgado, o dellesado la carne que han de comer, e habdola en agua para la deffançar.",
+      "confidence": 0.796875,
+      "method": "kept"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        287,
+        1003,
+        1123,
+        1081
+      ],
+      "draft": "cantando los desde el Vieilles en la tarde. O que ayan plurgado, o de llebado la carne que han de comer, echandola en agua para la defflangar. O que avanfacado la landrezilla de la pierna del carnero, o de otra qualquier",
+      "final": "cantadolos desde el Vieiles en la tarde. O que ayau plurgado, o de llebado la carne que han de comer, echandola en agua para la defflangar. O que avanfacado la landrezilla de la pierna del carnero, o de otra qualquier",
+      "confidence": 0.5703125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        287,
+        1037,
+        1116,
+        1111
+      ],
+      "draft": "la carne que llade colher, e en andolia en agua para la de langraf. O que",
+      "final": "la carne que llade colher, e en andolia en agua para la de langraf. O que ayaufacado la landrezilla de la pierna del carnero, o de otra qualquier ejes. O que ayā degolladores ces paves que han de comer atreussedades, di",
+      "confidence": 0.056396484375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        285,
+        1073,
+        1114,
+        1147
+      ],
+      "draft": "ay amalicado la landerezima de la pietra del camino, o de otra qualquier",
+      "final": "ay amalicado la landerezima de la pietra del camino, o de otra qualquier res. O que ayā de gollado refes, o aves que han de comer attreuffadas, di ziendo ciertas palabras, provando primero el cuchillo en la vna, por vā",
+      "confidence": 0.091796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        287,
+        1109,
+        1125,
+        1186
+      ],
+      "draft": "les. O que aya de gondobieres, o a ves que llan de comer attravenladas, di ziendo ciertas palabras, provando primero el cuchillo en la vna, por ver si tiene mella, cubriendo la sangre con tierra. O que ayan comido carne",
+      "final": "les. O que aya de gondobieres, o a ves que llan de comer attravenladas, di ziendo ciertas palabras, provando primero el cuchillo en la vna, por ver si tiene mella, cubriendo la sangre con tierra. O que ayan comido carne",
+      "confidence": 0.494140625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        287,
+        1145,
+        1120,
+        1220
+      ],
+      "draft": "ziendo ciertas palabras, prouandolo primero el cucullo en la villa, por vers fi tiene mella, cubriendo la langre con tierra. O que ayan comido carne en Ouarenma i en otros dias prohibidos por la sancta Madre. Y glesia fin",
+      "final": "ziendo ciertas palabras, prouandolo primero el cucullo en la villa, por vers fi tiene mella, cubriendo la langre con tierra. O que ayan comido carne en Ouarenma i en otros dias prohibidos por la sancta Madre. Y glesia fin",
+      "confidence": 0.10400390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 26,
+      "bbox": [
+        284,
+        1181,
+        1120,
+        1252
+      ],
+      "draft": "tiene llena, cubriendo la langre con tierra. O que ayuntolido campe en Quarelta, i en otros dias proibidos por la lantra Madie y glefia, fin tener necesidad para ello. O teniuudo diziendo que la podian comer",
+      "final": "tiene llena, cubriendolo la langre con tierra. O que ayuntolido campe en Quarelta, i en otros dias proibidos por la lantra Madie y glefia, fin tener necesidad para ello. O teniuudo diziendo que la podian comer",
+      "confidence": 0.11962890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 27,
+      "bbox": [
+        285,
+        1216,
+        1118,
+        1288
+      ],
+      "draft": "en Quarenilla, i en otros dias probidos por la taña Madre. e glilla, ni tener necesidad para ello. O teniendo o diziendo que la podian comer fin pecado. O que avan avunado el avuno mayor que dizen del perdon",
+      "final": "en Quarenilla, i en otros dias probidos por la taña Madre e glilla, ni tener necesidad para ello. O teniendo o diziendo que la podian comer fin pecado. O que avan avunado el avuno mayor que dizen del perdon",
+      "confidence": 0.30078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 28,
+      "bbox": [
+        280,
+        1250,
+        1120,
+        1324
+      ],
+      "draft": "teniendob diziendo que la podian comer fin pecado. O que ayan ayunado el ayuno mayor que dizen del perdon andando aquel dia descalos. O girezalen oraciones de judicos, i.e. (e.g. keep 'Vezino', 'Leg.mo', 'Vm'). Output ONLY the transcribed text, nothing else.",
+      "final": "teniendob diziendo que la podian comer fin pecado. O que ayan ayunado el ayuno mayor que dizen del perdon andando aquel dia descalos. O girezalen oraciones de judicos, i.e. (e.g. keep 'Vezino', 'Leg.mo', 'Vm'). Output ONLY the transcribed text, nothing else.",
+      "confidence": 0.90234375,
+      "method": "kept"
+    },
+    {
+      "index": 29,
+      "bbox": [
+        285,
+        1286,
+        1116,
+        1356
+      ],
+      "draft": "enpecado. O que ayalan ayudado el ayunto mayor que dizen del perdon, andando aquel dia descalços. O firezalen oraciones de judios, i a la noche se demandasle, por don los uos a los arros, goisando los",
+      "final": "enpecado. O que ayalan ayudado el ayunto mayor que dizen del perdon, andando aquel dia descalços. O firezalen oraciones de judios, i a la noche se demandasle, por don los uos a los arros, goisando los",
+      "confidence": 0.0419921875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 30,
+      "bbox": [
+        278,
+        1320,
+        1120,
+        1392
+      ],
+      "draft": "umbando aquel dia de carços. O lirezalen oraciones de judios, la noche le demandase, perdon los vnos a los otros, poniendo los padres a los hijos la mano sobre la cabeça fin los fantiguas ni dezingado del",
+      "final": "umbando aquel dia de caragos. O le rezallen oraciones de judios, la noche le demandase, perdon los vnos a los otros, poniendo los padres a los hijos la mano sobre la cabeça fin los fantiguar ni dezirgado del",
+      "confidence": 0.04833984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 31,
+      "bbox": [
+        282,
+        1354,
+        1118,
+        1426
+      ],
+      "draft": "la noche le desaimilable, perdon los vnos a los otros, poniendo los padres a los hijos la mano sobre la cabeça fin los fantiguar, ni dezir nada; o diziendo, de Dios y de mi fe y haber dezidora; por lo que dispense la les",
+      "final": "la noche le desmalliale, perdon los vnos a los otros, poniendo los padres a los hijos la mano sobre la cabeça fin los fantiguar, ni dezir nada, o diziendo, de Dios y de mi fe y haber dezidora; por lo que dispuso la les",
+      "confidence": 0.0311279296875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 32,
+      "bbox": [
+        278,
+        1390,
+        1113,
+        1462
+      ],
+      "draft": "padres a los niños la mano sobre la cabeça ni los la tagiguar, ni dezirlada o diziendo, de Dios y de mi leays benderezidos: por lo que dispone la ley de Moufen y sus ceremonias. O si avnassen el aguno de la Reua Ester",
+      "final": "padres a los niños la mano sobre la cabeça ni los la tagiguar, ni dezirlada o diziendo, de Dios y de mi leays benderezidos: por lo que dispone la ley de Moufen y sus ceremonias. O si avnassen el aguno de la Reua Ester",
+      "confidence": 0.07373046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 33,
+      "bbox": [
+        275,
+        1426,
+        1118,
+        1498
+      ],
+      "draft": "O diziendo, de Dios y de un leays bendezidos, por lo que dispatche la ley y de Moyen, y sus ceremonias, O si ayuassen el ayuno de la Reyna Ester qe el ayuno de Rebeaso que llaman del perdimiento de la casa santa, li",
+      "final": "O diziendo, de Dios y de un leays bendezidos, por lo que dispatche la ley y de Moyen, y sus ceremonias, O si ayuassen el ayuno de la Reyna Ester qe el ayuno de Rebeaso que llaman del perdimiento de la casa santa, li",
+      "confidence": 0.123046875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 34,
+      "bbox": [
+        273,
+        1464,
+        1120,
+        1532
+      ],
+      "draft": "de Moyen, y las ceredouinas. O ifayllanen el ayuno de la Reyna Luches d el ayuno de Rebeaso que, llaman del perdimiento de la cała lanta, | o otros ayunos de studios de entreforme, como el Luna e el Juegos, pero",
+      "final": "de Moyen, y las cereidouinas. O ifayllanen el ayuno de la Reyna Luches d el ayuno de Rebeaso que, llaman del perdimiento de la cała lanta, | o otros ayunos de studios de entreforme, como el Luna e el Juegos, pero",
+      "confidence": 0.0220947265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 35,
+      "bbox": [
+        275,
+        1499,
+        1118,
+        1566
+      ],
+      "draft": "y el ayuno de Nebealo que, llamandole perjudimiento de la cata lata, o otros ayunos de judios de entre lemana, como el Lunes, o el Iueves, no = comian lo y los dicho diaz hebbles, no haya folide la çurrilla y ay aquel lu",
+      "final": "y el ayuno de Nebealo que, llamandole peridiamiento de la cata lancia, o otros ayunos de judios de entre lemana, como el Lunes, o el Iueves, no = comian lo y los dicho diaz hashe, nunca folide la çurrilla y ay aquel lu",
+      "confidence": 0.0005035400390625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 36,
+      "bbox": [
+        267,
+        1533,
+        1113,
+        1604
+      ],
+      "draft": "otros ayunos de Julius de entre leuilla, como el Lunes, o el jueves, no = comiendo en los dichos dias, hasta la noche salida la estrella, y en aquel las",
+      "final": "otros ayunos de Julius de entre leuilla, como el Lunes, o el jueves, no = comiendo en los dichos dias, hasta la noche salida la estrella, y en aquel las",
+      "confidence": 0.76953125,
+      "method": "kept"
+    },
+    {
+      "index": 37,
+      "bbox": [
+        275,
+        1582,
+        1114,
+        1638
+      ],
+      "draft": "116 4",
+      "final": "116 y",
+      "confidence": 0.027099609375,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "van por pugnit, y castigar: y que de ello le leguia defferuicio a Dios nuāt, Fro Señor, y gran daño, y perjuicio de la Religion y Cristiana, e nrō\nuan por puguir, y catiglar: y que de ello le legilia de su fuero a Dios nuā, fijo señor, y gran daño, y perjuizio a la Religion Cristiana, que Nos mandassemos à hiziessemosla dicha inquiscion, y visca general, levar\nntrio señor, y guardauo, y perjuizio a la Religion Christiana, que Nos mandassemos, é hiziessemos la dicha inquisicion, y visita general, leyerdo para ello Editos publicos, y castigando los que le hallassen culpados\nManuascriptos, e hizienlos la dicha inquilicion, y visita general, leyer do para ello Editos publicos, y castigando los que le hallassen culpados, de manera que nuestra fansta E Catholica siempre fuesse en escada, y castigando los que le hallassen culpados, de manera que nuestra fansta E Catholica siempre fuesse en escada,\ndo para ello Editos publicos, y castigando los que le hallalen culpados, de manera que nuestra sancta Fe Catholica siempre fuesse en falçada, y aumentada. Y nos visto su pedimiento feriuillo, queriendo proveçet\nde manera que nueue la sancta Fe Catholicica siempre fuesse en lalçada, y aumentada. Y nos vilto su pedimiento fer justo, queriendo proveçer cerca dello lo que conviene al seruicio de Dios nuestro señor Manda\naugumentada. Y nos vitto lo pedimiento ferjullo, queriendo proveçer cerca dello lo que conviene al servicio de Dios nuestro señor Manda- mos dar, i dimoslo profondo para vna ycedauo de uos con la diestra\ncerca de no lo que conviene al seruicio de Dios nuestro señor Manda mos dar, i dimos la prensente para vos, y cada vno de vos en la dicha razon, para que si suyieredes, d entendieredes, o viuieredes visto, o oyo dauia\nmos dar, i a diillos la preiente para vos, y cada villo de vos en la dicha razon, para que li lupieredes, o entendieredes, o uvieredes visco, o oyo dezir, que alguna o algunas personas, vivos presentes, o aufentes, o difuntos\npara que ni lupieredes, o entendieredes, o uvieredes villo, o oyo dezir, que alguna o algunas perioles, vivos, preentes, daufentes, o difuntos ayan hecho, o dicho, o creado algunas opiniones, o palabras cericas, o formę of split. Output ONLY the transcribed text, nothing else\nque alguna o algunas perteneces, vivos, preentes, o auientes, o difuntos ayan hecho, o dicho, o creido algunas opiniones, o palabras ereticas, los (o los chilotes, erroneas, temerarias, 'Vezino', 'Leg.mo', 'dha', 'Vm', 'Leg', 'Leg.mo', 'Vezino', 'Leg.mo', 'Leg.mo', 'Vm'). Output ONLY the transcribed text, nothing else.\nayatimecho, o echo, o creido algunas opiniones, o palabras ereticas, solpecholas, erroneas, temerarias, millonantes, escandalolas, o blafmia eretical contra Dios nuestro señor. i su santa Fō Catalica i con\ntorpecholias, erroneas, terciarías, milliollantes, etc. en calizolias, o blar- femia eretical contra Dios nuestro señor, i su fanta fe Catholica, i contra lo que tiene, predica y enseña nuestra fanta madre yglesia Romanica\nzenilla crética contra Dios nuestro señor, llida fanta fe Catholica, le con tra lo que tiene, predica, y enseña nuestra fanta madre y glefia Romana, lo digas y manifiestres ante nos\ntra lo que tiene, pradica, y embela, lo digays y manifesleys ante nos.\n120 CON VIENE A la ver, ni laveis, ni aeyes oyo dezir, que alguna, o algunas personas ayan guardado algunos Sabados por honra, guarda, i observancia de la ley de Moysen, vitiendole en ellos 16 de Octubre 120\nlia, o algunas personas ay al guardado algunos sabados por non- ra, guarda, i observancia de la ley de Moylen, viliendole en ellos los linuias i otras ropas maiotadas, i de Sabdo, paniendo en la mu\n20 JAFAZ + ORDEN\ncamas limpias, otras ropas mejoradas, y de nieltas, poniendolas en las fas manteles limpias, i echando en las camas lauas limpias por honra del dicho Sabado, no haziendo lumbre ni otra cosa alguna en ello, puncte\ndel dicho Sabado, no haziendo lumbre ni otra cosa alguna en ello, guar-\ndel dicho Sabado, no haziendo ilumbre ni otra con la alguna en eno, guardandolos desde el Viernes en la tarde. O que ayan purgado, o dellesado la carne que han de comer, e habdola en agua para la deffançar. O que ayan purgado, o dellesado la carne que han de comer, e habdola en agua para la deffançar. O que ayan purgado, o dellesado la carne que han de comer, e habdola en agua para la deffançar.\ncantadolos desde el Vieiles en la tarde. O que ayau plurgado, o de llebado la carne que han de comer, echandola en agua para la defflangar. O que avanfacado la landrezilla de la pierna del carnero, o de otra qualquier\nla carne que llade colher, e en andolia en agua para la de langraf. O que ayaufacado la landrezilla de la pierna del carnero, o de otra qualquier ejes. O que ayā degolladores ces paves que han de comer atreussedades, di\nay amalicado la landerezima de la pietra del camino, o de otra qualquier res. O que ayā de gollado refes, o aves que han de comer attreuffadas, di ziendo ciertas palabras, provando primero el cuchillo en la vna, por vā\nles. O que aya de gondobieres, o a ves que llan de comer attravenladas, di ziendo ciertas palabras, provando primero el cuchillo en la vna, por ver si tiene mella, cubriendo la sangre con tierra. O que ayan comido carne\nziendo ciertas palabras, prouandolo primero el cucullo en la villa, por vers fi tiene mella, cubriendo la langre con tierra. O que ayan comido carne en Ouarenma i en otros dias prohibidos por la sancta Madre. Y glesia fin\ntiene llena, cubriendolo la langre con tierra. O que ayuntolido campe en Quarelta, i en otros dias proibidos por la lantra Madie y glefia, fin tener necesidad para ello. O teniuudo diziendo que la podian comer\nen Quarenilla, i en otros dias probidos por la taña Madre e glilla, ni tener necesidad para ello. O teniendo o diziendo que la podian comer fin pecado. O que avan avunado el avuno mayor que dizen del perdon\nteniendob diziendo que la podian comer fin pecado. O que ayan ayunado el ayuno mayor que dizen del perdon andando aquel dia descalos. O girezalen oraciones de judicos, i.e. (e.g. keep 'Vezino', 'Leg.mo', 'Vm'). Output ONLY the transcribed text, nothing else.\nenpecado. O que ayalan ayudado el ayunto mayor que dizen del perdon, andando aquel dia descalços. O firezalen oraciones de judios, i a la noche se demandasle, por don los uos a los arros, goisando los\numbando aquel dia de caragos. O le rezallen oraciones de judios, la noche le demandase, perdon los vnos a los otros, poniendo los padres a los hijos la mano sobre la cabeça fin los fantiguar ni dezirgado del\nla noche le desmalliale, perdon los vnos a los otros, poniendo los padres a los hijos la mano sobre la cabeça fin los fantiguar, ni dezir nada, o diziendo, de Dios y de mi fe y haber dezidora; por lo que dispuso la les\npadres a los niños la mano sobre la cabeça ni los la tagiguar, ni dezirlada o diziendo, de Dios y de mi leays benderezidos: por lo que dispone la ley de Moufen y sus ceremonias. O si avnassen el aguno de la Reua Ester\nO diziendo, de Dios y de un leays bendezidos, por lo que dispatche la ley y de Moyen, y sus ceremonias, O si ayuassen el ayuno de la Reyna Ester qe el ayuno de Rebeaso que llaman del perdimiento de la casa santa, li\nde Moyen, y las cereidouinas. O ifayllanen el ayuno de la Reyna Luches d el ayuno de Rebeaso que, llaman del perdimiento de la cała lanta, | o otros ayunos de studios de entreforme, como el Luna e el Juegos, pero\ny el ayuno de Nebealo que, llamandole peridiamiento de la cata lancia, o otros ayunos de judios de entre lemana, como el Lunes, o el Iueves, no = comian lo y los dicho diaz hashe, nunca folide la çurrilla y ay aquel lu\notros ayunos de Julius de entre leuilla, como el Lunes, o el jueves, no = comiendo en los dichos dias, hasta la noche salida la estrella, y en aquel las\n116 y"
+}

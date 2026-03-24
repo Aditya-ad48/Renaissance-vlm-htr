@@ -1,0 +1,354 @@
+{
+  "page": "source4_p002",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      2484,
+      1849
+    ],
+    "has_marginalia": false,
+    "raw_response": "31 32 9 libel y corona y patrimoniodad De don nrōguez - laufulta Contanto que por la muerte Del a Don Antonio pimientel su hijo suibada El a Don Pedro pimientel su hermano y que godesellas"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        555,
+        101,
+        2350,
+        208
+      ],
+      "draft": "su patrimonio real De Stormos Reyno, y su clauilla",
+      "final": "su patrimonio real De Stormos Reyno, y su clauilla",
+      "confidence": 0.041259765625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        579,
+        167,
+        2319,
+        255
+      ],
+      "draft": "z clausula",
+      "final": "z clausula",
+      "confidence": 0.75,
+      "method": "kept"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        426,
+        198,
+        2343,
+        301
+      ],
+      "draft": "Z clausula que por la muerte del sō Don Antonio pimentel",
+      "final": "Z clausula que por la muerte del obispo Don Antonio pimentel",
+      "confidence": 0.2392578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        429,
+        244,
+        2316,
+        344
+      ],
+      "draft": "que por la muerte Del don Antonio pimentel subceda El don Pedro pimentel su hermano",
+      "final": "que por la muerte Del dso Don Antonio pimentel subceda El dso Don Pedro pimentel su hermano",
+      "confidence": 0.7109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        400,
+        293,
+        2323,
+        393
+      ],
+      "draft": "so sucedida el 156 Don Pedro pimentel su hermano gobedellos por todos los dia de su vida por VIRTUD",
+      "final": "so sucedida el 156 Don Pedro pimentel su hermano gobedellos por todos los dia de su vida por VIRTUD",
+      "confidence": 0.1708984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        523,
+        341,
+        2350,
+        439
+      ],
+      "draft": "los portadores los dias de su vida por virtud que le a ves de dar sin sacar otro ninguno",
+      "final": "los portadores los dias de su vida por virtud que le a ves de dar sin sacar otro ninguno",
+      "confidence": 0.255859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        380,
+        390,
+        2365,
+        628
+      ],
+      "draft": "Del Campo a 24 dia de septiembre de 1552 aqł. y ay ymoxinatoriation por donde contra aqier recudo Ser Dophi. y felipe olitien en nombre del Abispe de Barca, 142 soño de su Magez, dos gaspar barrineu thesoro //",
+      "final": "Del Campo a 24 dia de septiembre de 1552 aqł. y ay ymoxinatoriation por donde contra aqier recudo So dophi. y felipe olitien en nombre del Abispe de Barca, soñor de su Magez. dos Gaspar barrineu thesoro",
+      "confidence": 0.00154876708984375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        555,
+        577,
+        2336,
+        674
+      ],
+      "draft": "alguna despues de los dias de la vida de",
+      "final": "alguna despues de los dias de la vida de",
+      "confidence": 0.86328125,
+      "method": "kept"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        383,
+        630,
+        2311,
+        713
+      ],
+      "draft": "los a perona alguna despues de los dias de la vida de",
+      "final": "los a perona alguna despues de los dias de la vida de",
+      "confidence": 0.375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        375,
+        666,
+        2316,
+        767
+      ],
+      "draft": "pimientos, y despues del Don Pedro su Su manso",
+      "final": "pimientos, y despues del Don Pedro su Su manso",
+      "confidence": 0.33203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        409,
+        725,
+        2292,
+        810
+      ],
+      "draft": "y despues del Don Pedro ja Sarman",
+      "final": "y despues del Don Pedro ja Sarman",
+      "confidence": 0.2001953125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        409,
+        773,
+        2292,
+        854
+      ],
+      "draft": "puedan reuñagā ni vender, ni en agena ni estraça / supernova de gune - 151 De 1552 año que es A mismo dia que el op Gaspar ba",
+      "final": "puedan reuñagā ni vender, ni en agena ni estraça / por persona de gune / De 1552 año que es A mismo dia que el op Gaspar bia",
+      "confidence": 0.0301513671875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        606,
+        817,
+        2306,
+        907
+      ],
+      "draft": "Clausula",
+      "final": "Clausula",
+      "confidence": 1.0,
+      "method": "kept"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        414,
+        865,
+        2316,
+        956
+      ],
+      "draft": "que nos uilos Reyes que despues de nos subcedieren",
+      "final": "que nos uilos Reyes que despues de nos subcedieren",
+      "confidence": 0.78125,
+      "method": "kept"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        557,
+        916,
+        2323,
+        1007
+      ],
+      "draft": "Reynot no podamos ni puedan mandar // Ohos dos quinot avasan de ait. como paresçe por dos pre",
+      "final": "Reynot no podamos ni puedan mandar // Ojos dos quinot avasan de a14. como paresce por doos pre",
+      "confidence": 0.1533203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        373,
+        953,
+        2326,
+        1048
+      ],
+      "draft": "estos nueuos no le yno, no podamos no puedan mandar",
+      "final": "estos nueuos no le yno podramos mandar",
+      "confidence": 0.1591796875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        414,
+        1004,
+        2340,
+        1140
+      ],
+      "draft": "que sean saluos para los incorporar con nueuza y patrimonio Real",
+      "final": "que sean saluos para los incorporar con nueuza y patrimonio Real",
+      "confidence": 0.043212890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 17,
+      "bbox": [
+        502,
+        1098,
+        2340,
+        1228
+      ],
+      "draft": "deste privilegio a. d. 484 de a gosto. de 1523. as que touiendo y posseyendo el Conde",
+      "final": "deste privilegio a. d. 48 de a gosto. de 1523. a qe que conuiendo y posseyendo el Conde",
+      "confidence": 0.0262451171875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 18,
+      "bbox": [
+        388,
+        1178,
+        2355,
+        1288
+      ],
+      "draft": "supone que touiendo y posseyendo EloS Conde antouio el privilegio de los juzgode dos quierōs de a cabo se situo sobre los mismos ventas en que quais",
+      "final": "se supone que tobiendo y posseyendo el los Conde antouio el privilegio de los juez de dos vidas o / 121 ¶ por la elacion dellos parescs que el los preuilegio de dos quenofs de a cabo se situo sobre los mismos ventas en que quais",
+      "confidence": 0.09033203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 19,
+      "bbox": [
+        443,
+        1237,
+        2353,
+        1322
+      ],
+      "draft": "unid El privilegio de los suy espieros oibdys y",
+      "final": "unid El privilegio de los suy o espieros oibdys y",
+      "confidence": 0.02978515625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 20,
+      "bbox": [
+        380,
+        1285,
+        1974,
+        1378
+      ],
+      "draft": "14. y sabole perpetuo Salta que se redimiese trafo",
+      "final": "14. y saboleperpetuo Salta que se redimiesse trayo",
+      "confidence": 0.2080078125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 21,
+      "bbox": [
+        465,
+        1324,
+        2447,
+        1419
+      ],
+      "draft": "sabalele perpetuo Salta que se redimiese traio y presentaba Untio de paz dos viscos y presentaba Untio de juro de paz dos viscos",
+      "final": "sabalele perpetuo Salta que se redimiese traio y presentaba El Conde Don Juan vn testimonio en que estan",
+      "confidence": 0.037109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 22,
+      "bbox": [
+        414,
+        1375,
+        2343,
+        1514
+      ],
+      "draft": "reformen a los de bacer que pagando sobre los 16. gq., que corio por las o dias o vencedor otros dos, se le diese privilegio qe los mismos desquensas",
+      "final": "reformen a los de bacer que pagando sobre los 16. gō, que corio por las o dias o veder otros díezses. se le diese privilegio qe los mismos desquensas",
+      "confidence": 0.0546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 23,
+      "bbox": [
+        516,
+        1470,
+        2348,
+        1562
+      ],
+      "draft": "46 60 Antonio que dentro de tres dias reciuia De Alfonso,",
+      "final": "46 60 Antonio que dentro de tres dias reciua De Alfonso, es",
+      "confidence": 0.2197265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 24,
+      "bbox": [
+        400,
+        1518,
+        2323,
+        1606
+      ],
+      "draft": "clauilas vino en ello, que si lo escribiera no es",
+      "final": "91 clauilas vino en ello, que si lo escribiera no es",
+      "confidence": 0.55859375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 25,
+      "bbox": [
+        502,
+        1564,
+        2350,
+        1657
+      ],
+      "draft": "los vino en ellos, que joro establebremis es",
+      "final": "los vino en ello, que joro establenles es lo su hera. l. merito. Ur. Siguir a Principe",
+      "confidence": 0.00154876708984375,
+      "method": "vlm_corrected"
+    }
+  ],
+  "text": "su patrimonio real De Stormos Reyno, y su clauilla\nz clausula\nZ clausula que por la muerte del obispo Don Antonio pimentel\nque por la muerte Del dso Don Antonio pimentel subceda El dso Don Pedro pimentel su hermano\nso sucedida el 156 Don Pedro pimentel su hermano gobedellos por todos los dia de su vida por VIRTUD\nlos portadores los dias de su vida por virtud que le a ves de dar sin sacar otro ninguno\nDel Campo a 24 dia de septiembre de 1552 aqł. y ay ymoxinatoriation por donde contra aqier recudo So dophi. y felipe olitien en nombre del Abispe de Barca, soñor de su Magez. dos Gaspar barrineu thesoro\nalguna despues de los dias de la vida de\nlos a perona alguna despues de los dias de la vida de\npimientos, y despues del Don Pedro su Su manso\ny despues del Don Pedro ja Sarman\npuedan reuñagā ni vender, ni en agena ni estraça / por persona de gune / De 1552 año que es A mismo dia que el op Gaspar bia\nClausula\nque nos uilos Reyes que despues de nos subcedieren\nReynot no podamos ni puedan mandar // Ojos dos quinot avasan de a14. como paresce por doos pre\nestos nueuos no le yno podramos mandar\nque sean saluos para los incorporar con nueuza y patrimonio Real\ndeste privilegio a. d. 48 de a gosto. de 1523. a qe que conuiendo y posseyendo el Conde\nse supone que tobiendo y posseyendo el los Conde antouio el privilegio de los juez de dos vidas o / 121 ¶ por la elacion dellos parescs que el los preuilegio de dos quenofs de a cabo se situo sobre los mismos ventas en que quais\nunid El privilegio de los suy o espieros oibdys y\n14. y saboleperpetuo Salta que se redimiesse trayo\nsabalele perpetuo Salta que se redimiese traio y presentaba El Conde Don Juan vn testimonio en que estan\nreformen a los de bacer que pagando sobre los 16. gō, que corio por las o dias o veder otros díezses. se le diese privilegio qe los mismos desquensas\n46 60 Antonio que dentro de tres dias reciua De Alfonso, es\n91 clauilas vino en ello, que si lo escribiera no es\nlos vino en ello, que joro establenles es lo su hera. l. merito. Ur. Siguir a Principe"
+}

@@ -1,0 +1,237 @@
+{
+  "page": "source3_p011",
+  "layout": {
+    "bbox": [
+      0,
+      0,
+      1330,
+      1906
+    ],
+    "has_marginalia": false,
+    "raw_response": "en qualchier manera, con apercencimiento que vos hazemos, que passlo el dicho termino, no doble termina (e oídos, 'Vezino', 'Leg.mo', 'dha', 'Vm'). Output ONLY the transcribed text, nothing else. Output (e"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "bbox": [
+        343,
+        213,
+        1022,
+        281
+      ],
+      "draft": "manejā, con apercēvimiento que vos hazemos, que palla- termino lo (uolo dicho no cumpliendo. y demas que auies in-",
+      "final": "manejafā, con apercëvimiento que vos hazemos, que palla- termino lo (uolo dicho no cumpliendo. y demas que auies in-",
+      "confidence": 0.2431640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 1,
+      "bbox": [
+        322,
+        241,
+        1024,
+        318
+      ],
+      "draft": "er manera, con apercévimiento que vos hazemos, que pāñazino lo termino, lo fuso dicho no cumpliendo,) demas que avéis in-",
+      "final": "en la manera, con apercévimiento que vos hazemos, que pāñazino (o termino, lo fuso dicho no cumpliendo,) demas que avéis in-",
+      "confidence": 0.392578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        277,
+        278,
+        1031,
+        354
+      ],
+      "draft": "meno termino, lo juro dicho no cumpliendo,) de mas que a vos in-",
+      "final": "en ello termino, lo fijo dicho no cumpliendo, y demas que a vos in-",
+      "confidence": 0.53125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        452,
+        315,
+        1026,
+        387
+      ],
+      "draft": "chas i, cemturas, ) procederemos contra los que fueredes, como contra personas que maliciola- en las dichas cosas i (iennent mal de las cosas de nue",
+      "final": "cenas i, cemturas, ) procederemos contra los que fueredes, como contra personas que maliciola- en las dichas cosas i (iennent mal de las cosas de nue",
+      "confidence": 0.3203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        272,
+        345,
+        1031,
+        417
+      ],
+      "draft": "ge inobedientes fueredes, como contra personas que maliciola- callan, i encubren las dichas cosas, i tienten mal de las cosas de nue",
+      "final": "ge inobedientes fueredes, como contra personas que maliciola- callan, i encubren las dichas cosas, i tienten mal de las cosas de nue",
+      "confidence": 0.91796875,
+      "method": "kept"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        238,
+        384,
+        1026,
+        456
+      ],
+      "draft": "ente caual, reencubren las dichas colas, y reiiten final de las colas de lue",
+      "final": "ente caual, reencubren las dichas colas, i rei ten final de las colas de lue",
+      "confidence": 0.1943359375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        257,
+        418,
+        1027,
+        492
+      ],
+      "draft": "santa Fe Catholica, & cemillas de la yglesia. Y por quanto la aboli ti del crimen, ide lito de la erigia, no se lta especialmente referuada, damos, i proiximos (soladicha peña) a todos i qualquier Con",
+      "final": "santa Fe Catholica, & cemillas de la yglesia. Y por quanto la aboli ti del crimen, ide lito de la erigia, no se lta especialmente referuada, damos, i proximos (soladicha peña) a todos i qualquier Con",
+      "confidence": 0.404296875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        348,
+        453,
+        1031,
+        525
+      ],
+      "draft": "dien, fue fijo de la iglesia, no se la especialmente referituada, i provinimos (foladicha pena) a todos i qual efrier Con- trigos. Religiosos que no absuelian a persone, alguna guis",
+      "final": "dien, fue fijo de la iglesia, no se la especialmente referituada, i provinimos (foladicha pena) a todos i qual efrier Con- trigos. Religiosos que no absuelian a persone, alguna guis",
+      "confidence": 0.0712890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        199,
+        483,
+        1046,
+        611
+      ],
+      "draft": "mandamos, i proavimos (lo la dicha pena) a todos, i qualquier Consejores, Clerigos, o Religiosos, que no abueluan a persona alguna que cerca de lo lusodicho este culpada, o no uire dicho nomanifestado en el Santo Officio, lo que dello luire, o ouiire oido dezir, antes la remita",
+      "final": "mandamos, i proavimos (lo la dicha pena) a todos, i qualquier Consejores, Clerigos, o Religiosos, que no abueluan a persona alguna que cerca de lo lusodicho este culpada, o no uire dicho nomanifestado en el Santo Officio, lo que dello lupiere, o ouiire o",
+      "confidence": 0.140625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        274,
+        559,
+        1024,
+        627
+      ],
+      "draft": "me lo tu modicho no te culpa, o no uviere dicho o manifiestado en el",
+      "final": "me lo tu modicho no te culpada, o no uviere dicho o manifiestado en el",
+      "confidence": 0.578125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        350,
+        594,
+        1027,
+        672
+      ],
+      "draft": "lo que de no lупiere, o ouiere oido dezir, antes la femita qe la vida, i averiguada la verdad, los malos lean castiga- nos, i fieles Cristianos, conocidos, i honrados, y vuestra",
+      "final": "lo que de no lупiere, o ouiere oido dezir, antes la femita qe la vida, i averiguada la verdad, los malos lean castiga- nos, i fieles Cristianos, conocidos, i honrados, vnu estra",
+      "confidence": 0.640625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        300,
+        634,
+        1027,
+        704
+      ],
+      "draft": "para que riveda, y averiguada la verdad, los malos lean calliga- buenos, i fieles Cristianos, conoscidos, i honrrados, y nuestra",
+      "final": "para que riveda, y averiguada la verdad, los malos lean calliga- buenos, i fieles Cristianos, conoscidos, i honrrados, y nuestra",
+      "confidence": 0.546875,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        199,
+        665,
+        1024,
+        741
+      ],
+      "draft": "dos, P los buenos, P leles Cristianos, collocados, P honrados, y nueutra Santa Fe Catholica aumentada, i en falçada. Y para que lo luso dicho venga a notícia de todos y dello ninguno pueda pretender ignorancia, fe",
+      "final": "dos, P los buenos, P leles Cristianos, collocados, P honrados, y nueutra Santa Fe Catholica aumentada, i en falçada. Y para que lo luso dicho venga a notícia de todos y dello ninguno pueda pretender ignorancia, fe",
+      "confidence": 0.12890625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        287,
+        701,
+        1027,
+        775
+      ],
+      "draft": "de Catoñea aumentada, l’emalçada. Y para que lo fijo dicho",
+      "final": "de Catoñea aumentada, l’emplalçada. Y para que lo fijo dicho",
+      "confidence": 0.62109375,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        246,
+        741,
+        1098,
+        884
+      ],
+      "draft": "a noticia de todos, del todo puede pretender morancia, e publicar oy llll Domingo a nçenyry y or. Septiembre doni de Miserçario de aqella epxorer por edad la prme 103. El",
+      "final": "a noticia de todos, del todo puede pretender morancia, e publicar oy llll Domingo a nçenyry y or September doni de Miserçario de alar 103",
+      "confidence": 0.0023345947265625,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 15,
+      "bbox": [
+        223,
+        842,
+        1191,
+        948
+      ],
+      "draft": "licen Calderon - / Cunueldge. O. L. E. Marques",
+      "final": "licen Calderon - / Cunueldge. O. L. E. Marques",
+      "confidence": 0.09033203125,
+      "method": "vlm_corrected"
+    },
+    {
+      "index": 16,
+      "bbox": [
+        424,
+        1075,
+        724,
+        1152
+      ],
+      "draft": "Y Norman",
+      "final": "Y Norman",
+      "confidence": 1.0,
+      "method": "kept"
+    }
+  ],
+  "text": "manejafā, con apercëvimiento que vos hazemos, que palla- termino lo (uolo dicho no cumpliendo. y demas que auies in-\nen la manera, con apercévimiento que vos hazemos, que pāñazino (o termino, lo fuso dicho no cumpliendo,) demas que avéis in-\nen ello termino, lo fijo dicho no cumpliendo, y demas que a vos in-\ncenas i, cemturas, ) procederemos contra los que fueredes, como contra personas que maliciola- en las dichas cosas i (iennent mal de las cosas de nue\nge inobedientes fueredes, como contra personas que maliciola- callan, i encubren las dichas cosas, i tienten mal de las cosas de nue\nente caual, reencubren las dichas colas, i rei ten final de las colas de lue\nsanta Fe Catholica, & cemillas de la yglesia. Y por quanto la aboli ti del crimen, ide lito de la erigia, no se lta especialmente referuada, damos, i proximos (soladicha peña) a todos i qualquier Con\ndien, fue fijo de la iglesia, no se la especialmente referituada, i provinimos (foladicha pena) a todos i qual efrier Con- trigos. Religiosos que no absuelian a persone, alguna guis\nmandamos, i proavimos (lo la dicha pena) a todos, i qualquier Consejores, Clerigos, o Religiosos, que no abueluan a persona alguna que cerca de lo lusodicho este culpada, o no uire dicho nomanifestado en el Santo Officio, lo que dello lupiere, o ouiire o\nme lo tu modicho no te culpada, o no uviere dicho o manifiestado en el\nlo que de no lупiere, o ouiere oido dezir, antes la femita qe la vida, i averiguada la verdad, los malos lean castiga- nos, i fieles Cristianos, conocidos, i honrados, vnu estra\npara que riveda, y averiguada la verdad, los malos lean calliga- buenos, i fieles Cristianos, conoscidos, i honrrados, y nuestra\ndos, P los buenos, P leles Cristianos, collocados, P honrados, y nueutra Santa Fe Catholica aumentada, i en falçada. Y para que lo luso dicho venga a notícia de todos y dello ninguno pueda pretender ignorancia, fe\nde Catoñea aumentada, l’emplalçada. Y para que lo fijo dicho\na noticia de todos, del todo puede pretender morancia, e publicar oy llll Domingo a nçenyry y or September doni de Miserçario de alar 103\nlicen Calderon - / Cunueldge. O. L. E. Marques\nY Norman"
+}
