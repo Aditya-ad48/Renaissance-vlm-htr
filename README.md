@@ -95,10 +95,10 @@ The pipeline successfully segments 18th-century text and normalizes archaic spel
 **Stage 3 & 4 Line Cropping & Correction Examples:**
 
 | Line Crop Image | Stage 3 Draft (Confidence) | Stage 4 Final (VLM Corrected) |
-| :--- | :--- | :--- |
-| \<img src="assets/source5\_p001\_crop0000.png" width="300"\> | *Transcription Draft* (1.00) | *Kept (High Confidence)* |
-| \<img src="assets/source5\_p001\_crop0002.png" width="300"\> | *Transcription Draft* (0.49) | *VLM Corrected Output* |
-| \<img src="assets/source5\_p001\_crop009.png" width="300"\> | *Transcription Draft* (0.47) | *VLM Corrected Output* |
+|-----------------|---------------------------|-------------------------------|
+| <img src="assets/source5_p001_crop0000.png" width="300"> | *Transcription Draft* (1.00) | *Kept (High Confidence)* |
+| <img src="assets/source5_p001_crop0002.png" width="300"> | *Transcription Draft* (0.49) | *VLM Corrected Output* |
+| <img src="assets/source5_p001_crop0009.png" width="300"> | *Transcription Draft* (0.47) | *VLM Corrected Output* |
 
 *(Note: Replace "Transcription Draft" and "VLM Corrected Output" with the actual text your model produced for these specific images).*
 
