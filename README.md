@@ -17,7 +17,7 @@ This repository contains a complete 4-stage HTR pipeline for 17th–18th century
 
 | Source | CER (↓) | WER (↓) | BERTScore F1 (↑) |
 |--------|---------|---------|-----------------|
-| source1 | 63.2% | 78.3% | 75.1% |
+| source1 | 104.86% | 145.3% | 70.2% |
 | source2 | 68.4% | 85.6% | 75.4% |
 | source3 | 28.6% | 64.6% | 78.5% |
 | source4 | 86.5% | 113.5% | 71.6% |
@@ -25,6 +25,11 @@ This repository contains a complete 4-stage HTR pipeline for 17th–18th century
 | **Aggregate** | **63.2%** | **93.9%** | **75.1%** |
 
 *Note: Sources 3 and 5 achieved near-expert transcription (CER ~28%, BERTScore >79%).*
+
+> 📄 **Official Evaluation Reports & Logs:** The complete, detailed proof of execution is available in the **`docs/`** folder of this repository. This includes:
+> * `evaluate.pdf`: Full metric breakdown across all 5 sources confirming the aggregate scores above.
+> * `pipeline.pdf`: The complete terminal execution logs proving the full 35-page inference batch.
+> * `renaissance-ocr-finetuning.pdf`: The Kaggle training logs and adapter configuration.
 
 ---
 
@@ -91,11 +96,11 @@ The pipeline successfully segments 18th-century text and normalizes archaic spel
 
 | Line Crop Image | Stage 3 Draft (Confidence) | Stage 4 Final (VLM Corrected) |
 | :--- | :--- | :--- |
-| \<img src="assets/source5_p001_crop0000.png" width="300"\> | *Example draft 1* (1.00) | *Kept (High Confidence)* |
-| \<img src="assets/source5_p001_crop0002.png" width="300"\> | *Example draft 2* (0.49) | *VLM Corrected Output* |
-| \<img src="assets/source5_p001_crop009.png" width="300"\> | *Example draft 3* (0.47) | *VLM Corrected Output* |
+| \<img src="assets/source5\_p001\_crop0000.png" width="300"\> | *Transcription Draft* (1.00) | *Kept (High Confidence)* |
+| \<img src="assets/source5\_p001\_crop0002.png" width="300"\> | *Transcription Draft* (0.49) | *VLM Corrected Output* |
+| \<img src="assets/source5\_p001\_crop009.png" width="300"\> | *Transcription Draft* (0.47) | *VLM Corrected Output* |
 
-*(Note: Full resolution crops and bounding box pages are available in the dataset link below).*
+*(Note: Replace "Transcription Draft" and "VLM Corrected Output" with the actual text your model produced for these specific images).*
 
 -----
 
@@ -159,9 +164,12 @@ pip install transformers>=4.45.0 peft>=0.12.0 bitsandbytes>=0.43.0 \
 
 ## Citation & Acknowledgements
 
-
   - [Rodrigo corpus](https://zenodo.org/record/1490009)
   - [Qwen2-VL](https://huggingface.io/Qwen/Qwen2-VL-2B-Instruct)
   - [DocTR](https://github.com/mindee/doctr)
   - RenAIssance mentors and dataset providers
-------
+
+
+
+```
+```
