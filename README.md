@@ -61,9 +61,17 @@ This final architecture was not built overnight. Over the past few weeks, severa
 ![Horizontal Projection Baseline](assets/projection_failure.jpg)
 *Baseline test (`projection_baseline.py`): The projection profile fails to cleanly separate lines because the sweeping loops of letters like 'y', 'g', and 'f' physically intersect with the lines below them.*
 
-**Attempt 3: The 4-Stage VLM Pipeline (Final Approach)**
-* *Hypothesis:* We need a neural document detector (DocTR) to handle overlapping lines, and a Vision-Language Model to handle the complex reasoning of historical transcription and self-correction. 
-* *Result:* Success. Handled overlapping lines and achieved >75% semantic accuracy.
+**Attempt 3: Domain-Specific Fine-Tuning (GT Adaptation)**
+* *Hypothesis:* Fine-tuning the Qwen model specifically on the 127 Ground Truth lines from the 5 RenAIssance sources will improve accuracy.
+* *Result:* Discarded to prevent evaluation bias. Automatic line detection (DocTR) yielded ~30 lines per page, while the GT only contained ~25 lines. This discrepancy made 1:1 crop-to-text alignment highly uncertain. The model was instead kept to the general 17th-century Spanish baseline (Rodrigo corpus) to ensure scientific integrity.
+
+**Attempt 4: Text-Only LLM for Stage 4 Correction**
+* *Hypothesis:* A standard text-based LLM (via an external API) can rapidly correct the initial OCR draft.
+* *Result:* Failed to resolve visual ambiguities. A text-only model cannot see the original ink strokes, meaning it merely guesses whether an ambiguous character is a `u` or `v`. 
+
+**Attempt 5: The 4-Stage VLM Pipeline (Final Approach)**
+* *Hypothesis:* We need a neural document detector (DocTR) to handle overlapping lines, and the *same* Vision-Language Model used for transcription must perform self-correction so it can reference the original image crop alongside the draft.
+* *Result:* Success. Handled overlapping lines and achieved >75% semantic accuracy, properly resolving paleographic ambiguities.
 
 ---
 
